@@ -1,0 +1,1001 @@
+City,Livability_Score,Listing_Type,Price,Sq_Ft,Beds,Baths,Estimated_monthly_payment,Crime,Employment,Housing,Schools,User_Ratings,Address_Line_1,Agent_Name,Agent_Company,Airports,Colleges,Military_Bases,Shopping_Centers,Parks_and_Recreation,Utilities,Kitchen_Features,HOA,Parking,Garage,Pool,Laundry,Pets_Allowed,State,Zipcode
+South San Francisco,69,Condo ,749000.0,935.0,1,1,3537,C+,C+,C,D+,C+,1 Mandalay Place Unit 702,Elana Bennett,Coldwell Banker Realty,1,3,2,0,0,3,0,No,Yes,Yes,No,No,No,CA,94080
+South San Francisco,69,House ,1398000.0,1500.0,3,2,6603,C+,C+,C,D+,C+,306 Avalon Drive,Anthony Batshon,Batshon Real Estate Company,1,3,2,2,0,1,2,Yes,No,No,Yes,No,No,CA,94080
+South San Francisco,69,House ,949000.0,800.0,2,1,4482,C+,C+,C,D+,C+,709 W Orange Ave,Daniel Choi,Coldwell Banker Realty,1,3,2,2,0,4,0,No,Yes,Yes,No,No,No,CA,94080
+South San Francisco,69,House ,1805000.0,2000.0,4,3,8525,C+,C+,C,D+,C+,814 Miller Ave,Maryann Ernst,KW Peninsula Estates,1,3,2,2,0,2,2,No,No,No,No,Yes,No,CA,94080
+South San Francisco,69,House ,798000.0,1252.0,2,2,3769,C+,C+,C,D+,C+,45 Appian Way A,Rebecca Molano,Redfin,1,3,2,3,0,2,0,No,No,No,No,Yes,No,CA,94080
+South San Francisco,69,House ,1180000.0,1610.0,3,3,5573,C+,C+,C,D+,C+,10 Moonlight Court,Michael Soon,Compass,1,3,2,3,0,3,1,Yes,Yes,No,Yes,No,No,CA,94080
+South San Francisco,69,House ,1150000.0,1000.0,3,1,5431,C+,C+,C,D+,C+,303 Forest View Drive,Angie Barreto,"Angie Barreto, Broker",1,3,2,1,0,2,2,Yes,Yes,Yes,Yes,Yes,No,CA,94080
+South San Francisco,69,House ,698000.0,877.0,2,2,3297,C+,C+,C,D+,C+,3550 Carter Dr 77,Wilson Leung & Assoc,Own Real Estate,1,3,2,1,0,3,3,No,No,No,No,Yes,No,CA,94080
+South San Francisco,69,House ,1349000.0,1575.0,3,2,6371,C+,C+,C,D+,C+,389 Heather Way,Carole Fogelstrom,Golden Gate Sotheby's International Realty,1,3,2,0,0,3,1,Yes,Yes,Yes,No,No,No,CA,94080
+South San Francisco,69,House ,1098000.0,1030.0,3,1,5186,C+,C+,C,D+,C+,216 Wicklow Dr,Wilson Leung & Assoc,Own Real Estate,1,3,2,3,0,3,6,No,No,No,No,Yes,No,CA,94080
+South San Francisco,69,House ,1199000.0,1030.0,3,1,5663,C+,C+,C,D+,C+,218 Mansfield Dr,Elizabeth Nguyen,Intero Real Estate Services,1,3,2,3,0,2,4,No,No,No,Yes,Yes,No,CA,94080
+South San Francisco,69,Condo ,463457.0,828.0,1,1,2189,C+,C+,C,D+,C+,2200 Gellert Boulevard # 6207,Robert Belli,Compass,1,3,2,3,0,1,1,Yes,Yes,No,Yes,Yes,Yes,CA,94080
+South San Francisco,69,Townhouse ,749000.0,858.0,2,1,3537,C+,C+,C,D+,C+,3850 Annapolis Court,Angela Ho,Century 21 Realty Alliance Fine Homes and Estates,1,3,2,3,0,1,0,Yes,Yes,No,Yes,Yes,No,CA,94080
+South San Francisco,69,House ,898000.0,1454.0,3,3,4241,C+,C+,C,D+,C+,872 Stonegate Dr,Joe Polyak,Rise Homes,1,3,2,0,0,2,0,No,No,No,No,No,No,CA,94080
+South San Francisco,69,House ,1298000.0,1520.0,5,3,6130,C+,C+,C,D+,C+,1405 Hillside Boulevard,James Pan,KC Strategy Inc.,1,3,2,0,0,2,1,Yes,Yes,No,Yes,Yes,No,CA,94080
+South San Francisco,69,House ,1195000.0,1160.0,3,1,5644,C+,C+,C,D+,C+,353 Granada Drive,Valerie Sancimino,Sotheby's International Realty,1,3,2,2,0,2,1,Yes,Yes,No,Yes,Yes,No,CA,94080
+South San Francisco,69,House ,1499000.0,1950.0,4,3,7080,C+,C+,C,D+,C+,138 Dundee Dr,Victor M. Zolezzi,Coldwell Banker Realty,1,3,2,3,0,4,0,Yes,Yes,Yes,No,No,No,CA,94080
+South San Francisco,69,House ,1888888.0,2240.0,4,3,8921,C+,C+,C,D+,C+,2340 Donegal Ave,Emily Manio,Coldwell Banker Realty,1,3,2,3,0,4,0,Yes,Yes,Yes,No,No,No,CA,94080
+South San Francisco,69,House ,1180000.0,1260.0,3,1,5573,C+,C+,C,D+,C+,229 Brentwood Drive,Abby Chen,Far East Realty,1,3,2,1,0,2,3,Yes,No,No,Yes,Yes,No,CA,94080
+South San Francisco,69,Condo ,700000.0,1090.0,2,2,3306,C+,C+,C,D+,C+,3865 Carter Drive # 106,Raymond Lam,"The Source Real Estate Company, Inc.",1,3,2,1,0,3,1,Yes,Yes,No,Yes,Yes,Yes,CA,94080
+South San Francisco,69,House ,1088000.0,1000.0,3,1,5138,C+,C+,C,D+,C+,275 Village Way,Nicole Loza,Reliance Realty Group,1,3,2,0,0,2,3,No,No,No,No,Yes,No,CA,94080
+South San Francisco,69,Townhouse ,1099000.0,1330.0,3,2,5190,C+,C+,C,D+,C+,2306 Julie Lane,Alicia Atienza,Statewide Realty,1,3,2,3,0,2,1,Yes,Yes,No,Yes,Yes,No,CA,94080
+South San Francisco,69,House ,1550000.0,2360.0,4,3,7320,C+,C+,C,D+,C+,441 Mariposa Dr,Teresa Navarro,Intero Real Estate Services,1,3,2,3,0,2,7,No,No,No,No,Yes,No,CA,94080
+San Mateo,75,Condo ,860000.0,1024.0,2,2,4062,C+,B+,C+,B-,B,1919 Alameda De Las Pulgas 63,Patrick Dolan,Coldwell Banker Realty,1,1,1,2,2,4,0,No,Yes,Yes,No,No,No,CA,94403
+San Mateo,75,House ,1375000.0,1150.0,2,2,6494,C+,B+,C+,B-,B,181 E Hillsdale Blvd,Marcus Lee,Compass,1,2,1,2,2,2,6,No,No,No,No,Yes,No,CA,94403
+San Mateo,75,House ,2200000.0,2090.0,3,2,10390,C+,B+,C+,B-,B,3517 Winway,The Patty Dwyer Group,Compass,1,1,1,1,1,2,0,No,No,No,No,No,No,CA,94403
+San Mateo,75,House ,1298000.0,860.0,2,1,6130,C+,B+,C+,B-,B,302 E 39th Avenue,Dennis J. Murphy,Golden Gate Sotheby's International Realty,1,1,1,0,0,2,0,Yes,Yes,Yes,No,No,No,CA,94403
+San Mateo,75,House ,2398000.0,1950.0,3,2,11325,C+,B+,C+,B-,B,5 Murphy Pl,Greg Damelio,Compass,1,1,1,2,2,2,5,No,No,No,No,Yes,No,CA,94402
+San Mateo,75,House ,2598000.0,2450.0,4,3,12270,C+,B+,C+,B-,B,709 28th Ave,Wilson Leung & Assoc,Own Real Estate,1,1,1,1,1,3,7,No,No,No,No,Yes,No,CA,94403
+San Mateo,75,House ,2898000.0,2791.0,4,4,13687,C+,B+,C+,B-,B,450 Turner Ter,Jeff Harber,Compass,1,1,1,1,5,2,5,No,No,No,No,Yes,No,CA,94401
+San Mateo,75,House ,1400000.0,1280.0,2,2,6612,C+,B+,C+,B-,B,104 S Fremont Street,Harry Schaedler,"Harry Schaedler, Broker",1,1,1,1,5,4,2,Yes,Yes,Yes,Yes,Yes,No,CA,94401
+San Mateo,75,House ,1998000.0,1380.0,3,1,9436,C+,B+,C+,B-,B,133 Burbank Ave,Julie Baumann,Compass,1,2,1,2,1,2,2,No,No,No,No,Yes,No,CA,94403
+San Mateo,75,House ,1498000.0,1430.0,2,1,7075,C+,B+,C+,B-,B,605 Sylvan Ave,Rumana Jabeen,KW Peninsula Estates,1,1,1,2,1,2,8,No,No,No,No,Yes,No,CA,94403
+San Mateo,75,House ,1335000.0,1254.0,2,3,6305,C+,B+,C+,B-,B,1043 Yates Way,Sarah Healy,Sereno,1,2,1,2,2,3,4,No,No,No,No,Yes,No,CA,94403
+San Mateo,75,House ,2498000.0,1640.0,3,2,11798,C+,B+,C+,B-,B,11 Los Altos Pl,Lorie Gillespie,Intero Real Estate Services,1,2,1,2,1,2,5,No,No,No,No,Yes,No,CA,94402
+San Mateo,75,House ,2180000.0,2000.0,3,3,10296,C+,B+,C+,B-,B,405 29th Ave,Sternsmith Group,Compass,1,1,1,2,2,3,4,No,No,No,No,Yes,No,CA,94403
+San Mateo,75,House ,1639000.0,1270.0,2,2,7741,C+,B+,C+,B-,B,3504 Winway,Lori Burrows-Warren,Compass,1,1,1,1,1,2,4,No,No,No,No,Yes,No,CA,94403
+San Mateo,75,House ,2898000.0,2210.0,3,3,13687,C+,B+,C+,B-,B,251 Gramercy Dr,Nicholas Delis,Compass,1,1,1,1,5,2,9,No,No,No,No,Yes,No,CA,94402
+San Mateo,75,House ,348800.0,1000.0,1,1,1647,C+,B+,C+,B-,B,1 Baldwin Ave 319,Joyce Bartel,Compass,1,1,1,1,5,3,0,No,No,No,No,No,No,CA,94401
+San Mateo,75,House ,605000.0,693.0,1,1,2857,C+,B+,C+,B-,B,814 N Delaware St 407,Jennifer Stein,"Homelister, Inc.",1,1,1,2,5,2,2,No,No,No,Yes,Yes,No,CA,94401
+San Mateo,75,House ,598000.0,570.0,1,1,2824,C+,B+,C+,B-,B,2828 Edison St 17,Lindy Kwock,Berkshire Hathaway HomeServices DrysdaleProperties,1,1,1,2,2,3,6,No,No,No,No,Yes,No,CA,94403
+San Mateo,75,House ,950000.0,1400.0,2,2,4487,C+,B+,C+,B-,B,1 Baldwin Ave 203,The Madani Team,Room Real Estate,1,1,1,1,5,3,0,No,No,No,Yes,No,No,CA,94401
+San Mateo,75,House ,645000.0,900.0,1,1,3046,C+,B+,C+,B-,B,3222 Glendora Dr 210,Lu Zhang,KW Peninsula Estates,1,2,1,2,1,3,6,No,No,No,Yes,Yes,No,CA,94403
+San Mateo,75,House ,1188000.0,2076.0,2,2,5611,C+,B+,C+,B-,B,50 Mounds Rd 106,Emma Elfving,Compass,1,1,1,1,5,3,5,No,No,No,Yes,Yes,No,CA,94402
+San Mateo,75,House ,1600000.0,1730.0,4,3,7557,C+,B+,C+,B-,B,4011 Donner Street,Lisa Karson,Golden Gate Sotheby's International Realty,1,1,1,1,1,2,0,Yes,Yes,Yes,No,No,No,CA,94403
+San Mateo,75,House ,2000000.0,1911.0,2,3,9446,C+,B+,C+,B-,B,222 6th Ave 102,Cullinan Luxury,KW Peninsula Estates,1,1,1,1,5,3,12,No,No,No,No,Yes,No,CA,94401
+San Mateo,75,House ,1999000.0,1800.0,2,3,9441,C+,B+,C+,B-,B,20 W 3rd Ave 202,Michael Amaroli,Miller/Steil Properties,1,1,1,1,5,3,7,No,No,No,Yes,Yes,No,CA,94402
+San Mateo,75,House ,575000.0,702.0,1,1,2716,C+,B+,C+,B-,B,106 W 3rd Ave 2,Christopher Eckert,KW Peninsula Estates,1,1,1,1,5,2,7,No,No,No,No,Yes,No,CA,94402
+San Mateo,75,Condo ,1199000.0,2076.0,2,2,5663,C+,B+,C+,B-,B,50 Mounds Rd 401,Martha Longhi,Coldwell Banker Realty,1,1,1,1,5,4,0,No,Yes,Yes,No,No,No,CA,94402
+San Mateo,75,House ,980888.0,1400.0,2,2,4633,C+,B+,C+,B-,B,1 Baldwin Ave 403,Diana Nemirovsky,KW Peninsula Estates,1,1,1,1,5,3,7,No,No,No,Yes,Yes,No,CA,94401
+San Mateo,75,House ,590000.0,693.0,1,1,2786,C+,B+,C+,B-,B,818 N Delaware St 314,Julie Flouty,Compass,1,1,1,2,5,2,0,No,No,No,No,No,No,CA,94401
+San Mateo,75,House ,750000.0,1070.0,2,2,3542,C+,B+,C+,B-,B,962 S El Camino Real 201,Kevin Dalonzo,Compass,1,1,1,2,3,2,0,No,No,No,Yes,Yes,No,CA,94402
+San Mateo,75,House ,599000.0,1100.0,2,2,2829,C+,B+,C+,B-,B,1 Baldwin Ave 916,Cheryl Price,Compass,1,1,1,1,5,3,6,No,No,No,Yes,Yes,No,CA,94401
+San Mateo,75,House ,1499999.0,1843.0,2,2,7084,C+,B+,C+,B-,B,111 W 3rd Ave 107,Michael Prevot,Legacy Living Realty,1,1,1,1,5,2,5,No,No,No,Yes,Yes,No,CA,94402
+San Mateo,75,House ,995000.0,1300.0,2,2,4699,C+,B+,C+,B-,B,1 Baldwin Ave 810,The Laugesen Team,KW Peninsula Estates,1,1,1,1,5,3,6,No,No,No,Yes,Yes,No,CA,94401
+San Mateo,75,House ,388000.0,1000.0,1,1,1832,C+,B+,C+,B-,B,1 Baldwin Ave 1007,Michael J. Liffmann,Compass,1,1,1,1,5,3,0,No,No,No,Yes,Yes,No,CA,94401
+San Mateo,75,House ,399900.0,880.0,1,1,1889,C+,B+,C+,B-,B,601 Laurel Ave 409,Samanta Annuzzi,Real Estate Agent,1,1,1,1,5,3,0,No,No,No,No,Yes,No,CA,94401
+San Mateo,75,Condo ,499000.0,1140.0,2,2,2357,C+,B+,C+,B-,B,1 Baldwin Ave 411,Joan Wachter,Coldwell Banker Realty,1,1,1,1,5,4,0,No,Yes,Yes,No,No,No,CA,94401
+San Mateo,75,House ,374000.0,1140.0,2,2,1766,C+,B+,C+,B-,B,1 Baldwin Ave 920,Julie Hadidi,Compass,1,1,1,1,5,3,6,No,No,No,Yes,Yes,No,CA,94401
+San Mateo,75,House ,899000.0,1400.0,2,2,4246,C+,B+,C+,B-,B,1 Baldwin Ave 223,The Benson Group,Compass,1,1,1,1,5,2,0,No,No,No,Yes,No,No,CA,94401
+San Mateo,75,House ,1550000.0,1370.0,4,2,7320,C+,B+,C+,B-,B,10 Casacde Court,Robert Altman,Real Estate Unlimited,1,1,1,2,5,2,0,Yes,Yes,No,Yes,No,No,CA,94401
+Burlingame,81,House ,2795000.0,1700.0,3,2,13200,D,A,B,A,A+,2418 Hillside Dr,Sternsmith Group,Compass,1,2,2,2,1,2,11,No,No,No,No,Yes,No,CA,94010
+Burlingame,81,House ,828000.0,1032.0,2,2,3911,D,A,B,A,A+,1500 Willow Ave 202,Langford Sinclair,Compass,1,2,1,2,5,2,7,No,No,No,No,Yes,No,CA,94010
+Burlingame,81,House ,1588000.0,1740.0,2,2,7500,D,A,B,A,A+,110 Park Rd 103,The Pickett Group,KW Peninsula Estates,1,2,1,2,5,3,0,No,No,No,Yes,Yes,No,CA,94010
+Burlingame,81,House ,2198000.0,1700.0,3,2,10381,D,A,B,A,A+,1734 Quesada Way,Laura Bryant,KW Peninsula Estates,1,2,2,2,1,2,10,No,No,No,No,Yes,No,CA,94010
+Burlingame,81,Condo ,1350000.0,1740.0,2,2,6376,D,A,B,A,A+,110 Park Rd 205,Louie Kappen,Coldwell Banker Realty,1,2,1,2,5,3,0,No,Yes,Yes,No,No,No,CA,94010
+Burlingame,81,Townhouse ,999980.0,1045.0,1,2,4723,D,A,B,A,A+,1137 Paloma Ave E,Ming Lay,SunTrust Realty,1,2,1,2,2,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94010
+Burlingame,81,House ,1800000.0,2058.0,2,3,8501,D,A,B,A,A+,110 Park Rd 502,Carmen Miranda,Compass,1,2,1,2,5,3,5,No,No,No,Yes,Yes,No,CA,94010
+Burlingame,81,House ,1650000.0,1680.0,2,2,7793,D,A,B,A,A+,1457 Bellevue Ave 13,Phil Chen,Compass,1,2,1,2,5,2,10,No,No,No,Yes,Yes,No,CA,94010
+Burlingame,81,House ,1650000.0,1640.0,2,2,7793,D,A,B,A,A+,1226 El Camino Real 201,Michael Yao,Brilyhome Inc.,1,2,2,2,2,3,0,No,No,No,No,No,No,CA,94010
+Burlingame,81,House ,2795000.0,1650.0,2,2,13200,D,A,B,A,A+,1029 Capuchino Ave,Joseph Miller,Miller/Steil Properties,1,2,1,2,2,2,0,No,No,No,No,No,No,CA,94010
+Burlingame,81,Condo ,1595000.0,1865.0,2,2,7533,D,A,B,A,A+,1133 Douglas Ave 101,Jim Arbeed,Coldwell Banker Realty,1,2,1,1,5,4,0,No,Yes,Yes,No,No,No,CA,94010
+San Jose,67,Townhouse ,1945500.0,2923.0,3,4,9188,D,C+,C-,D,C+,5971 Drytown Pl,Jonathan Minerick,HOMECOIN.COM,1,2,1,3,2,2,17,Yes,Yes,Yes,Yes,Yes,Yes,CA,95120
+San Jose,67,House ,1450000.0,1848.0,4,3,6848,D,C+,C-,D,C+,2843 Rubino Cir,Sang Kang,Palazzo Investment Group,1,3,1,0,0,3,5,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,2895000.0,3047.0,5,3,13673,D,C+,C-,D,C+,1931 Cherry Ave,Brenda Miller,Compass,1,3,1,1,0,3,9,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,1450000.0,1361.0,4,2,6848,D,C+,C-,D,C+,2082 Limewood Dr,Annie Culbertson,Real Estate Agent,1,3,1,2,1,3,5,No,No,No,No,Yes,No,CA,95132
+San Jose,67,House ,1529000.0,1370.0,4,2,7221,D,C+,C-,D,C+,1408 Sprucewood Dr,Carol Jeans,Sereno,1,3,1,2,1,3,10,No,No,No,No,Yes,No,CA,95118
+San Jose,67,House ,1499888.0,1486.0,3,2,7084,D,C+,C-,D,C+,989 Woodgrove Ln,Terry Kelly,Compass,1,3,1,1,1,3,3,No,No,No,No,Yes,No,CA,95136
+San Jose,67,House ,989000.0,1572.0,4,2,4671,D,C+,C-,D,C+,709 Deboer Ln,Julia Cocchi,Real Estate Experts,1,2,1,3,1,3,6,No,No,No,No,Yes,No,CA,95111
+San Jose,67,House ,1499000.0,2209.0,4,3,7080,D,C+,C-,D,C+,324 Marti Way,Astha Mathur,Compass,1,3,1,3,1,3,5,No,No,No,No,Yes,No,CA,95136
+San Jose,67,House ,599999.0,1021.0,1,1,2834,D,C+,C-,D,C+,1159 Foxchase Dr,Colin Clancy,KW Bay Area Estates,1,2,1,2,1,3,5,No,No,No,Yes,Yes,No,CA,95123
+San Jose,67,House ,568000.0,1156.0,2,2,2683,D,C+,C-,D,C+,3304 Shadow Park Pl,Rhonda Hansen,Compass,1,3,1,3,0,3,7,No,No,No,Yes,Yes,No,CA,95121
+San Jose,67,House ,599888.0,1127.0,2,2,2833,D,C+,C-,D,C+,6083 Montgomery Ct,Olga Mintz,Intero Real Estate Services,1,1,1,3,0,3,4,No,No,No,Yes,Yes,No,CA,95135
+San Jose,67,House ,629000.0,1012.0,2,2,2971,D,C+,C-,D,C+,255 Kenbrook Cir,Erika Carrasco,Intero Real Estate Services,1,3,1,1,1,2,0,No,No,No,Yes,No,No,CA,95111
+San Jose,67,House ,838000.0,785.0,2,1,3958,D,C+,C-,D,C+,56 Viewmont Ave,Mark Gissler,Intero Real Estate Services,1,3,1,1,1,3,3,No,No,No,No,Yes,No,CA,95127
+San Jose,67,House ,948888.0,1084.0,3,2,4481,D,C+,C-,D,C+,1702 Kyra Cir Cl,Nick Pham,PN Real Estate Group,1,3,1,3,1,3,0,No,No,No,No,No,No,CA,95122
+San Jose,67,House ,949000.0,1287.0,3,2,4482,D,C+,C-,D,C+,1794 Parkdale Way,Lupita Fonseca,Intero Real Estate Services,1,3,1,2,2,3,0,No,No,No,No,No,No,CA,95127
+San Jose,67,House ,1939000.0,1996.0,4,3,9158,D,C+,C-,D,C+,1777 Barcelona Ave,Sherri Stoneberger,Legacy Real Estate & Assoc.,1,3,1,2,2,2,3,No,Yes,Yes,Yes,Yes,No,CA,95124
+San Jose,67,House ,1098888.0,1207.0,3,2,5190,D,C+,C-,D,C+,5395 Garrison Cir,Laxmi Penupothula,Real Estate Agent,1,1,1,3,0,2,12,No,No,No,No,Yes,No,CA,95123
+San Jose,67,House ,899000.0,1655.0,3,3,4246,D,C+,C-,D,C+,7431 Tulare Hill Dr,Rick Trevino,Intero Real Estate Services,1,1,1,3,0,3,7,No,No,No,Yes,Yes,No,CA,95139
+San Jose,67,House ,1425000.0,1710.0,3,2,6730,D,C+,C-,D,C+,3438 Glamorgan Ct,Sandy Albanese,Compass,1,3,1,2,2,3,9,No,No,No,No,Yes,No,CA,95127
+San Jose,67,House ,749000.0,1130.0,2,3,3537,D,C+,C-,D,C+,1496 Douglas St,Karen Xu,Anew Elite,1,3,1,2,5,3,0,No,No,No,No,No,No,CA,95126
+San Jose,67,House ,1900000.0,2045.0,3,3,8973,D,C+,C-,D,C+,3582 Sunnydale Ct,Wayne Haraguchi,Intero Real Estate Services,1,3,1,3,3,3,10,No,No,No,No,Yes,No,CA,95117
+San Jose,67,House ,1499900.0,2124.0,4,3,7084,D,C+,C-,D,C+,5059 Glouchester Ct,Peter Q. Nguyen,Bay Realty,1,3,1,2,1,3,0,No,No,No,Yes,Yes,No,CA,95136
+San Jose,67,House ,799000.0,1229.0,2,2,3774,D,C+,C-,D,C+,809 Auzerais Ave 224,Justin Carrow,Intero Real Estate Services,1,3,1,1,5,3,8,No,No,No,No,Yes,No,CA,95126
+San Jose,67,House ,1049000.0,1818.0,3,3,4954,D,C+,C-,D,C+,800 Gaspar Vis,Zaid Hanna,Real Estate Agent,1,3,1,1,5,3,3,No,No,No,No,Yes,No,CA,95126
+San Jose,67,House ,1488000.0,1376.0,3,2,7028,D,C+,C-,D,C+,1180 Lenark Ct,Alex Aung,Home Solutions Realty,1,3,1,1,1,3,7,No,No,No,No,Yes,No,CA,95132
+San Jose,67,House ,1598000.0,1733.0,5,3,7547,D,C+,C-,D,C+,15296 Clydelle Ave,David Lillo,DPL Real Estate,1,3,1,2,3,3,12,No,No,No,No,Yes,No,CA,95124
+San Jose,67,House ,1699000.0,2319.0,3,3,8024,D,C+,C-,D,C+,6237 Guadalupe Mines Rd,Therese Swan,Compass,1,2,1,2,1,3,6,No,No,No,No,Yes,No,CA,95120
+San Jose,67,House ,978000.0,1669.0,3,3,4619,D,C+,C-,D,C+,2532 Baton Rouge Dr,Sophie Shen,SV Capital Group Inc.,1,3,1,2,1,3,7,No,No,No,No,No,No,CA,95133
+San Jose,67,House ,998000.0,1558.0,2,3,4713,D,C+,C-,D,C+,1591 Fairway Green Cir,Sophie Shen,SV Capital Group Inc.,1,3,1,2,0,3,9,No,No,No,No,Yes,No,CA,95131
+San Jose,67,House ,1299000.0,1176.0,3,2,6135,D,C+,C-,D,C+,1232 Sierra Mar Drive,Alex Bouja,Golden Gate Sotheby's International Realty,1,3,1,1,1,3,2,Yes,Yes,Yes,No,No,No,CA,95118
+San Jose,67,House ,1688000.0,2082.0,4,3,7972,D,C+,C-,D,C+,3505 Chablis Cir,Brian Liu,Next Realty,1,3,1,1,1,3,6,No,No,No,Yes,Yes,No,CA,95132
+San Jose,67,House ,650000.0,1497.0,2,2,3070,D,C+,C-,D,C+,8489 Grenache Ct,Jill A. Curry,Hewitt Real Estate,1,1,1,3,0,3,6,No,No,No,Yes,Yes,No,CA,95135
+San Jose,67,House ,1499000.0,1700.0,4,2,7080,D,C+,C-,D,C+,5760 Condor Circle,Amy A. McCafferty,Golden Gate Sotheby's International Realty,1,3,1,2,1,4,1,Yes,Yes,Yes,No,No,No,CA,95118
+San Jose,67,House ,1598000.0,1632.0,3,2,7547,D,C+,C-,D,C+,2812 Thrasher Ln,Sydney Ereno,Sereno,1,3,1,2,0,3,4,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,1499888.0,1598.0,4,2,7084,D,C+,C-,D,C+,3323 Farthing Way,Randy Rullamas,Real Estate eBroker Inc,1,3,1,3,1,3,0,No,No,No,No,No,No,CA,95132
+San Jose,67,House ,599000.0,663.0,1,1,2829,D,C+,C-,D,C+,175 W Saint James St 707,Lisa Lyons,Compass,1,3,1,2,5,3,0,No,No,No,No,No,No,CA,95110
+San Jose,67,House ,1895000.0,1600.0,3,2,8950,D,C+,C-,D,C+,1635 Everett,Jayne Gibson,Compass,1,3,1,0,1,3,13,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,998000.0,1415.0,3,2,4713,D,C+,C-,D,C+,4992 Rice Dr,Rod Hibner,Keller Williams Realty-Silicon Valley,1,3,1,1,1,2,3,No,No,No,No,Yes,No,CA,95111
+San Jose,67,House ,699000.0,1149.0,2,2,3301,D,C+,C-,D,C+,1758 Cross Way 180,Zaid Hanna,Real Estate Agent,1,3,1,1,0,3,3,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,1199000.0,1408.0,3,2,5663,D,C+,C-,D,C+,6505 Kona Ct,Helena Abbott,BayOne Real Estate Inv Corp,1,1,1,3,0,2,1,No,Yes,Yes,Yes,Yes,No,CA,95119
+San Jose,67,House ,530000.0,939.0,2,2,2503,D,C+,C-,D,C+,75 Rancho Dr,Joanne Fu,Real Estate Agent,1,3,1,2,1,3,0,No,No,No,No,No,No,CA,95111
+San Jose,67,Manufactured ,193300.0,610.0,2,1,913,D,C+,C-,D,C+,1850 Evans Ln 65,Sam Pham,Real Estate Agent,1,3,1,2,1,3,0,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,1795000.0,1371.0,3,2,8477,D,C+,C-,D,C+,2281 Chesley Dr,Glenn Stansbury,Real Estate Agent,1,3,1,2,3,3,0,No,No,No,No,Yes,No,CA,95130
+San Jose,67,House ,849999.0,1129.0,3,2,4014,D,C+,C-,D,C+,1819 Perrone Cir,Olga Golovko,Keller Williams Realty-Silicon Valley,1,3,1,2,2,3,7,No,No,No,Yes,Yes,No,CA,95116
+San Jose,67,House ,1190000.0,950.0,2,2,5620,D,C+,C-,D,C+,1138 Cook St,Sala Sala Homes Group,SALA Homes Realty & Development,1,3,1,1,4,3,0,No,No,No,No,No,No,CA,95126
+San Jose,67,House ,1599000.0,1453.0,3,2,7552,D,C+,C-,D,C+,1080 Royal Acres Ct,Todd Fernandes,Intero Real Estate Services,1,3,1,1,1,3,0,No,No,No,No,No,No,CA,95136
+San Jose,67,House ,1680000.0,2783.0,5,3,7934,D,C+,C-,D,C+,58 Park Sharon Dr,Kim Thanh Nguyen,Highland Rock Realty,1,3,1,1,1,3,8,No,No,No,No,Yes,No,CA,95136
+San Jose,67,House ,1428800.0,1486.0,3,2,6748,D,C+,C-,D,C+,4111 Glenmont Dr,Jessica Hooley,Coldwell Banker Realty,1,3,1,1,1,3,0,Yes,Yes,Yes,No,No,No,CA,95136
+San Jose,67,House ,1888000.0,1775.0,4,3,8917,D,C+,C-,D,C+,1406 Melwood Dr,Frank Grengo,Coldwell Banker Realty,1,3,1,2,1,4,0,Yes,Yes,Yes,No,No,No,CA,95118
+San Jose,67,House ,990000.0,1605.0,3,3,4676,D,C+,C-,D,C+,2409 Venturi Pl 10,Vicky Li,Compass,1,3,1,3,1,3,5,No,No,No,No,Yes,No,CA,95132
+San Jose,67,House ,688000.0,1075.0,2,2,3249,D,C+,C-,D,C+,1421 Main Entrance Dr,Sara Huang,Starriver Inc,1,3,1,2,1,2,6,No,No,No,Yes,Yes,No,CA,95131
+San Jose,67,House ,1048000.0,1157.0,3,2,4950,D,C+,C-,D,C+,3557 Glasgow Ct,Randall Ramirez,Alum Rock Realty,1,2,1,2,1,3,5,No,No,No,No,Yes,No,CA,95127
+San Jose,67,House ,2248000.0,2702.0,4,3,10617,D,C+,C-,D,C+,3147 Promontory Way,Kerry Sexton,Compass,1,1,1,2,0,3,6,No,No,No,Yes,Yes,No,CA,95135
+San Jose,67,House ,2295000.0,2730.0,4,4,10839,D,C+,C-,D,C+,520 N 5th St,Irene Suh,Elim Investment Company,1,3,1,1,5,3,5,No,No,No,No,Yes,No,CA,95112
+San Jose,67,House ,2050000.0,1973.0,3,3,9682,D,C+,C-,D,C+,1722 Wilcox Way,Rim Bose,Coldwell Banker Realty,1,3,1,1,2,4,0,Yes,Yes,Yes,No,No,No,CA,95125
+San Jose,67,Condo ,1250000.0,2154.0,2,2,5904,D,C+,C-,D,C+,5319 Silver Point Way,Roberta Murai,Coldwell Banker Realty,1,2,1,3,0,4,0,No,Yes,Yes,No,No,No,CA,95138
+San Jose,67,House ,599980.0,975.0,2,2,2834,D,C+,C-,D,C+,4970 Cherry Ave 111,Alvaro Nevarez,EQ1,1,3,1,2,1,3,7,No,No,No,No,Yes,No,CA,95118
+San Jose,67,House ,1099900.0,1622.0,2,2,5195,D,C+,C-,D,C+,130 E San Fernando St 404,John Leahy,Redfin,1,3,1,3,5,3,6,No,No,No,Yes,Yes,No,CA,95112
+San Jose,67,House ,1649000.0,2524.0,4,3,7788,D,C+,C-,D,C+,1346 Erinwood Ct,Elena Johal,KW Bay Area Estates,1,3,1,3,1,3,4,No,No,No,No,Yes,No,CA,95121
+San Jose,67,House ,1700000.0,2567.0,4,3,8029,D,C+,C-,D,C+,6577 Gravina Loop,Melanie Ventura,Better Homes and Gardens Real Estate Thrive,1,1,1,3,0,2,0,No,Yes,Yes,No,No,No,CA,95138
+San Jose,67,House ,1150000.0,1354.0,3,2,5431,D,C+,C-,D,C+,6700 Buggywhip Ct,Douglas Goss,KW Bay Area Estates,1,1,1,2,2,3,6,No,No,No,Yes,Yes,No,CA,95120
+San Jose,67,House ,1098000.0,1463.0,3,3,5186,D,C+,C-,D,C+,106 Sunol St,Janet Lam,Intero Real Estate Services,1,3,1,1,5,3,7,No,No,No,No,Yes,No,CA,95126
+San Jose,67,House ,998000.0,1260.0,3,3,4713,D,C+,C-,D,C+,1146 Glenmeadow Ct,Fernando Palazzo,Palazzo Real Estate,1,3,1,2,5,3,9,No,No,No,Yes,Yes,No,CA,95125
+San Jose,67,House ,879000.0,1804.0,2,2,4151,D,C+,C-,D,C+,7837 Prestwick Cir,Suzanne Ramirez,Keller Williams San Jose Gateway,1,1,1,3,0,3,9,No,No,No,Yes,Yes,No,CA,95135
+San Jose,67,House ,1798000.0,1474.0,3,2,8492,D,C+,C-,D,C+,847 Willow Glen Way,Andy Sweat,KW Bay Area Estates,1,3,1,1,5,3,6,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,1699800.0,1164.0,2,1,8028,D,C+,C-,D,C+,1043 Glen Echo Ave,Lynette Morehead,Intero Real Estate Services,1,3,1,2,4,3,8,No,No,No,Yes,Yes,No,CA,95125
+San Jose,67,House ,2499000.0,3287.0,5,4,11802,D,C+,C-,D,C+,6818 Glenview Dr,Steve Lee,Compass,1,1,1,2,2,3,8,No,Yes,Yes,Yes,Yes,No,CA,95120
+San Jose,67,House ,998888.0,1502.0,4,2,4718,D,C+,C-,D,C+,116 Springhaven Ct,Pam Kelepouris,Compass,1,3,1,1,1,3,4,No,No,No,No,Yes,No,CA,95111
+San Jose,67,House ,795000.0,1360.0,3,3,3755,D,C+,C-,D,C+,27 Deer Run Cir,Sumedha Grover,Real Estate Agent,1,3,1,1,1,2,8,No,No,No,Yes,Yes,No,CA,95136
+San Jose,67,House ,1999999.0,1769.0,3,3,9446,D,C+,C-,D,C+,1904 Jonathan Ave,Bonafede Team,Compass,1,3,1,2,4,3,6,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,498000.0,903.0,2,1,2352,D,C+,C-,D,C+,2498 Golzio Ct 2,Brad Gill,NextHome Lifestyles,1,3,1,2,1,2,3,No,No,No,Yes,Yes,No,CA,95133
+San Jose,67,House ,898888.0,1500.0,4,2,4245,D,C+,C-,D,C+,3081 Wall St,Brenda Avilla-Kintz,Realty ONE Group American,1,3,1,1,1,3,3,No,No,No,No,Yes,No,CA,95111
+San Jose,67,House ,749000.0,1085.0,2,2,3537,D,C+,C-,D,C+,1070 Niguel Ln,Geoffrey Guo,Maxreal,1,1,1,3,0,3,0,No,No,No,Yes,No,No,CA,95138
+San Jose,67,House ,1599000.0,1288.0,3,2,7552,D,C+,C-,D,C+,1207 Curtner Ave,Eliane Selwan,Real Estate Agent,1,3,1,0,0,2,2,Yes,Yes,Yes,No,No,No,CA,95125
+San Jose,67,House ,1699888.0,1840.0,4,2,8028,D,C+,C-,D,C+,14841 Branham Ln,Alexis Orosco,Realty One Group Infinity,1,3,1,2,3,3,10,No,No,No,No,Yes,No,CA,95124
+San Jose,67,House ,2390000.0,2044.0,4,3,11288,D,C+,C-,D,C+,2826 La Rhee Dr,Mike Herkenrath,Pavicich Realty,1,3,1,2,3,3,10,No,No,No,No,Yes,No,CA,95124
+San Jose,67,House ,1290000.0,1768.0,3,3,6092,D,C+,C-,D,C+,386 Via Primavera Drive,Victoria Gangi,Corcoran Global Living,1,3,1,1,1,2,2,Yes,Yes,No,Yes,Yes,No,CA,95111
+San Jose,67,Condo ,579000.0,800.0,1,1,2735,D,C+,C-,D,C+,5951 Sunstone Drive # 213,Jared English,"Jared English, Broker",1,1,1,3,0,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,95123
+San Jose,67,House ,499000.0,798.0,2,1,2357,D,C+,C-,D,C+,849 Wyman Way 4,Michael Peng Li,Goodview Financial & Real Estate,1,3,1,2,1,3,0,No,No,No,Yes,Yes,No,CA,95133
+San Jose,67,Townhouse ,1100000.0,1124.0,2,2,5195,D,C+,C-,D,C+,1148 Coach Ct,Valeska Nemetiz,beycome of California,1,1,1,2,2,3,0,Yes,Yes,Yes,Yes,No,Yes,CA,95120
+San Jose,67,House ,988000.0,1648.0,4,4,4666,D,C+,C-,D,C+,2538 Baton Rouge Dr,Dedy Efendi,Action Properties Inc,1,3,1,2,1,3,5,No,No,No,No,Yes,No,CA,95133
+San Jose,67,House ,658000.0,966.0,2,2,3108,D,C+,C-,D,C+,1902 Tradan Dr,Raymond Ni,Compass,1,3,1,3,1,3,0,No,No,No,Yes,No,No,CA,95132
+San Jose,67,House ,2498000.0,2835.0,5,3,11798,D,C+,C-,D,C+,2213 Quail Bluff Ct,Thao Dang  Brian Ng,Block Change Real Estate,1,2,1,3,0,3,3,No,No,No,No,Yes,No,CA,95121
+San Jose,67,House ,1288000.0,1772.0,5,4,6083,D,C+,C-,D,C+,2550 Poplarwood Way,David Lillo,DPL Real Estate,1,3,1,3,1,3,8,No,No,No,No,Yes,No,CA,95132
+San Jose,67,House ,1188000.0,1566.0,3,3,5611,D,C+,C-,D,C+,831 Las Palmas Way,Sophie Shen,SV Capital Group Inc.,1,3,1,2,1,3,12,No,No,No,No,Yes,No,CA,95133
+San Jose,67,House ,1188000.0,1634.0,4,2,5611,D,C+,C-,D,C+,5838 Chris Dr,Chaochin Lu,Coldwell Banker Realty,1,2,1,3,0,4,0,No,Yes,Yes,No,No,No,CA,95123
+San Jose,67,House ,1898888.0,2057.0,4,3,8968,D,C+,C-,D,C+,1819 Fallbrook Ave,Xiaoping Song,Real Estate Agent,1,3,1,2,3,3,9,No,No,No,No,Yes,No,CA,95130
+San Jose,67,House ,1598000.0,2089.0,4,4,7547,D,C+,C-,D,C+,3377 San Rivas Dr,Tino Le,Pacificwide Real Estate & Mortgage,1,3,1,3,1,3,2,No,No,No,No,Yes,No,CA,95148
+San Jose,67,House ,1398888.0,1790.0,5,3,6607,D,C+,C-,D,C+,3649 Rowley Dr,David Llorente,Realty One Group Infinity,1,3,1,2,1,3,1,No,No,No,No,No,No,CA,95132
+San Jose,67,House ,925000.0,1447.0,2,2,4369,D,C+,C-,D,C+,2881 Meridian Ave 122,Ella Sun,Compass,1,3,1,2,2,3,3,No,No,No,Yes,Yes,No,CA,95124
+San Jose,67,House ,1685000.0,1754.0,4,2,7958,D,C+,C-,D,C+,6187 Meridian Ave,Tina Beitashour,Bay Area Realty Group Services,1,2,1,3,2,2,2,No,No,No,No,Yes,No,CA,95120
+San Jose,67,House ,1398000.0,1300.0,3,2,6603,D,C+,C-,D,C+,5340 Woodstock Way,L L Re Consult Grp,Keller Williams Realty-Silicon Valley,1,3,1,2,1,3,7,No,No,No,Yes,Yes,No,CA,95118
+San Jose,67,House ,2100000.0,2111.0,5,3,9918,D,C+,C-,D,C+,5314 Lenora Ave,Diana Strannigan,Compass,1,3,1,2,0,3,7,No,No,No,No,Yes,No,CA,95124
+San Jose,67,House ,1598000.0,1614.0,3,2,7547,D,C+,C-,D,C+,1456 Calle De Gilda,Mueller Zanger Group,Compass,1,3,1,2,1,3,6,No,No,No,No,Yes,No,CA,95118
+San Jose,67,House ,399000.0,560.0,1,1,1884,D,C+,C-,D,C+,292 Stonegate Cir,Peter Bao,Cameo Real Estate,1,3,1,1,5,2,5,No,No,No,No,Yes,No,CA,95110
+San Jose,67,House ,729000.0,971.0,1,1,3443,D,C+,C-,D,C+,2881 Meridian Ave 267,Holly Barr,Compass,1,3,1,2,2,3,0,No,No,No,Yes,Yes,No,CA,95124
+San Jose,67,House ,1295000.0,1496.0,3,2,6116,D,C+,C-,D,C+,3449 Hillsborough Way,Valerie Trang,Infiniti Real Estate,1,3,1,2,1,3,3,No,No,No,No,No,No,CA,95121
+San Jose,67,House ,998888.0,846.0,2,1,4718,D,C+,C-,D,C+,1338 Chertsey Ct,David Llorente,Realty One Group Infinity,1,3,1,2,1,3,0,No,No,No,No,No,No,CA,95131
+San Jose,67,House ,589000.0,762.0,1,1,2782,D,C+,C-,D,C+,4870 Lakebird Pl,Shirley Frantz,Keller Williams Realty-Silicon Valley,1,3,1,2,4,3,5,No,No,No,Yes,Yes,No,CA,95124
+San Jose,67,House ,800000.0,1052.0,2,2,3778,D,C+,C-,D,C+,2640 Yerba Vista Ct,Brett Burns,Kinoko,1,2,1,3,0,3,0,No,No,No,Yes,Yes,No,CA,95121
+San Jose,67,House ,1299999.0,1689.0,3,3,6140,D,C+,C-,D,C+,55 S 17th St,Marcus Ortiz,Coldwell Banker Realty,1,3,1,0,5,4,0,Yes,Yes,Yes,No,No,No,CA,95112
+San Jose,67,House ,1898000.0,1885.0,4,3,8964,D,C+,C-,D,C+,1511 Shaw Dr,Avil Soleiman,Akkadian Group,1,3,1,3,0,3,7,No,No,No,No,Yes,No,CA,95118
+San Jose,67,House ,1795000.0,2533.0,5,3,8477,D,C+,C-,D,C+,2048 Ensign Way,Arlene Finney,Sereno,1,3,1,3,1,3,6,No,No,No,No,Yes,No,CA,95133
+San Jose,67,House ,1358888.0,1322.0,4,2,6418,D,C+,C-,D,C+,1361 Turrett Dr,Julie Qiao,"Bay Area Realty & Mortgage, Inc.",1,3,1,2,1,2,5,No,No,No,No,Yes,No,CA,95131
+San Jose,67,House ,1298950.0,2106.0,3,3,6135,D,C+,C-,D,C+,5313 Olstad Ct,Yvonne Yang,Compass,1,1,1,3,0,3,5,No,No,No,No,Yes,No,CA,95111
+San Jose,67,House ,1625000.0,1502.0,4,2,7675,D,C+,C-,D,C+,1388 Poe Ln,Ayelet Gingold,Agam Real Estate,1,3,1,2,2,3,8,No,No,No,No,Yes,No,CA,95130
+San Jose,67,House ,1098888.0,1651.0,3,2,5190,D,C+,C-,D,C+,11978 Duncan St,Pete Flores,Silicon Valley Residential Brokerage Inc,1,3,1,2,1,3,10,No,No,No,No,Yes,No,CA,95127
+San Jose,67,House ,1799000.0,2813.0,4,3,8496,D,C+,C-,D,C+,5949 Hillrose Dr,Ismar Maslic,Montalvo Realty,1,2,1,3,1,2,0,No,No,No,No,No,No,CA,95123
+San Jose,67,House ,998000.0,1243.0,3,2,4713,D,C+,C-,D,C+,159 Page Mill Dr,Geoffrey Hollands,Coldwell Banker Realty,1,3,1,1,1,4,0,Yes,Yes,Yes,No,No,No,CA,95111
+San Jose,67,House ,2899000.0,2943.0,4,3,13691,D,C+,C-,D,C+,1168 Koch Ln,Nick Khoe,Real Estate Agent,1,3,1,1,0,3,5,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,1799000.0,2030.0,4,3,8496,D,C+,C-,D,C+,3483 Corning Dr,Trish Forsman,Coldwell Banker Realty,1,3,1,2,0,4,0,Yes,Yes,Yes,No,No,No,CA,95118
+San Jose,67,House ,1638888.0,1728.0,3,2,7740,D,C+,C-,D,C+,5392 Hammerton Ct,Kim Kobara,Elite Realty Services,1,2,1,2,1,3,4,No,No,No,No,Yes,No,CA,95118
+San Jose,67,House ,595000.0,900.0,2,1,2810,D,C+,C-,D,C+,3115 Cedarcrest Ln,Tamara Jones Barnard,Real Estate Agent,1,3,1,3,1,3,4,No,No,No,Yes,Yes,No,CA,95132
+San Jose,67,House ,1399000.0,1980.0,3,3,6607,D,C+,C-,D,C+,470 N White Rd,Melinda Collins,Songs Realty & Inv Co,1,3,1,2,1,3,5,No,No,No,No,Yes,No,CA,95127
+San Jose,67,Manufactured ,300000.0,1152.0,3,2,1417,D,C+,C-,D,C+,1955 Quimby 1804,Mimi Du,Alliance Bay Realty,1,3,1,1,2,3,0,No,No,No,No,No,No,CA,95122
+San Jose,67,House ,800000.0,1159.0,3,2,3778,D,C+,C-,D,C+,2208 Meadowgate Way,Mimi Du,Alliance Bay Realty,1,3,1,2,1,2,0,No,No,No,No,No,No,CA,95132
+San Jose,67,House ,1848000.0,2900.0,4,4,8728,D,C+,C-,D,C+,2072 The Alameda,Catalina Collins,Intero Real Estate Services,1,3,1,1,5,3,0,No,Yes,Yes,No,Yes,No,CA,95126
+San Jose,67,House ,2188000.0,1727.0,3,2,10334,D,C+,C-,D,C+,2170 Bello Ave,Camille Eder,Coldwell Banker Realty,1,3,1,2,1,4,0,Yes,Yes,Yes,No,No,No,CA,95125
+San Jose,67,House ,1450000.0,1581.0,4,2,6848,D,C+,C-,D,C+,4466 Illsley Ct,Danny Duong,Infiniti Real Estate,1,3,1,3,1,3,9,No,No,No,No,Yes,No,CA,95136
+San Jose,67,House ,2295000.0,2417.0,4,3,10839,D,C+,C-,D,C+,5569 Del Oro Pl,C.T. Harris,Sereno,1,3,1,1,0,3,5,No,No,No,Yes,Yes,No,CA,95124
+San Jose,67,Townhouse ,849000.0,1124.0,2,3,4010,D,C+,C-,D,C+,3513 Ivalynn Cir,Angela Franco,Intero Real Estate Services,1,3,1,1,1,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,95132
+San Jose,67,House ,1895000.0,2718.0,3,3,8950,D,C+,C-,D,C+,10590 Crothers Rd,Daniel Gluhaich,Intero Real Estate Services,1,2,1,0,0,3,5,No,No,No,No,Yes,No,CA,95127
+San Jose,67,House ,1049000.0,1953.0,3,4,4954,D,C+,C-,D,C+,2721 Forino Ln 3,Kamaljit Gill,Real Estate Agent,1,3,1,3,0,3,11,No,No,No,No,Yes,No,CA,95111
+San Jose,67,House ,1099000.0,1120.0,3,2,5190,D,C+,C-,D,C+,25 Avenida Espana,Harvey Young,KW Santa Clara Valley Inc,1,1,1,3,0,3,4,No,No,No,No,Yes,No,CA,95139
+San Jose,67,House ,2599000.0,1760.0,4,2,12275,D,C+,C-,D,C+,5675 Kimberly St,Helen Yang,Maxreal,1,3,1,2,1,3,1,No,No,No,No,Yes,No,CA,95129
+San Jose,67,House ,1050000.0,1479.0,4,3,4959,D,C+,C-,D,C+,887 S Sunset Ave,Laxmi Penupothula,Real Estate Agent,1,3,1,1,2,3,7,No,No,No,No,Yes,No,CA,95116
+San Jose,67,House ,798000.0,1488.0,2,3,3769,D,C+,C-,D,C+,144 S 3rd St 152,Kathleen Tuttle,Keller Williams Realty-Silicon Valley,1,3,1,2,5,3,8,No,No,No,Yes,Yes,No,CA,95112
+San Jose,67,House ,999000.0,1775.0,4,2,4718,D,C+,C-,D,C+,654 Willis Ave,Simon Zhang,Gold House Realty & Mortgage,1,3,1,1,5,3,0,No,Yes,Yes,No,No,No,CA,95125
+San Jose,67,House ,1999800.0,2629.0,4,4,9445,D,C+,C-,D,C+,3342 Shoshana Ln,Laxmi Penupothula,Real Estate Agent,1,2,1,3,0,3,10,No,No,No,No,No,No,CA,95135
+San Jose,67,House ,1299000.0,1517.0,4,2,6135,D,C+,C-,D,C+,3649 Tankerland Ct,Laxmi Penupothula,Real Estate Agent,1,2,1,2,1,3,0,No,No,No,No,No,No,CA,95121
+San Jose,67,House ,2398200.0,2177.0,5,3,11326,D,C+,C-,D,C+,6586 Broadacres Dr,Stephanie Perrault,Coldwell Banker Realty,1,1,1,3,2,4,0,No,Yes,Yes,No,No,No,CA,95120
+San Jose,67,House ,1890000.0,2461.0,4,3,8926,D,C+,C-,D,C+,2808 McAnn Ct,Harry Cordiano,Flat Rate Realty,1,2,1,2,1,3,7,No,Yes,Yes,Yes,Yes,No,CA,95121
+San Jose,67,House ,898000.0,1280.0,3,2,4241,D,C+,C-,D,C+,1634 Marsh St,Jose Duarte,Intero Real Estate Services,1,3,1,1,2,2,2,No,No,No,No,No,No,CA,95122
+San Jose,67,House ,899999.0,1452.0,4,3,4251,D,C+,C-,D,C+,7166 Golf Course Ln,Astha Mathur,Compass,1,1,1,3,1,3,3,No,No,No,Yes,Yes,No,CA,95139
+San Jose,67,Manufactured ,274000.0,1440.0,2,2,1294,D,C+,C-,D,C+,2801 Moss Hollow 2801,Kristen Jurevich,Intero Real Estate Services,1,3,1,3,1,3,7,No,No,No,No,Yes,No,CA,95121
+San Jose,67,House ,1299000.0,1149.0,2,2,6135,D,C+,C-,D,C+,1029 Forest Knoll Dr,Vito Scarnecchia,Compass,1,3,1,2,1,2,0,No,No,No,Yes,No,No,CA,95129
+San Jose,67,House ,1288888.0,1197.0,3,2,6087,D,C+,C-,D,C+,730 Fuller Ave,Jenele Balaz,Intero Real Estate Services,1,3,1,2,5,2,4,No,No,No,No,Yes,No,CA,95125
+San Jose,67,Manufactured ,370000.0,1785.0,3,2,1747,D,C+,C-,D,C+,195 Blossom Hill Rd 113,Auggie Ruberto,Real Estate Agent,1,2,1,3,0,3,14,No,No,No,No,Yes,No,CA,95123
+San Jose,67,House ,2180000.0,1400.0,3,2,10296,D,C+,C-,D,C+,1615 McGregor Way,Albert Ho,Aicare Realty,1,3,1,3,1,2,7,No,No,No,No,Yes,No,CA,95129
+San Jose,67,Condo ,720888.0,899.0,1,1,3405,D,C+,C-,D,C+,88 E San Fernando St 1609,Cynthia Gao,Parkmont Group Inc.,1,3,1,3,5,3,4,Yes,Yes,Yes,Yes,Yes,No,CA,95113
+San Jose,67,House ,538000.0,906.0,1,1,2541,D,C+,C-,D,C+,1996 Tradan Dr,Jocelyn Xie,Real Estate Agent,1,3,1,3,1,3,0,No,No,No,Yes,No,No,CA,95132
+San Jose,67,House ,799999.0,1268.0,3,3,3778,D,C+,C-,D,C+,102 Path Way,Peter Redmond,eXp Realty of California Inc.,1,3,1,1,1,3,0,No,No,No,No,No,No,CA,95136
+San Jose,67,House ,479999.0,645.0,1,1,2267,D,C+,C-,D,C+,2445 Julibee Ln,Irene Castillo,Century 21 Real Estate Alliance,1,3,1,3,1,3,8,No,No,No,Yes,Yes,No,CA,95131
+San Jose,67,House ,2258000.0,2430.0,5,3,10664,D,C+,C-,D,C+,1751 Frobisher Way,Liz Oreglia,Intero Real Estate Services,1,3,1,2,3,3,7,No,No,No,Yes,Yes,No,CA,95124
+San Jose,67,House ,1498000.0,1275.0,3,2,7075,D,C+,C-,D,C+,761 Willow Glen Way,Melinda Gedryn,Coldwell Banker Realty,1,3,1,2,5,4,0,No,Yes,Yes,No,No,No,CA,95125
+San Jose,67,House ,1799000.0,1581.0,3,2,8496,D,C+,C-,D,C+,1145 Clark Way,Shari Panahi,Intero Real Estate Services,1,3,1,2,2,3,0,No,No,No,No,No,No,CA,95125
+San Jose,67,House ,1499000.0,2124.0,4,3,7080,D,C+,C-,D,C+,6204 Glendora Court,Matthew Swenson,Golden Gate Sotheby's International Realty,1,3,1,3,1,4,2,Yes,Yes,Yes,No,No,No,CA,95123
+San Jose,67,House ,448000.0,667.0,1,1,2116,D,C+,C-,D,C+,1060 S 3rd St 139,Thomas G. Nixon,eXp Realty of California Inc.,1,3,1,1,5,3,4,No,No,No,Yes,Yes,No,CA,95112
+San Jose,67,Manufactured ,349000.0,1800.0,3,2,1648,D,C+,C-,D,C+,510 Saddlebrook Dr 22,Dorothy Coulter,Exit Realty Keystone,1,3,1,1,1,3,6,No,No,No,No,Yes,No,CA,95136
+San Jose,67,House ,2988888.0,1812.0,4,3,14116,D,C+,C-,D,C+,6359 Prospect Rd,Laxmi Penupothula,Real Estate Agent,1,3,1,3,0,3,7,No,No,No,No,Yes,No,CA,95129
+San Jose,67,House ,1699999.0,1885.0,4,2,8029,D,C+,C-,D,C+,6370 Camden Ave,Kristina Allender,Altas Realty,1,2,1,3,2,3,9,No,No,No,No,Yes,No,CA,95120
+San Jose,67,House ,1679888.0,2069.0,3,3,7934,D,C+,C-,D,C+,2758 Bungalow Ct,Deborah Chiang,Realty World Trademark Prop.,1,3,1,1,0,3,12,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,599888.0,880.0,2,1,2833,D,C+,C-,D,C+,284 Kenbrook Cir,Yasir Aladdin,Real Estate Agent,1,3,1,1,1,3,4,No,No,No,Yes,Yes,No,CA,95111
+San Jose,67,House ,1099000.0,1241.0,4,2,5190,D,C+,C-,D,C+,3535 Pitcairn Way,Kim Vu,Coldwell Banker Realty,1,3,1,2,1,3,0,Yes,Yes,Yes,No,No,No,CA,95111
+San Jose,67,House ,1800000.0,1727.0,3,2,8501,D,C+,C-,D,C+,1359 Mariposa Ave,John V. Pinto,"John V. Pinto, Broker",1,3,1,1,5,3,8,No,No,No,Yes,Yes,No,CA,95126
+San Jose,67,House ,855000.0,1050.0,2,2,4038,D,C+,C-,D,C+,7110 Rainbow Dr 12,Michelle Huerta,Real Estate Agent,1,3,1,2,2,3,1,No,No,No,No,Yes,No,CA,95129
+San Jose,67,Manufactured ,270000.0,1740.0,2,2,1275,D,C+,C-,D,C+,783 Villa Teresa Way 783,Lindy Latham,BRG Realty,1,3,1,3,1,3,8,No,No,No,No,Yes,No,CA,95123
+San Jose,67,House ,1279000.0,1635.0,3,3,6041,D,C+,C-,D,C+,211 Proximity Way,Adriane Alston,"Metis Real Estate, Inc.",1,3,1,3,5,3,7,No,No,No,No,Yes,No,CA,95110
+San Jose,67,Condo ,1388888.0,1635.0,3,3,6559,D,C+,C-,D,C+,186 Velocity Way 186,Joe Piazza,Coldwell Banker Realty,1,3,1,2,5,4,0,Yes,Yes,Yes,No,No,No,CA,95110
+San Jose,67,Manufactured ,129900.0,804.0,2,2,613,D,C+,C-,D,C+,759 Spindrift Place,Duane Margreiter,CPS Property Solutions,1,3,1,2,3,3,0,No,Yes,No,No,Yes,No,CA,95134
+San Jose,67,House ,1080000.0,1068.0,3,1,5101,D,C+,C-,D,C+,684 N 15th St,Samantha Lam,"Samantha Lam, Broker",1,3,1,1,5,2,4,No,No,No,No,Yes,No,CA,95112
+San Jose,67,House ,868800.0,844.0,3,2,4103,D,C+,C-,D,C+,142 Millar Ave,Kim Oanh Pham,"Real Estate Investment Experts, Inc.",1,3,1,1,2,2,4,No,No,No,No,Yes,No,CA,95127
+San Jose,67,Condo ,500000.0,903.0,2,1,2361,D,C+,C-,D,C+,4607 Capay Drive # 3,Clyde Washington,Advance 1 McKeever Real Estate,1,3,1,1,1,4,3,Yes,Yes,Yes,Yes,Yes,No,CA,95118
+San Jose,67,House ,1398000.0,1426.0,4,3,6603,D,C+,C-,D,C+,1571 Willowbrook Drive,Heidi Herz,Golden Gate Sotheby's International Realty,1,3,1,3,0,2,2,Yes,Yes,Yes,No,No,No,CA,95118
+San Jose,67,House ,1185000.0,2205.0,4,3,5597,D,C+,C-,D,C+,251 Frangipani Ct,Elena Tsukanova,Compass,1,3,1,1,2,3,0,No,No,No,No,No,No,CA,95111
+San Jose,67,Condo ,749000.0,987.0,1,1,3537,D,C+,C-,D,C+,38 Almaden Boulevard #313,Joseph Karakas,KW Bay Area Estates,1,3,1,2,5,2,1,Yes,Yes,Yes,No,No,No,CA,95110
+San Jose,67,House ,749000.0,987.0,1,1,3537,D,C+,C-,D,C+,38 N Almaden Blvd 313,Joseph Karakas,Real Estate Agent,1,3,1,3,5,3,0,No,No,No,Yes,Yes,No,CA,95110
+San Jose,67,House ,750000.0,1072.0,2,3,3542,D,C+,C-,D,C+,5423 Sanchez Dr,Colleen Bei,Legend Realty & Finance Group,1,2,1,2,1,3,0,No,No,No,No,Yes,No,CA,95123
+San Jose,67,House ,1288000.0,1483.0,3,2,6083,D,C+,C-,D,C+,3059 Muirdrum Place,Daniel Li,KW Silicon City,1,3,1,3,1,1,0,No,Yes,Yes,No,No,No,CA,95148
+San Jose,67,Manufactured ,299888.0,1242.0,3,2,1416,D,C+,C-,D,C+,1520 E Capitol Expy 217,Hong-Lan Nguyen,Bay Realty Group,1,3,1,3,1,3,2,No,No,No,No,Yes,No,CA,95121
+San Jose,67,Condo ,650000.0,1061.0,2,2,3070,D,C+,C-,D,C+,125 Patterson Street # 217,Jimmy Chen,JC Property Investment,1,3,1,1,5,3,3,Yes,Yes,No,Yes,Yes,No,CA,95112
+San Jose,67,House ,1499000.0,2454.0,4,4,7080,D,C+,C-,D,C+,5052 Edenvale Ave,Surinder Gill,Compass,1,3,1,1,1,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,95136
+San Jose,67,House ,1750000.0,2110.0,4,3,8265,D,C+,C-,D,C+,6146 Franciscan Court,Amy A. McCafferty,Golden Gate Sotheby's International Realty,1,2,1,2,2,4,2,Yes,Yes,Yes,No,No,No,CA,95120
+San Jose,67,House ,2498000.0,2707.0,4,3,11798,D,C+,C-,D,C+,7194 Wooded Lake Drive,Heidi Herz,Golden Gate Sotheby's International Realty,1,1,1,2,1,2,4,Yes,Yes,Yes,No,No,No,CA,95120
+San Jose,67,House ,1480000.0,1843.0,4,2,6990,D,C+,C-,D,C+,492 Barron Park Court,Sala Homes Group,SALA Homes Realty & Developmen,1,3,1,3,1,1,0,No,Yes,Yes,No,No,No,CA,95136
+San Jose,67,House ,1888000.0,2788.0,5,4,8917,D,C+,C-,D,C+,843 Delmas Ave,Kasra Farsad,"SV Ventures, Inc",1,3,1,2,5,3,6,No,No,No,No,No,No,CA,95125
+San Jose,67,House ,1998000.0,2047.0,4,2,9436,D,C+,C-,D,C+,1148 Palm St,Joseph Portale,Compass,1,3,1,1,5,3,5,No,No,No,No,Yes,No,CA,95110
+San Jose,67,House ,1200000.0,1355.0,4,2,5667,D,C+,C-,D,C+,5995 S Garden Court,Beau Miracle,Miracle Realty,1,1,1,2,0,2,1,Yes,Yes,Yes,No,Yes,No,CA,95138
+San Jose,67,House ,1398000.0,2273.0,4,3,6603,D,C+,C-,D,C+,798 Clarkston Dr,Erfan Modirzadeh,Intero Real Estate Services,1,3,1,2,1,3,0,No,No,No,No,No,No,CA,95136
+San Jose,67,House ,525000.0,720.0,1,1,2479,D,C+,C-,D,C+,2458 Kimpton Ct,Nannarie Chaikumnerd,eXp Realty of California Inc.,1,3,1,2,1,3,6,No,No,No,No,Yes,No,CA,95133
+San Jose,67,Condo ,599888.0,910.0,2,1,2833,D,C+,C-,D,C+,3586 Payne Avenue 10,Rehman Farishta,Home Advantage Corp,1,3,1,2,3,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,95117
+San Jose,67,House ,1098998.0,1626.0,4,3,5190,D,C+,C-,D,C+,261 Cannikin Dr,Shahnawaz Saigal,CENTURY 21 Real Estate Alliance,1,3,1,0,2,4,1,Yes,Yes,Yes,No,No,No,CA,95116
+San Jose,67,House ,1695950.0,2031.0,4,3,8010,D,C+,C-,D,C+,5403 Ayrshire Dr,Ruben Rosso,"Ruben Rosso, Broker",1,2,1,1,1,3,6,No,No,No,Yes,Yes,No,CA,95118
+San Jose,67,Townhouse ,779000.0,1093.0,2,3,3679,D,C+,C-,D,C+,6937 Rodling Drive # C,Sinan Zakaria,Listed Simply,1,1,1,3,1,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,95138
+San Jose,67,House ,1099000.0,1150.0,2,1,5190,D,C+,C-,D,C+,658 N 14th St,Anna Nguyen,Diversified Realty,1,3,1,1,5,2,4,No,Yes,Yes,No,Yes,No,CA,95112
+San Jose,67,House ,1299000.0,1438.0,3,2,6135,D,C+,C-,D,C+,2623 Reno Drive,Kuldeep Singh,Bay City Real Estate & Loans,1,3,1,3,1,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,95148
+San Jose,67,Manufactured ,235000.0,1440.0,3,2,1110,D,C+,C-,D,C+,494 Pomegranate Ln 494,Hugo Ascencio,Real Estate Agent,1,3,1,1,2,2,4,No,No,No,No,Yes,No,CA,95134
+San Jose,67,House ,2199850.0,2016.0,3,3,10390,D,C+,C-,D,C+,1425 McKendrie St,Debbie Thompson,Elite Realty Services,1,3,1,2,3,3,12,No,No,No,Yes,Yes,No,CA,95126
+San Jose,67,House ,1600000.0,2848.0,3,3,7557,D,C+,C-,D,C+,3890 Balcom Rd,George Montanari,Compass,1,2,1,0,1,2,1,No,No,No,No,No,No,CA,95148
+San Jose,67,House ,600000.0,1054.0,2,2,2834,D,C+,C-,D,C+,25 Muirfield,Johnny Hoang,Keller Williams East County,1,3,1,1,1,3,0,No,No,No,No,No,No,CA,95116
+San Jose,67,Manufactured ,209898.0,672.0,1,2,991,D,C+,C-,D,C+,195 Blossom Hill Rd 135,Ben Alan,Benjamin Alan Properties,1,2,1,3,0,2,5,No,No,No,No,Yes,No,CA,95123
+San Jose,67,Condo ,498500.0,720.0,1,1,2354,D,C+,C-,D,C+,642 Easton Dr,Aida Soriano,Coldwell Banker Realty,1,3,1,2,1,3,0,No,Yes,Yes,No,No,No,CA,95133
+San Jose,67,House ,1250000.0,1365.0,2,2,5904,D,C+,C-,D,C+,96 Fox Ave,Steven Karp,California Realty,1,3,1,2,5,2,0,No,No,No,No,No,No,CA,95110
+San Jose,67,Condo ,524888.0,903.0,2,1,2479,D,C+,C-,D,C+,824 Gilchrist Drive #4,Yasir Aladdin,Compass,1,3,1,2,1,1,0,Yes,Yes,Yes,No,No,No,CA,95133
+San Jose,67,House ,999999.0,1784.0,4,2,4723,D,C+,C-,D,C+,1915 Sarasota Way,Robert Rodriguez,San Diego Heroes Realty,1,3,1,2,2,2,0,No,Yes,Yes,No,No,No,CA,95122
+San Jose,67,Manufactured ,349000.0,1506.0,3,2,1648,D,C+,C-,D,C+,510 Saddle Brook 301,Kathleen Tuttle,Keller Williams Realty-Silicon Valley,1,3,1,3,0,3,7,No,No,No,No,Yes,No,CA,95136
+San Jose,67,Manufactured ,190000.0,1040.0,2,2,897,D,C+,C-,D,C+,2150 Almaden Rd 52,Donald McCline,Keller Williams San Jose Gateway,1,3,1,2,4,3,4,No,No,No,No,Yes,No,CA,95125
+San Jose,67,House ,1249000.0,2280.0,3,2,5899,D,C+,C-,D,C+,11081 Chula Vista Ave,Pam Rodgers,Intero Real Estate Services,1,2,1,2,0,3,0,No,No,No,No,No,No,CA,95127
+San Jose,67,House ,1150000.0,1409.0,5,4,5431,D,C+,C-,D,C+,1941 Biscayne Way,Mariela Velazquez,Real Estate Agent,1,3,1,1,3,3,0,No,Yes,Yes,No,No,No,CA,95122
+San Jose,67,House ,475995.0,632.0,1,1,2248,D,C+,C-,D,C+,1055 N Capitol Ave 198,Fe Casem,IBIS Universal Corporation,1,3,1,2,1,3,0,No,No,No,No,No,No,CA,95133
+San Jose,67,Manufactured ,305000.0,1440.0,3,2,1440,D,C+,C-,D,C+,5450 Monterey Rd 9,Hai Nguyen,Pacificwide Real Estate & Mortgage,1,3,1,3,1,3,4,No,No,No,No,Yes,No,CA,95111
+San Jose,67,Manufactured ,159000.0,1120.0,3,2,751,D,C+,C-,D,C+,109 200 Ford Rd 109,Hugo Ascencio,Real Estate Agent,1,1,1,3,0,3,0,No,No,No,No,No,No,CA,95138
+San Jose,67,House ,450000.0,667.0,1,1,2125,D,C+,C-,D,C+,1060 S 3rd St 359,Abbas Mohammed,eXp Realty of California Inc.,1,3,1,1,5,3,0,No,No,No,Yes,No,No,CA,95112
+San Jose,67,House ,780880.0,1088.0,2,2,3688,D,C+,C-,D,C+,270 Southside Drive,Douglas Heydon,CENTURY 21 Real Estate Alliance,1,3,1,1,1,2,0,Yes,Yes,Yes,No,No,No,CA,95111
+San Jose,67,House ,999950.0,782.0,2,2,4723,D,C+,C-,D,C+,429 N 5th St,David Martz,Compass,1,3,1,1,5,3,8,No,No,No,No,Yes,No,CA,95112
+San Jose,67,Condo ,650000.0,1012.0,2,2,3070,D,C+,C-,D,C+,3157 Kenland Drive,Kitty Ho,Pinnacle Real Estate Group,1,3,1,1,1,2,0,Yes,Yes,Yes,No,Yes,No,CA,95111
+San Jose,67,House ,668000.0,899.0,1,1,3155,D,C+,C-,D,C+,88 E San Fernando St 709,John Leahy,Redfin,1,3,1,3,5,3,2,No,No,No,Yes,Yes,No,CA,95113
+San Jose,67,House ,1275000.0,1402.0,3,2,6022,D,C+,C-,D,C+,1381 Crailford Ct,Kimo Huynh,North Valley Realty Group,1,3,1,3,1,3,1,No,No,No,No,Yes,No,CA,95121
+San Jose,67,House ,2300000.0,2247.0,4,3,10863,D,C+,C-,D,C+,826 N White Rd,Joshua Calderon,Real Estate Agent,1,3,1,1,1,3,0,No,No,No,No,No,No,CA,95127
+San Jose,67,Townhouse ,785000.0,1656.0,2,3,3707,D,C+,C-,D,C+,7087 Santa Teresa Boulevard,Jennifer Rutherford,Compass,1,1,1,3,1,1,0,Yes,Yes,Yes,No,No,No,CA,95139
+San Jose,67,Manufactured ,234990.0,1020.0,3,2,1110,D,C+,C-,D,C+,510 Saddle Brook Dr 324,Angela Garcia,Compass,1,3,1,1,1,3,2,No,No,No,No,Yes,No,CA,95136
+San Jose,67,House ,959000.0,993.0,4,1,4529,D,C+,C-,D,C+,1880 Macduee Way,Lexuan Tran,New Land Corp,1,3,1,3,0,2,4,No,No,No,No,Yes,No,CA,95121
+San Jose,67,House ,1499000.0,2448.0,6,2,7080,D,C+,C-,D,C+,427 Page St,Eric Wong,Real Estate Agent,1,3,1,2,5,3,0,No,Yes,Yes,No,No,No,CA,95126
+San Jose,67,Condo ,530000.0,918.0,2,2,2503,D,C+,C-,D,C+,76 Rancho Dr C,Kevin Su,Reliant Loans & Realty,1,3,1,2,1,2,1,Yes,Yes,Yes,Yes,Yes,No,CA,95111
+San Jose,67,House ,1350000.0,880.0,2,1,6376,D,C+,C-,D,C+,677 Elm Street,Sinan Zakaria,Listed Simply,1,3,1,2,5,3,1,Yes,Yes,Yes,Yes,No,No,CA,95126
+San Jose,67,House ,2690000.0,2050.0,4,2,12704,D,C+,C-,D,C+,508 S Almaden Ave,Mike D'Ambrosio,Intero Real Estate Services,1,3,1,1,5,3,0,No,No,No,No,No,No,CA,95110
+San Jose,67,House ,1139888.0,1360.0,4,2,5384,D,C+,C-,D,C+,4775 Trego Drive,Michael Adari,Verano Real Estate,1,3,1,2,1,2,0,No,Yes,No,No,No,No,CA,95118
+San Jose,67,House ,998000.0,1360.0,4,2,4713,D,C+,C-,D,C+,25 Uxbridge Court,Laxmi Penupothula,Redfin,1,1,1,3,0,1,0,No,Yes,Yes,No,No,No,CA,95139
+San Jose,67,House ,875000.0,1365.0,3,2,4132,D,C+,C-,D,C+,346 Meadow Ln,"Felix  ""The Cat"" Flores",Intero Real Estate Services,1,3,1,1,1,3,0,No,No,No,No,No,No,CA,95127
+San Jose,67,House ,2450000.0,2894.0,4,4,11571,D,C+,C-,D,C+,4311 Botticelli Dr,Tim Nguyen,"Affinity Real Estate Services, Inc.",1,2,1,3,0,3,11,No,No,No,No,Yes,No,CA,95135
+San Jose,67,House ,1075000.0,1400.0,3,2,5077,D,C+,C-,D,C+,480 Curie Drive,Angie Cocke,CENTURY 21 Real Estate Alliance,1,1,1,3,0,2,0,No,Yes,Yes,No,No,No,CA,95123
+San Jose,67,Condo ,559000.0,808.0,1,1,2640,D,C+,C-,D,C+,5933 Sunstone Drive #403,Casey Nguyen,Intero Real Estate Services,1,1,1,3,0,2,1,Yes,Yes,Yes,No,No,No,CA,95123
+San Jose,67,House ,1500000.0,1976.0,5,3,7084,D,C+,C-,D,C+,491 Auzerais Ave,Oscar Martinez,Century Medallion Of Los Gatos,1,3,1,0,5,2,6,No,No,No,No,No,No,CA,95126
+San Jose,67,House ,1199000.0,1800.0,3,4,5663,D,C+,C-,D,C+,737 S 2nd St 3,Domarina Beitpoulice,1st Class Realty Co,1,3,1,0,5,3,6,No,No,No,No,Yes,No,CA,95112
+San Jose,67,House ,1251000.0,1825.0,3,4,5908,D,C+,C-,D,C+,737 S 2nd St 1,Domarina Beitpoulice,1st Class Realty Co,1,3,1,0,5,3,6,No,No,No,No,Yes,No,CA,95112
+San Jose,67,House ,1198000.0,1753.0,3,3,5658,D,C+,C-,D,C+,334 Fuller Avenue,Sheryl Shigemasa,CENTURY 21 Real Estate Alliance,1,3,1,1,4,2,0,No,Yes,Yes,No,No,No,CA,95125
+San Jose,67,House ,820000.0,984.0,2,2,3873,D,C+,C-,D,C+,464 S 9th Street,Nadia Shambo,CENTURY 21 Real Estate Alliance,1,3,1,1,5,2,0,No,Yes,Yes,No,No,No,CA,95112
+San Jose,67,House ,2999888.0,1521.0,3,2,14168,D,C+,C-,D,C+,3812 Dove Hill Rd,Ernesto Martinez,Intero Real Estate Services,1,3,1,3,1,3,0,No,Yes,Yes,No,No,No,CA,95121
+San Jose,67,House ,685000.0,1482.0,3,3,3235,D,C+,C-,D,C+,130 Baroni Avenue #2,Elva Acevedo,CENTURY 21 Real Estate Alliance,1,3,1,3,1,2,0,No,Yes,Yes,No,No,No,CA,95136
+San Jose,67,House ,188888.0,960.0,3,2,892,D,C+,C-,D,C+,160 El Bosque St #160,Tiffani Perry,CENTURY 21 Real Estate Alliance,1,3,1,2,3,2,0,No,Yes,Yes,No,No,No,CA,95134
+San Jose,67,House ,549000.0,1474.0,4,3,2593,D,C+,C-,D,C+,1491 Carmen Ct,Suzane Quimson,24K Real Estate Services,1,3,1,2,1,3,0,No,No,No,No,No,No,CA,95121
+San Jose,67,House ,2250000.0,1077.0,2,1,10626,D,C+,C-,D,C+,1595 Pomona Ave,Steve Becerra,Oxbridge Properties,1,3,1,1,5,2,0,No,No,No,No,No,No,CA,95110
+San Jose,67,House ,1399999.0,2186.0,4,3,6612,D,C+,C-,D,C+,610 Minor Ave,Jerry Kumar,Paramount Buildings & Loans,1,3,1,2,5,3,5,Yes,Yes,Yes,Yes,Yes,No,CA,95125
+San Jose,67,House ,1749000.0,1704.0,4,2,8260,D,C+,C-,D,C+,1336 Ridgewood Dr,Susie Hamilton,Coldwell Banker Realty,1,3,1,2,1,4,0,No,Yes,Yes,No,No,No,CA,95118
+San Jose,67,House ,2188000.0,1768.0,3,4,10334,D,C+,C-,D,C+,2130 Bello Ave,Camille Eder,Coldwell Banker Realty,1,3,1,2,2,3,0,No,Yes,Yes,No,No,No,CA,95125
+San Jose,67,House ,1995000.0,1552.0,4,3,9422,D,C+,C-,D,C+,14701 Cole Dr,Maryam Tabatabaei,Coldwell Banker Realty,1,3,1,2,4,4,0,No,Yes,Yes,No,No,No,CA,95124
+San Jose,67,House ,2348000.0,2315.0,5,3,11089,D,C+,C-,D,C+,1857 Laurinda Drive,Susan Laragione,Corcoran Global Living,1,3,1,2,1,2,0,No,Yes,Yes,No,No,No,CA,95124
+San Jose,67,House ,1100000.0,1274.0,3,2,5195,D,C+,C-,D,C+,2863 Alwood Court,Jill Chen,Keller Williams Palo Alto,1,3,1,3,1,1,0,No,Yes,Yes,No,No,No,CA,95148
+San Jose,67,Manufactured ,319000.0,1516.0,3,2,1507,D,C+,C-,D,C+,401 Southbay Drive #401,Brian Shaw,Alliance Manufactured Homes In,1,3,1,2,3,1,0,Yes,Yes,No,No,No,Yes,CA,95134
+San Jose,67,Manufactured ,235000.0,1440.0,3,2,1110,D,C+,C-,D,C+,494 Pomegranate Lane #494,Hugo Ascencio,Radius Agent Realty,1,3,1,1,2,1,0,Yes,Yes,No,No,No,No,CA,95134
+Palo Alto,80,House ,1698888.0,1850.0,3,2,8024,C+,A+,C+,A+,B+,440 Cesano Ct 210,Chandani Group,Compass,2,3,1,1,5,3,0,No,No,No,No,No,No,CA,94306
+Palo Alto,80,House ,1529700.0,1183.0,3,3,7225,C+,A+,C+,A+,B+,535 Channing Ave,Brian Chancellor,Real Estate Agent,2,3,1,2,5,3,2,No,No,No,Yes,Yes,No,CA,94301
+Palo Alto,80,House ,2998000.0,1561.0,3,2,14159,C+,A+,C+,A+,B+,966 Blair Ct,Dana Van Hulsen,Compass,2,3,1,1,5,3,9,No,No,No,No,Yes,No,CA,94303
+Palo Alto,80,House ,3000000.0,1232.0,3,2,14169,C+,A+,C+,A+,B+,2140 High St,Nicole Carol,Compass,2,3,1,2,5,2,6,No,No,No,No,Yes,No,CA,94301
+Palo Alto,80,House ,978000.0,822.0,1,1,4619,C+,A+,C+,A+,B+,881 Federation Way,Anson Ip,Compass,2,3,1,3,4,3,8,No,No,No,No,Yes,No,CA,94303
+Palo Alto,80,House ,2388000.0,1650.0,4,2,11278,C+,A+,C+,A+,B+,717 And 723 Ellsworth Pl,Annie Watson,Coldwell Banker Realty,2,3,1,0,5,3,0,No,Yes,Yes,No,No,No,CA,94306
+Palo Alto,80,House ,2750000.0,2137.0,5,2,12988,C+,A+,C+,A+,B+,601 Chimalus Dr,Kristjan Higdon,eXp Realty of California Inc.,2,3,1,1,5,3,15,No,No,No,No,Yes,No,CA,94306
+Palo Alto,80,House ,2828000.0,1395.0,4,3,13356,C+,A+,C+,A+,B+,680 Colorado Ave,Roxane Chiang,Giant Realty Inc.,2,3,1,0,5,2,0,No,No,No,No,No,No,CA,94306
+Palo Alto,80,House ,998000.0,913.0,1,1,4713,C+,A+,C+,A+,B+,101 Alma St 808,Edward Paulin,Compass,2,3,1,1,5,3,8,No,No,No,Yes,Yes,No,CA,94301
+Palo Alto,80,House ,1498000.0,1334.0,2,2,7075,C+,A+,C+,A+,B+,185 Forest Ave 2B,Samuel Spinella Ii,Spoke Real Estate,2,3,1,2,5,2,0,No,No,No,No,No,No,CA,94301
+Palo Alto,80,House ,1495000.0,1096.0,2,2,7061,C+,A+,C+,A+,B+,500 Fulton St 201,Judy Citron,Compass,2,3,1,2,5,3,0,No,No,No,No,Yes,No,CA,94301
+Palo Alto,80,House ,2250000.0,1525.0,2,3,10626,C+,A+,C+,A+,B+,329 Ramona St,Tim Anderson,Sereno,2,3,1,2,5,2,7,No,No,No,No,Yes,No,CA,94301
+Palo Alto,80,Condo ,1299990.0,1030.0,2,2,6140,C+,A+,C+,A+,B+,765 San Antonio Road #37,Allen Gu,"California Sunshine Inv, Inc",2,3,1,3,3,1,0,Yes,Yes,Yes,No,Yes,No,CA,94303
+Palo Alto,80,Condo ,1349000.0,1056.0,2,2,6371,C+,A+,C+,A+,B+,518 Everett D,Christina O'Brien,5 Star Realty Partners,2,3,1,2,5,2,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94301
+Santa Clara,77,House ,2988000.0,2460.0,5,3,14112,B-,B+,B,B+,B-,311 Madrone Ave,Chia-Yu Huang,Coldwell Banker Realty,1,3,1,2,0,3,0,Yes,Yes,Yes,No,No,No,CA,95051
+Santa Clara,77,House ,1979000.0,2397.0,4,4,9346,B-,B+,B,B+,B-,2971 Jerald,William McKown,Bailey Properties,1,3,1,2,0,2,9,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,1380000.0,1130.0,3,2,6518,B-,B+,B,B+,B-,2426 Glendenning Ave,Andy Tse,Intero Real Estate Services,1,3,1,2,0,3,1,No,No,No,No,No,No,CA,95050
+Santa Clara,77,House ,799000.0,1316.0,2,2,3774,B-,B+,B,B+,B-,2200 Agnew Rd 117,Sandra Zib,Intero Real Estate Services,1,3,1,2,2,3,7,No,No,No,No,Yes,No,CA,95054
+Santa Clara,77,House ,1399000.0,1146.0,3,2,6607,B-,B+,B,B+,B-,1776 Laine Ave,Chau Nguyen,Alliance Bay Realty,1,3,1,1,0,3,0,No,No,No,No,No,No,CA,95051
+Santa Clara,77,House ,1100000.0,1215.0,2,2,5195,B-,B+,B,B+,B-,2370 Shoreside Ct,Kelly Goni,Sereno,1,3,1,2,2,3,5,No,No,No,Yes,Yes,No,CA,95054
+Santa Clara,77,House ,1675000.0,1495.0,3,1,7911,B-,B+,B,B+,B-,972 Fairfield Ave,Bruce Newman,Coldwell Banker Realty,1,3,1,2,0,4,0,Yes,Yes,Yes,No,No,No,CA,95050
+Santa Clara,77,House ,1180000.0,1155.0,3,1,5573,B-,B+,B,B+,B-,1075 Reed St,David Bettencourt,Bettencourt Real Estate Services,1,3,1,0,0,2,0,No,No,No,No,No,No,CA,95050
+Santa Clara,77,House ,998000.0,1433.0,2,2,4713,B-,B+,B,B+,B-,603 Valeri Ruth Ct,Howard Bloom,Intero Real Estate Services,1,3,1,2,0,3,11,No,No,No,Yes,Yes,No,CA,95050
+Santa Clara,77,House ,1899000.0,1991.0,4,4,8969,B-,B+,B,B+,B-,2985 Warburton Ave,Vinicius Brasil,Keller Williams Realty - Cupertino,1,3,1,2,0,2,0,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,599900.0,858.0,2,1,2833,B-,B+,B,B+,B-,2250 Monroe St 262,Amy Su,Maxreal,1,3,1,1,1,3,9,No,No,No,Yes,Yes,No,CA,95050
+Santa Clara,77,House ,1599000.0,1511.0,4,2,7552,B-,B+,B,B+,B-,961 Maryann Dr,Pamela Minnis,Coldwell Banker Realty,1,3,1,3,0,4,0,No,Yes,Yes,No,No,No,CA,95050
+Santa Clara,77,House ,975000.0,937.0,3,1,4605,B-,B+,B,B+,B-,1031 Di Giulio Ave,Gary Hill,Compass,1,3,1,1,1,3,5,No,No,No,No,Yes,No,CA,95050
+Santa Clara,77,House ,1699950.0,1520.0,4,2,8029,B-,B+,B,B+,B-,3490 Notre Dame Dr,Al Moridi,Intero Real Estate Services,1,3,1,3,0,3,5,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,1688888.0,1684.0,3,2,7976,B-,B+,B,B+,B-,3645 De Soto Ave,Danielle Contreras,Coldwell Banker Realty,1,3,1,3,0,4,0,Yes,Yes,Yes,No,No,No,CA,95051
+Santa Clara,77,House ,1898000.0,1790.0,4,3,8964,B-,B+,B,B+,B-,3139 Fowler Ave,New Door,Compass,1,3,1,1,0,2,0,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,630000.0,983.0,2,2,2975,B-,B+,B,B+,B-,1730 Halford Ave 244,Claudine Rydquist,Intero Real Estate Services,1,3,1,3,0,2,6,No,No,No,Yes,Yes,No,CA,95051
+Santa Clara,77,House ,723888.0,865.0,1,1,3419,B-,B+,B,B+,B-,3901 Lick Mill Blvd 430,Steve Mun,Keller Williams Realty-Silicon Valley,1,3,1,1,2,3,7,No,No,No,No,Yes,No,CA,95054
+Santa Clara,77,House ,1599000.0,1254.0,3,2,7552,B-,B+,B,B+,B-,617 Kiely Blvd,Alex Lunginovic,Montalvo Realty,1,3,1,3,0,2,10,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,1499950.0,1390.0,3,2,7084,B-,B+,B,B+,B-,656 Scott Blvd,Al Moridi,Intero Real Estate Services,1,3,1,1,0,2,5,No,No,No,No,Yes,No,CA,95050
+Santa Clara,77,House ,1688888.0,1598.0,3,2,7976,B-,B+,B,B+,B-,2210 Crocker Way,Craig Gorman,Intero Real Estate Services,1,3,1,3,0,3,2,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,1850000.0,2638.0,5,4,8737,B-,B+,B,B+,B-,2533 Amethyst Dr,Jingya Ji,Coldwell Banker Realty,1,3,1,3,0,4,0,Yes,Yes,Yes,No,No,No,CA,95051
+Santa Clara,77,House ,1999888.0,2126.0,4,2,9445,B-,B+,B,B+,B-,2637 Landslide Ct,Alexis Orosco,Realty One Group Infinity,1,3,1,2,0,3,4,No,No,No,Yes,Yes,No,CA,95051
+Santa Clara,77,House ,1388000.0,897.0,3,2,6555,B-,B+,B,B+,B-,2516 Parkland Court,Denise Alberto,Real Estate eBroker Inc,1,3,1,3,0,2,1,No,Yes,Yes,No,Yes,No,CA,95051
+Santa Clara,77,Condo ,599950.0,983.0,2,2,2833,B-,B+,B,B+,B-,1750 Halford Ave 211,Karl Gerner,Coldwell Banker Realty,1,3,1,3,0,3,0,No,Yes,Yes,No,No,No,CA,95051
+Santa Clara,77,House ,1499000.0,1594.0,3,2,7080,B-,B+,B,B+,B-,2796 Donovan Ave,Vinicius Brasil,Keller Williams Realty - Cupertino,1,3,1,3,0,3,0,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,699888.0,834.0,1,1,3305,B-,B+,B,B+,B-,3901 Lick Mill Blvd 232,Mymy Trieu,Real Estate Agent,1,3,1,1,2,3,6,No,No,No,No,Yes,No,CA,95054
+Santa Clara,77,House ,1898000.0,1284.0,3,2,8964,B-,B+,B,B+,B-,393 La Salle Ave,Vinicius Brasil,Keller Williams Realty - Cupertino,1,3,1,3,0,3,0,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,1328888.0,897.0,3,1,6276,B-,B+,B,B+,B-,2527 Pilot Knob Dr,Nicole Trieu,"Nhung Trieu, Broker",1,3,1,3,0,2,4,No,No,No,No,Yes,No,CA,95051
+Santa Clara,77,House ,298550.0,1334.0,3,3,1410,B-,B+,B,B+,B-,620 Hermitage,Cecilia Dori,Real Estate Agent,1,3,1,2,3,2,0,No,Yes,Yes,No,No,No,CA,95134
+Santa Clara,77,House ,1345000.0,1666.0,4,2,6352,B-,B+,B,B+,B-,3735 Eastwood Circle,Century 21 Mm ,"CENTURY 21 Select Real Estate, Inc.",1,3,1,1,2,2,0,No,Yes,Yes,No,No,No,CA,95054
+Santa Clara,77,House ,1180000.0,1235.0,3,2,5573,B-,B+,B,B+,B-,327 Los Padres Blvd,John Bonfiglio,RE/MAX GOLD Plymouth,1,3,1,1,0,1,0,No,Yes,No,No,No,No,CA,95050
+Cupertino,83,House ,2300000.0,1697.0,3,2,10863,A,A-,C+,A+,A-,10780 Brookwell Dr,Adriana Morris,Intero Real Estate Services,1,3,1,2,1,2,0,No,No,No,No,No,No,CA,95014
+Cupertino,83,House ,2688000.0,2071.0,4,3,12695,A,A-,C+,A+,A-,10218 Mira Vista Rd,Mary Tan,Compass,1,3,1,0,5,2,1,No,No,No,No,Yes,No,CA,95014
+Cupertino,83,House ,2998000.0,2285.0,4,3,14159,A,A-,C+,A+,A-,7552 Heatherwood Dr,Janice Sehr,Coldwell Banker Realty,1,3,1,2,2,4,0,Yes,Yes,Yes,No,No,No,CA,95014
+Cupertino,83,House ,2388000.0,1758.0,4,3,11278,A,A-,C+,A+,A-,1480 Aster Ct,Steven Wu,W Star Investment Inc,1,3,1,2,3,2,4,No,No,No,No,Yes,No,CA,95014
+Cupertino,83,House ,1700000.0,1539.0,3,2,8029,A,A-,C+,A+,A-,21743 Alcazar Ave,Brittany Kaczorowski,Real Estate Agent,1,3,1,0,3,3,0,No,No,No,No,No,No,CA,95014
+Cupertino,83,House ,2998000.0,1687.0,4,3,14159,A,A-,C+,A+,A-,10532 Cedar Tree Ct,Andy Tse,Intero Real Estate Services,1,3,1,1,1,3,10,No,No,No,No,Yes,No,CA,95014
+Cupertino,83,House ,1999888.0,2094.0,2,2,9445,A,A-,C+,A+,A-,10943 Canyon Vista Dr,Coco Tan,Keller Williams Realty-Silicon Valley,1,3,1,0,5,3,0,No,No,No,No,No,No,CA,95014
+Cupertino,83,House ,999000.0,914.0,2,1,4718,A,A-,C+,A+,A-,21062 Red Fir Ct,Helen Yang,Maxreal,1,3,1,3,3,3,5,No,No,No,No,Yes,No,CA,95014
+Cupertino,83,House ,2190000.0,1477.0,3,3,10343,A,A-,C+,A+,A-,10033 Peninsula Ave,Han Chi Tsai,JS Realty,1,3,1,0,5,3,6,No,No,No,No,Yes,No,CA,95014
+Cupertino,83,House ,838000.0,884.0,1,1,3958,A,A-,C+,A+,A-,10251 Nile Dr,David Lillo,DPL Real Estate,1,3,1,1,2,2,10,No,No,No,Yes,Yes,No,CA,95014
+Cupertino,83,House ,980000.0,743.0,1,1,4628,A,A-,C+,A+,A-,20500 Town Center Ln 177,Cynthia Cheung,About Real Estate,1,3,1,2,2,2,6,No,No,No,No,Yes,No,CA,95014
+Cupertino,83,Condo ,988000.0,1199.0,2,2,4666,A,A-,C+,A+,A-,20647 Celeste Cir,Vincent Yu,CENTURY 21 Real Estate Alliance,1,3,1,3,1,2,0,Yes,Yes,Yes,No,No,No,CA,95014
+Cupertino,83,House ,1158888.0,1178.0,2,2,5473,A,A-,C+,A+,A-,10745 N De Anza Blvd 108,John Leahy,Redfin,1,3,1,3,1,3,6,No,No,No,No,Yes,No,CA,95014
+Cupertino,83,House ,2395000.0,900.0,2,1,11311,A,A-,C+,A+,A-,11041 Stevens Canyon Rd,Gabe Reyes,Intero Real Estate Services,1,3,1,0,5,2,0,No,Yes,Yes,No,No,No,CA,95014
+Cupertino,83,House ,799888.0,850.0,2,1,3778,A,A-,C+,A+,A-,17950 Stevens Canyon Rd,Compass ,Compass,1,2,1,0,0,2,0,No,Yes,Yes,No,No,No,CA,95014
+Cupertino,83,Townhouse ,1850000.0,2058.0,4,4,8737,A,A-,C+,A+,A-,10280 Park Green Lane #828,Rossana Froehlich,CENTURY 21 Real Estate Alliance,1,3,1,2,2,2,0,No,Yes,Yes,No,No,No,CA,95014
+Cupertino,83,House ,910000.0,1194.0,1,2,4298,A,A-,C+,A+,A-,10745 N De Anza Blvd 105,The Jamison Team,Tuscana Properties,1,3,1,3,1,3,7,No,No,No,No,Yes,No,CA,95014
+Milpitas,74,House ,1195000.0,1547.0,3,3,5644,B-,B-,C-,C+,A,466 Cascadita Ter,Annie Culbertson,Real Estate Agent,1,3,1,3,0,3,7,No,No,No,Yes,Yes,No,CA,95035
+Milpitas,74,House ,799000.0,1259.0,2,2,3774,B-,B-,C-,C+,A,800 S Abel St 427,Alex Yap,Realty World Dominion,1,3,1,2,0,3,1,No,No,No,Yes,Yes,No,CA,95035
+Milpitas,74,House ,1295000.0,1460.0,3,2,6116,B-,B-,C-,C+,A,325 Hazen St,Drew Eggum,Blue Sapphire Homes,1,3,1,2,0,3,8,No,Yes,Yes,Yes,Yes,No,CA,95035
+Milpitas,74,House ,2099000.0,2038.0,4,3,9913,B-,B-,C-,C+,A,760 Via Baja Dr,Mou Wong,168 Realty,1,2,1,2,0,3,0,No,No,No,No,No,No,CA,95035
+Milpitas,74,House ,1199000.0,1833.0,3,3,5663,B-,B-,C-,C+,A,490 Montague Expy 21,Michelle Huerta,Real Estate Agent,1,3,1,3,0,3,7,No,No,No,No,Yes,No,CA,95035
+Milpitas,74,House ,1285000.0,1112.0,3,2,6069,B-,B-,C-,C+,A,280 Silvera Street,Judy Chen Pak,Venture Sotheby's International Realty,1,3,1,2,0,4,1,Yes,Yes,Yes,No,No,No,CA,95035
+Milpitas,74,House ,1249000.0,1810.0,3,3,5899,B-,B-,C-,C+,A,1172 Vida Larga Loop,Maya Hsu,Compass,1,3,1,2,0,3,7,No,No,No,Yes,Yes,No,CA,95035
+Milpitas,74,House ,1490000.0,2147.0,4,4,7037,B-,B-,C-,C+,A,924 Smith Ln,John Tran,Compass,1,3,1,3,0,3,10,No,No,No,No,Yes,No,CA,95035
+Milpitas,74,Condo ,549888.0,635.0,1,1,2597,B-,B-,C-,C+,A,1101 S Main 321,Ritu Jain,Legacy Real Estate & Assoc.,1,3,1,3,0,3,7,Yes,Yes,Yes,Yes,Yes,No,CA,95035
+Milpitas,74,House ,1395000.0,1772.0,3,3,6588,B-,B-,C-,C+,A,659 Ternura Loop,Bahar Hatami,Bayview Residential Brokerage,1,3,1,2,0,3,7,No,No,No,Yes,Yes,No,CA,95035
+Milpitas,74,House ,1700000.0,2747.0,6,3,8029,B-,B-,C-,C+,A,445 S Park Victoria Dr,Anita Acacio,eXp Realty of California Inc.,1,3,1,3,0,2,0,No,No,No,No,Yes,No,CA,95035
+Milpitas,74,House ,1095900.0,980.0,3,1,5176,B-,B-,C-,C+,A,476 Walnut Dr,Zack Lu,Wisestream Inc.,1,3,1,2,0,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,95035
+Milpitas,74,House ,1249000.0,1085.0,3,2,5899,B-,B-,C-,C+,A,531 Greathouse Dr,Sherry Lau,"eXp Realty of California, Inc",1,3,1,2,0,1,8,No,Yes,Yes,Yes,Yes,No,CA,95035
+Milpitas,74,House ,1248000.0,1817.0,3,3,5894,B-,B-,C-,C+,A,1002 Luz Del Sol Loop,Nancy Wu,Morgan Real Estate,1,3,1,2,0,3,8,No,No,No,Yes,Yes,No,CA,95035
+Milpitas,74,House ,1198888.0,1713.0,4,2,5662,B-,B-,C-,C+,A,1311 Canton Drive,David Lau,CENTURY 21 Real Estate Alliance,1,3,1,3,0,2,0,No,Yes,Yes,No,No,No,CA,95035
+Milpitas,74,Townhouse ,724800.0,1146.0,3,2,3423,B-,B-,C-,C+,A,254 Lynn Avenue,Fiona Santos,CENTURY 21 Real Estate Alliance,1,2,1,3,0,2,0,No,Yes,Yes,No,No,No,CA,95035
+Fremont,76,House ,1300000.0,1643.0,3,3,6140,B-,B+,C+,A-,B-,816 Grunion Terrace,Shirley Yang,Sereno,2,3,1,2,4,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94536
+Fremont,76,House ,999000.0,1436.0,3,3,4718,B-,B+,C+,A-,B-,37332 Duckling Ter 38,Jayashree S. Mishra,Compass,2,2,1,0,2,3,6,No,No,No,Yes,Yes,No,CA,94536
+Fremont,76,House ,1680000.0,2411.0,5,3,7934,B-,B+,C+,A-,B-,3581 Ronald Ct,Amy Liu,Legacy Real Estate & Assoc.,2,2,1,1,0,3,5,No,Yes,Yes,Yes,Yes,No,CA,94538
+Fremont,76,House ,459000.0,693.0,1,1,2168,B-,B+,C+,A-,B-,39224 Guardino Dr 115,Daniela Alvarez,Intero Real Estate Services,2,2,1,3,3,2,0,No,No,No,Yes,No,No,CA,94538
+Fremont,76,Condo ,1445000.0,1847.0,3,3,6824,B-,B+,C+,A-,B-,45249 Electric Terrace # 301,Joseph Sabeh,Venture Sotheby's International Realty,2,3,1,2,0,4,2,Yes,Yes,Yes,No,No,No,CA,94539
+Fremont,76,House ,2498000.0,2514.0,4,3,11798,B-,B+,C+,A-,B-,1901 Cameron Hills Court,Joseph Sabeh,Venture Sotheby's International Realty,1,2,1,2,0,4,1,Yes,Yes,Yes,No,No,No,CA,94539
+Fremont,76,House ,1150000.0,1144.0,3,2,5431,B-,B+,C+,A-,B-,40237 Davis Ct,Luis Medina,Realty ONE Group Zoom,2,2,1,0,1,3,3,Yes,Yes,Yes,Yes,Yes,Yes,CA,94538
+Fremont,76,House ,1450000.0,1550.0,3,2,6848,B-,B+,C+,A-,B-,2928 Park Place Common,Irina Petrea,Coldwell Banker Realty,2,2,1,1,3,4,0,Yes,Yes,Yes,No,No,No,CA,94536
+Fremont,76,House ,1390000.0,1468.0,3,2,6565,B-,B+,C+,A-,B-,4966 Boone Dr,James Chen,"JL Realty, Inc.",2,2,1,3,1,2,5,No,Yes,Yes,Yes,Yes,No,CA,94538
+Fremont,76,House ,1999000.0,2355.0,5,3,9441,B-,B+,C+,A-,B-,34973 Silverlock Ct,Kaajal Shahani,Intero Real Estate Services,2,3,1,2,3,3,2,No,Yes,Yes,Yes,Yes,No,CA,94555
+Fremont,76,House ,1799900.0,2285.0,4,2,8501,B-,B+,C+,A-,B-,3169 Fairfax Ct,Gina Rinetti Marques,"Rinetti & Co., REALTORS?",2,3,1,2,3,3,11,No,Yes,Yes,Yes,Yes,No,CA,94536
+Fremont,76,Townhouse ,1199000.0,1640.0,3,3,5663,B-,B+,C+,A-,B-,3401 Manchester Common,Yolo County Realty Inc ,Yolo County Realty Inc,2,2,1,2,4,4,3,Yes,Yes,Yes,Yes,Yes,No,CA,94536
+Fremont,76,House ,1290000.0,1427.0,4,2,6092,B-,B+,C+,A-,B-,39872 Duran Ct,Mario Ramirez,KW Bay Area Estates,2,2,1,2,1,3,0,No,No,No,No,No,No,CA,94538
+Fremont,76,House ,999000.0,1014.0,4,2,4718,B-,B+,C+,A-,B-,37960 Canyon Heights Dr,Suzanne Rawlings,REALTY EXPERTS,2,3,1,0,3,3,4,No,Yes,Yes,Yes,Yes,No,CA,94536
+Fremont,76,Townhouse ,885000.0,1110.0,2,3,4180,B-,B+,C+,A-,B-,34709 Woodhue Ter,Theresa Wang,Keller Williams Benchmark,2,3,1,3,1,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94555
+Fremont,76,Condo ,465000.0,693.0,1,1,2196,B-,B+,C+,A-,B-,39109 Guardino 231,Christine Mason,Side Inc.,2,2,1,3,3,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94538
+Fremont,76,House ,2549888.0,2598.0,4,3,12043,B-,B+,C+,A-,B-,4827 Barndance St,Eddie Oberoi,Intero Real Estate Services,2,2,1,3,2,3,2,No,No,No,No,Yes,No,CA,94555
+Fremont,76,House ,1388000.0,1868.0,3,4,6555,B-,B+,C+,A-,B-,3832 Fiano Cmn,Dan Li,Compass,2,3,1,2,3,3,0,No,No,No,No,No,No,CA,94555
+Fremont,76,Townhouse ,645000.0,1006.0,2,2,3046,B-,B+,C+,A-,B-,5583 Hemlock Ter,Gabriel Heredia,Redfin,2,2,1,3,1,3,1,Yes,Yes,Yes,Yes,Yes,No,CA,94538
+Fremont,76,House ,1799000.0,1950.0,4,2,8496,B-,B+,C+,A-,B-,5096 Amberwood Dr,Xiaqin Gu,Coldwell Banker Realty,2,3,1,3,2,4,0,Yes,Yes,Yes,No,No,No,CA,94555
+Fremont,76,Townhouse ,699900.0,1166.0,3,2,3306,B-,B+,C+,A-,B-,4117 Greenland Ter,Daphne S. Lau,Legacy Real Estate & Assoc.,2,3,1,2,3,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94555
+Fremont,76,Condo ,429950.0,693.0,1,1,2031,B-,B+,C+,A-,B-,39059 Guardino Drive #108,Michael Young,Princeton Pacific Properties,2,2,1,3,3,3,0,Yes,Yes,Yes,No,Yes,No,CA,94538
+Fremont,76,Condo ,699888.0,945.0,2,2,3305,B-,B+,C+,A-,B-,37070 Penzance Cmn,Yue Li,Keller Williams Benchmark,2,2,1,2,2,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94536
+Fremont,76,Condo ,799000.0,1200.0,2,2,3774,B-,B+,C+,A-,B-,189 Mohave Cmn,Rajeev Awasty,Intero Real Estate Services,1,3,1,3,0,2,9,Yes,Yes,Yes,Yes,Yes,No,CA,94539
+Fremont,76,Condo ,460000.0,936.0,2,1,2173,B-,B+,C+,A-,B-,3651 Knollwood Ter 114,Kathy Bartle,Legacy Real Estate & Assoc.,2,2,1,0,2,2,3,Yes,Yes,Yes,Yes,Yes,No,CA,94536
+Fremont,76,House ,1898000.0,1729.0,4,3,8964,B-,B+,C+,A-,B-,34140 Audrey Ct,Nicole Causey,Everhome,2,3,1,3,3,3,8,No,Yes,Yes,Yes,Yes,No,CA,94555
+Fremont,76,Condo ,849000.0,1170.0,3,2,4010,B-,B+,C+,A-,B-,77 Shaniko Cmn Unit 20,Siddhi Shah,Coldwell Banker Realty,1,3,1,1,0,3,0,No,Yes,Yes,No,No,No,CA,94539
+Fremont,76,Condo ,745000.0,950.0,2,2,3519,B-,B+,C+,A-,B-,5313 Tacoma Common,Hayley Nguyen,Keller Williams Realty,2,3,1,3,1,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94555
+Fremont,76,House ,959000.0,1257.0,2,2,4529,B-,B+,C+,A-,B-,39610 Trinity Way,Chirag Harry,WDB Realty & Finance,2,2,1,3,1,3,7,Yes,Yes,Yes,Yes,Yes,No,CA,94538
+Fremont,76,House ,1999000.0,2002.0,4,3,9441,B-,B+,C+,A-,B-,4334 Othello Dr,Joveen Chacko,Cascade California Realty,2,3,1,3,2,3,6,No,Yes,Yes,Yes,Yes,No,CA,94555
+Fremont,76,Townhouse ,1098000.0,1500.0,3,3,5186,B-,B+,C+,A-,B-,43041 Mayfair Park Ter,Helen Liu,Intero Real Estate Services,2,2,1,2,0,3,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94538
+Fremont,76,House ,1698000.0,1500.0,4,2,8019,B-,B+,C+,A-,B-,341 De Leon Avenue,Chris Liu,"Main Street Real Estate, Inc.",1,2,1,1,0,2,2,Yes,Yes,No,Yes,Yes,No,CA,94539
+Fremont,76,House ,999000.0,1067.0,3,2,4718,B-,B+,C+,A-,B-,39681 Catamaran Ct,Miriam Cruz,Real Estate Agent,2,2,1,2,0,2,0,No,No,No,No,No,No,CA,94538
+Fremont,76,House ,899980.0,1364.0,2,3,4250,B-,B+,C+,A-,B-,26 Sea Crest Ter,Annie Zhou,Compass,2,3,1,0,3,3,6,No,No,No,Yes,Yes,No,CA,94536
+Fremont,76,Condo ,649900.0,985.0,2,2,3069,B-,B+,C+,A-,B-,3813 Milton Ter,Ram Saran,Coldwell Banker Realty,2,3,1,2,3,4,0,No,Yes,Yes,No,No,No,CA,94555
+Fremont,76,Condo ,949000.0,1303.0,2,2,4482,B-,B+,C+,A-,B-,269 Fountain Grass Ter,Tammy Xuan Nguyen,Baycal Capital,1,3,1,2,0,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94539
+Fremont,76,House ,1298000.0,1269.0,3,2,6130,B-,B+,C+,A-,B-,4336 Burney Way,Danny Burgess,eXp Realty of California Inc.,2,2,1,2,1,2,0,No,No,No,No,No,No,CA,94538
+Fremont,76,House ,789888.0,680.0,2,1,3731,B-,B+,C+,A-,B-,3788 Almond Ave,Robert Dang,Excalibur Home and Mortgage,2,2,1,2,1,2,0,No,Yes,Yes,No,No,No,CA,94538
+Fremont,76,House ,2430000.0,2470.0,4,3,11476,B-,B+,C+,A-,B-,38643 Beloit St,Alexander Lehr,Guide Real Estate,2,2,1,2,3,3,13,No,No,No,No,Yes,No,CA,94536
+Fremont,76,House ,1299000.0,1500.0,4,4,6135,B-,B+,C+,A-,B-,33199 Lake Oneida St,Sanjiv Nayyar,Redfin,2,3,1,2,1,3,4,No,Yes,Yes,Yes,Yes,No,CA,94555
+Fremont,76,Townhouse ,1299800.0,1578.0,4,3,6139,B-,B+,C+,A-,B-,43171 Washington Cmn,Tim S. Wang,Legacy Real Estate & Assoc.,1,2,1,2,0,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94539
+Fremont,76,House ,1588888.0,1958.0,4,3,7504,B-,B+,C+,A-,B-,4558 Doane Street,Judy Chein,"Beacon Real Estate, Inc.",2,2,1,2,0,2,1,Yes,Yes,No,Yes,Yes,No,CA,94538
+Fremont,76,House ,1025000.0,1582.0,2,2,4841,B-,B+,C+,A-,B-,37734 2nd St,Surinder Gill,Compass,2,3,1,0,4,2,5,No,Yes,Yes,Yes,Yes,No,CA,94536
+Fremont,76,Condo ,1806995.0,2500.0,4,4,8534,B-,B+,C+,A-,B-,1918 Kilowatt Way 102 F2,Minji Lee,"Toll Brothers Real Estate,Inc.",2,3,1,2,0,3,13,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,748000.0,840.0,2,2,3533,B-,B+,C+,A-,B-,930 Cherry Glen Cir Unit 217,Joe Schembri,Coldwell Banker Realty,2,3,1,2,3,4,0,No,Yes,Yes,No,No,No,CA,94536
+Fremont,76,Condo ,1785995.0,2460.0,4,4,8434,B-,B+,C+,A-,B-,1918 Kilowatt Way 101 F2,Minji Lee,"Toll Brothers Real Estate,Inc.",2,3,1,2,0,3,13,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,House ,2798000.0,2932.0,5,4,13214,B-,B+,C+,A-,B-,40707 Palatino Street,Joseph Sabeh,Venture Sotheby's International Realty,2,2,1,2,2,4,2,Yes,Yes,Yes,No,No,No,CA,94539
+Fremont,76,House ,1679950.0,1958.0,4,4,7934,B-,B+,C+,A-,B-,208 Ladybug Terrace,Joseph Sabeh,Venture Sotheby's International Realty,2,2,1,3,3,4,4,Yes,Yes,Yes,No,No,No,CA,94539
+Fremont,76,House ,399900.0,714.0,1,1,1889,B-,B+,C+,A-,B-,3416 Deerwood Ter 312,Angela Chinn Tu,Silicon Valley Heights,2,2,1,1,2,2,1,No,No,No,Yes,Yes,No,CA,94536
+Fremont,76,Condo ,1758888.0,2453.0,4,4,8307,B-,B+,C+,A-,B-,45249 Electric Ter 101,Parminder Kaur,BayOne Real Estate Inv Corp,2,3,1,2,0,3,11,Yes,Yes,Yes,Yes,Yes,No,CA,94539
+Fremont,76,Condo ,1399999.0,2015.0,4,3,6612,B-,B+,C+,A-,B-,3629 Jubilee Cmn,Randy Basso,Coldwell Banker Realty,2,2,1,3,2,3,0,No,Yes,Yes,No,No,No,CA,94538
+Fremont,76,Condo ,710000.0,1077.0,2,2,3353,B-,B+,C+,A-,B-,39224 Guardino Dr 202,Brian Ripp,Legacy Real Estate & Assoc.,2,2,1,3,3,3,7,Yes,Yes,Yes,Yes,Yes,No,CA,94538
+Fremont,76,Condo ,1618995.0,1890.0,3,3,7646,B-,B+,C+,A-,B-,1918 Kilowatt Way 302 F2,Minji Lee,"Toll Brothers Real Estate,Inc.",2,3,1,2,0,3,13,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,625000.0,929.0,2,2,2952,B-,B+,C+,A-,B-,38627 Cherry Ln 100,Susan Tang,Excel Realty,2,3,1,2,3,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94536
+Fremont,76,Condo ,1226060.0,2241.0,3,4,5790,B-,B+,C+,A-,B-,47336 Royce Falls Terrace,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,1188925.0,2033.0,3,4,5615,B-,B+,C+,A-,B-,47436 Royce Falls Common,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,1223925.0,2301.0,3,4,5780,B-,B+,C+,A-,B-,47356 Royce Falls Terrace,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,House ,1874535.0,2172.0,3,4,8853,B-,B+,C+,A-,B-,47508 Curtain Falls Common,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,1223925.0,2242.0,3,4,5780,B-,B+,C+,A-,B-,47426 Mission Falls Lane,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,1188925.0,2033.0,3,4,5615,B-,B+,C+,A-,B-,47346 Royce Falls Terrace,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,House ,1791639.0,2029.0,3,4,8462,B-,B+,C+,A-,B-,350 Phantom Falls Common,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,1226060.0,2242.0,3,4,5790,B-,B+,C+,A-,B-,47366 Royce Falls Terrace,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,1223925.0,2301.0,3,4,5780,B-,B+,C+,A-,B-,47446 Royce Falls Common,Catmy Bui,Providential Investments,1,3,1,1,0,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94539
+Fremont,76,Condo ,634888.0,933.0,2,2,2998,B-,B+,C+,A-,B-,38228 Paseo Padre Pkwy 24,Sunil Sethi,Sunil Sethi Real Estate,2,2,1,1,3,2,3,Yes,Yes,Yes,Yes,Yes,No,CA,94536
+Fremont,76,Manufactured ,450000.0,2000.0,3,2,2125,B-,B+,C+,A-,B-,94 Delta Grn 94,The Jamison Team,Tuscana Properties,2,2,1,3,0,3,3,No,No,No,No,Yes,No,CA,94538
+Fremont,76,Condo ,1680000.0,2135.0,3,3,7934,B-,B+,C+,A-,B-,45249 Electric Ter 402,Jim Herking Song,First Metro Investments Inc,2,3,1,2,0,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94539
+Fremont,76,Manufactured ,150000.0,720.0,2,1,708,B-,B+,C+,A-,B-,4141 Deep Creek Road Unit 36,Sarah Wang,Coldwell Banker Realty,2,3,1,3,2,2,0,No,Yes,Yes,No,No,No,CA,94555
+Fremont,76,Condo ,1100000.0,1068.0,2,2,5195,B-,B+,C+,A-,B-,43674 Ellsworth Street Unit 2,Dan Suva,Coldwell Banker Realty,1,2,1,1,0,3,0,No,Yes,Yes,No,No,No,CA,94539
+Fremont,76,Condo ,590000.0,1125.0,2,2,2786,B-,B+,C+,A-,B-,3507 Buttonwood Ter 201,Khyati Karia,Coldwell Banker Realty,2,2,1,1,2,3,0,No,Yes,Yes,No,No,No,CA,94536
+Fremont,76,House ,1788888.0,1797.0,4,3,8449,B-,B+,C+,A-,B-,35561 Purcell Pl,Zeke Mujaddadi,Home Advantage Corp,2,3,1,2,3,3,5,No,Yes,Yes,Yes,Yes,No,CA,94536
+Union City,67,House ,1298000.0,1392.0,3,2,6130,C-,C+,C-,B-,C-,34841 Begonia St,Jim Her-King Song,First Metro Investments,2,3,1,2,4,3,2,No,No,No,No,Yes,No,CA,94587
+Union City,67,House ,1165000.0,2038.0,4,2,5502,C-,C+,C-,B-,C-,33229 4th Street,Armando Diaz,Soldavi Inc.,2,3,1,1,2,4,2,Yes,Yes,Yes,Yes,Yes,No,CA,94587
+Union City,67,House ,589888.0,903.0,2,1,2786,C-,C+,C-,B-,C-,2139 Eric Ct 2,Fiona Santos,Kinetic Real Estate,2,3,1,2,0,2,0,No,No,No,Yes,Yes,No,CA,94587
+Union City,67,House ,799888.0,720.0,2,1,3778,C-,C+,C-,B-,C-,33325 9th St,Monica Yeung,Just Global Inc.,2,3,1,1,3,2,0,No,No,No,No,No,No,CA,94587
+Union City,67,Condo ,529999.0,798.0,2,1,2503,C-,C+,C-,B-,C-,34725 Alvarado Niles Road 4,Julia Suu Thu,Your Family Realty Center,2,3,1,2,5,2,7,Yes,Yes,Yes,Yes,Yes,Yes,CA,94587
+Union City,67,House ,449000.0,590.0,1,1,2121,C-,C+,C-,B-,C-,2513 Copa Del Oro Dr 57,Bikram Singh,A to B Realty,2,3,1,2,3,3,0,No,No,No,Yes,No,No,CA,94587
+Union City,67,House ,498888.0,1005.0,2,1,2356,C-,C+,C-,B-,C-,2274 Eric Ct 4,Steve Loc Pham,"Tuscany Real Estate Services, Inc.",2,3,1,2,0,2,4,No,No,No,No,No,No,CA,94587
+Union City,67,House ,1499999.0,1944.0,4,3,7084,C-,C+,C-,B-,C-,405 Monaco Ave,Hamed Rasti,Guided Home Realty,2,3,1,1,3,3,9,No,Yes,Yes,Yes,Yes,Yes,CA,94587
+Union City,67,House ,950000.0,837.0,2,2,4487,C-,C+,C-,B-,C-,33955 Railroad Ave,Vaisham Chokshi,"eXp Realty of California, Inc",2,3,1,2,4,3,6,No,Yes,Yes,Yes,Yes,No,CA,94587
+Union City,67,Condo ,439000.0,688.0,2,1,2073,C-,C+,C-,B-,C-,117 Aurora Plaza,Clifford Andrade,Coldwell Banker Realty,2,3,1,2,3,3,0,No,Yes,Yes,No,No,No,CA,94587
+Union City,67,House ,495000.0,710.0,2,1,2338,C-,C+,C-,B-,C-,215 Galano Plz 94,Angelito Reyes,Real Estate Agent,2,3,1,1,3,2,6,No,No,No,Yes,Yes,No,CA,94587
+Hayward,63,House ,1098000.0,2086.0,4,2,5186,D-,C-,C-,D-,C+,1764 De Pina Lane,Sylvana Wong,Coldwell Banker Realty,2,2,1,2,1,4,0,Yes,Yes,Yes,No,No,No,CA,94545
+Hayward,63,House ,875000.0,1317.0,4,2,4132,D-,C-,C-,D-,C+,31964 Olean St,Ronaldo Garcia,Coldwell Banker Realty,2,3,1,1,1,2,0,Yes,Yes,Yes,No,No,No,CA,94544
+Hayward,63,House ,659000.0,768.0,2,1,3112,D-,C-,C-,D-,C+,24548 Margaret Drive,Marilu Ibarra,Referral City Realty,2,2,1,1,2,2,3,No,Yes,Yes,Yes,Yes,No,CA,94542
+Hayward,63,House ,1108000.0,2094.0,4,3,5233,D-,C-,C-,D-,C+,1756 De Pina Ln,Costa Vorrises,Century 21 Real Estate Alliance,2,2,1,2,1,3,10,No,No,No,No,Yes,No,CA,94545
+Hayward,63,House ,815000.0,1891.0,3,3,3849,D-,C-,C-,D-,C+,96 Orchard Cir,Will Ahmadi,Alliance Bay Realty,2,2,2,0,1,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94544
+Hayward,63,Condo ,629000.0,1232.0,3,2,2971,D-,C-,C-,D-,C+,21100 Gary Dr 112,Sue Fredrickson,Sereno,2,3,1,1,3,3,12,Yes,Yes,Yes,Yes,Yes,No,CA,94546
+Hayward,63,House ,1199999.0,2529.0,6,3,5667,D-,C-,C-,D-,C+,27490 Mangrove Rd,Kanwal Gill,Keller Williams Realty,2,2,2,1,0,3,1,Yes,Yes,Yes,Yes,Yes,No,CA,94544
+Hayward,63,House ,789888.0,1040.0,3,1,3731,D-,C-,C-,D-,C+,22070 Lucia St,Lauren Bell,Kinetic Real Estate,2,2,2,2,0,2,0,No,No,No,No,Yes,No,CA,94541
+Hayward,63,Condo ,745000.0,1700.0,2,2,3519,D-,C-,C-,D-,C+,22803 Paseo Pl,Percy Cheung,SMART CHOICE REALTY,2,2,1,1,2,3,7,Yes,Yes,Yes,Yes,Yes,Yes,CA,94541
+Hayward,63,House ,1098000.0,2276.0,4,3,5186,D-,C-,C-,D-,C+,23207 Ernest Ct,Kenneth Er,Compass,1,2,1,2,2,3,9,No,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,788000.0,1119.0,3,2,3722,D-,C-,C-,D-,C+,2065 Sarasota Ln,Bill Truong,Compass,2,3,2,2,0,2,3,No,Yes,Yes,Yes,Yes,No,CA,94545
+Hayward,63,House ,1288888.0,2577.0,4,3,6087,D-,C-,C-,D-,C+,2454 Hibiscus Dr,Bao Lu,ERS Premier,2,3,2,2,0,3,3,No,Yes,Yes,Yes,Yes,No,CA,94545
+Hayward,63,House ,789000.0,1046.0,3,2,3726,D-,C-,C-,D-,C+,26394 Underwood Ave,Anna Maria Valenzuela Valenzuela,KW Bay Area Estates,2,2,2,2,0,3,3,No,No,No,No,Yes,No,CA,94544
+Hayward,63,House ,850000.0,1256.0,3,2,4014,D-,C-,C-,D-,C+,28573 Coleridge Ave,Nick Khelawan,Prime Properties of Calif,2,3,2,1,0,3,2,No,Yes,Yes,Yes,Yes,No,CA,94544
+Hayward,63,House ,779000.0,1480.0,3,2,3679,D-,C-,C-,D-,C+,24853 Joanne St,Keller Williams ,Keller Williams,2,2,1,0,1,4,0,Yes,Yes,Yes,No,No,No,CA,94544
+Hayward,63,Townhouse ,699000.0,1620.0,3,3,3301,D-,C-,C-,D-,C+,1865 Marcus Court,Melody Yip,Compass,2,2,1,0,2,2,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94541
+Hayward,63,House ,828800.0,1078.0,3,2,3914,D-,C-,C-,D-,C+,592 Jilliene Way,Christopher Jaromay,HomeSmart ICARE Realty,2,2,1,1,1,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94544
+Hayward,63,House ,875000.0,1335.0,4,3,4132,D-,C-,C-,D-,C+,27374 Whitman St,Sanjiv Nayyar,Redfin,2,2,2,1,0,3,4,No,Yes,Yes,Yes,Yes,No,CA,94544
+Hayward,63,Manufactured ,225000.0,1440.0,2,2,1063,D-,C-,C-,D-,C+,29001 Mayfair Road,Jennifer Dabalos,PMZ Real Estate,2,3,2,3,0,4,4,Yes,Yes,Yes,No,Yes,No,CA,94544
+Hayward,63,House ,895000.0,2078.0,3,3,4227,D-,C-,C-,D-,C+,20958 Athens Ct,Carl Medford Team,Keller Williams Benchmark,2,3,1,1,2,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,900000.0,1468.0,2,2,4251,D-,C-,C-,D-,C+,21866 Prospect Street,Anna May,Golden Gate Sotheby's International Realty,2,2,1,1,1,3,0,Yes,Yes,Yes,No,No,No,CA,94541
+Hayward,63,House ,889000.0,1526.0,5,2,4199,D-,C-,C-,D-,C+,22867 Teakwood St,Weiqing Yan,Real Estate Ebroker Inc,2,2,2,1,0,3,5,No,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,Condo ,550000.0,906.0,2,2,2598,D-,C-,C-,D-,C+,715 Heath Court #190,Randall Cunningham,"Clifford R Stevens, Broker",2,2,2,0,1,1,0,Yes,Yes,Yes,No,Yes,No,CA,94544
+Hayward,63,Townhouse ,599000.0,1272.0,2,2,2829,D-,C-,C-,D-,C+,215 Poplar Avenue,Ying He,Jenny He Realty Associates,2,2,1,0,1,3,1,Yes,Yes,No,Yes,Yes,No,CA,94541
+Hayward,63,House ,828000.0,2043.0,4,4,3911,D-,C-,C-,D-,C+,76 Middleton Pl,Intero Real Estate Services ,Intero Real Estate Services,2,2,2,0,1,3,0,No,No,No,No,Yes,No,CA,94544
+Hayward,63,House ,888888.0,1284.0,3,2,4198,D-,C-,C-,D-,C+,1194 Highland Blvd,Bill Can!Trell,RealQuest Properties,2,2,1,1,1,3,6,No,Yes,Yes,Yes,Yes,No,CA,94542
+Hayward,63,Condo ,585000.0,1049.0,2,2,2763,D-,C-,C-,D-,C+,21228 Gary Dr Unit 420,Keller Williams ,Keller Williams,2,3,1,2,3,4,0,No,Yes,Yes,No,No,No,CA,94546
+Hayward,63,House ,1750000.0,2734.0,4,3,8265,D-,C-,C-,D-,C+,29752 Cantera Dr,Maryann Cruz,Better Homes and Gardens Real Estate Thrive,2,2,2,0,0,2,0,No,Yes,Yes,No,No,No,CA,94544
+Hayward,63,House ,865000.0,1480.0,3,2,4085,D-,C-,C-,D-,C+,1508 Grove Way,Pam Winterbauer,Pam Winterbauer Real Estate,2,3,1,1,3,3,5,No,Yes,Yes,Yes,Yes,No,CA,94546
+Hayward,63,House ,699000.0,1194.0,3,2,3301,D-,C-,C-,D-,C+,24540 Margaret Dr,Roger Gonzalez,"Cal Bay Realty, Inc.",2,2,1,1,2,2,3,No,Yes,Yes,Yes,Yes,No,CA,94542
+Hayward,63,House ,825000.0,1246.0,4,2,3896,D-,C-,C-,D-,C+,24660 Sylvan Glen Ct,Perry Vittoria,"Rinetti & Co., REALTORS?",2,2,1,0,2,2,6,No,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,995000.0,2240.0,5,4,4699,D-,C-,C-,D-,C+,2401 Depot Road,Bill Gallagher,BHHS Drysdale Properties,2,2,2,2,1,2,4,No,Yes,Yes,Yes,Yes,No,CA,94545
+Hayward,63,House ,849500.0,1823.0,3,3,4012,D-,C-,C-,D-,C+,26587 Mission Blvd,Charles Jacob,Compass,2,2,2,2,0,3,7,No,No,No,No,Yes,No,CA,94544
+Hayward,63,Townhouse ,768000.0,1434.0,3,3,3627,D-,C-,C-,D-,C+,688 Mesa Cir,James Chen,"JL Realty, Inc.",2,2,1,1,2,3,4,Yes,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,1398888.0,2020.0,4,3,6607,D-,C-,C-,D-,C+,25590 Spur Dr,Rohit K. Pathak,Compass,1,2,2,3,1,3,9,No,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,1399999.0,2650.0,5,3,6612,D-,C-,C-,D-,C+,27895 Adobe Ct,Savan Thakkar,Fohl Realty & Investments,1,2,1,1,0,3,7,No,Yes,Yes,Yes,Yes,No,CA,94542
+Hayward,63,House ,945000.0,1176.0,3,2,4463,D-,C-,C-,D-,C+,518 Banbury Street,Cecilia Wong,Century 21 Baldini Realty,2,2,2,3,0,3,1,Yes,Yes,No,Yes,Yes,No,CA,94544
+Hayward,63,House ,988000.0,1459.0,4,2,4666,D-,C-,C-,D-,C+,3287 Kelly St,Erin J. Gardere,Black Diamond Real Estate,1,2,1,1,2,2,7,No,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,Condo ,449000.0,725.0,2,2,2121,D-,C-,C-,D-,C+,325 Valle Vista Ave Unit 104,Jean Calbonero,Coldwell Banker Realty,2,2,2,0,1,2,0,No,Yes,Yes,No,No,No,CA,94544
+Hayward,63,House ,549000.0,904.0,2,1,2593,D-,C-,C-,D-,C+,22283 Hathaway Ave,Kevin Bui,eXp Realty of California,2,2,2,0,1,2,3,No,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,799000.0,1132.0,3,2,3774,D-,C-,C-,D-,C+,28188 Ormond Ave,William  C Tran,Elite Realty Services,2,3,2,2,0,3,7,No,No,No,No,Yes,No,CA,94544
+Hayward,63,House ,689888.0,1254.0,3,2,3258,D-,C-,C-,D-,C+,27452 Ponderosa Ct,Khalid Mahmud,eXp Realty of California Inc.,2,2,2,1,0,2,6,No,No,No,No,Yes,No,CA,94545
+Hayward,63,Manufactured ,294000.0,1260.0,2,2,1389,D-,C-,C-,D-,C+,1200 W Winton Ave 118,April Becerril,Compass,2,2,1,2,1,3,9,No,No,No,No,Yes,No,CA,94545
+Hayward,63,House ,869000.0,1088.0,3,2,4104,D-,C-,C-,D-,C+,1751 Santa Cruz Way,Peter Bide Liang,Compass,1,3,1,2,1,2,1,No,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,720000.0,938.0,2,1,3400,D-,C-,C-,D-,C+,378 Smalley Ave,Brandon Denman,"Denman Real Estate Group, Inc.",2,2,1,0,1,2,0,No,No,No,No,No,No,CA,94541
+Hayward,63,House ,720000.0,1097.0,2,1,3400,D-,C-,C-,D-,C+,372 Smalley Ave,Brandon Denman,"Denman Real Estate Group, Inc.",2,2,1,0,1,2,0,No,No,No,No,No,No,CA,94541
+Hayward,63,House ,1299000.0,2808.0,5,3,6135,D-,C-,C-,D-,C+,27001 Call Ave,Ann Beetham,Coldwell Banker Bartels-Realtors,2,2,2,2,0,4,1,Yes,Yes,Yes,No,No,No,CA,94542
+Hayward,63,House ,999000.0,2118.0,4,3,4718,D-,C-,C-,D-,C+,22425 Flagg St,Gagan Singh,Coldwell Banker Realty,2,2,1,0,1,3,0,Yes,Yes,Yes,No,No,No,CA,94541
+Hayward,63,House ,669000.0,1348.0,3,2,3160,D-,C-,C-,D-,C+,27950 Lancelot Ct,Hugo De Hoyos,Intero Real Estate Services,2,2,2,1,0,2,0,No,No,No,No,No,No,CA,94544
+Hayward,63,Condo ,680000.0,1713.0,3,3,3212,D-,C-,C-,D-,C+,26937 Hayward Blvd 331,Jon Cope,Real Estate Agent,2,2,2,2,0,2,0,Yes,Yes,Yes,Yes,Yes,No,CA,94542
+Hayward,63,House ,1699888.0,2100.0,4,2,8028,D-,C-,C-,D-,C+,2640 Randall Way,Carol Mauldin,Compass,2,2,1,2,2,2,5,No,No,No,No,Yes,No,CA,94541
+Hayward,63,Condo ,399999.0,910.0,2,2,1889,D-,C-,C-,D-,C+,27505 Tampa Avenue #39,Akshay Bhasin,Alliance Bay Realty,2,2,2,2,0,4,1,Yes,Yes,Yes,No,No,No,CA,94544
+Hayward,63,House ,825000.0,1350.0,3,3,3896,D-,C-,C-,D-,C+,24887 Limetree Pl,Thomas Connolly,Connolly Real Estate Team,2,2,1,1,1,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94544
+Hayward,63,House ,805000.0,1240.0,3,2,3802,D-,C-,C-,D-,C+,17112 Los Banos Street,Hai Nguyen,Golden Land Real Estate Invest,1,3,1,1,1,3,8,No,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,1350000.0,2618.0,5,3,6376,D-,C-,C-,D-,C+,21628 Vallejo St,Diana Tran,"CMB Realty and Mortgage, Inc.",2,2,1,1,1,3,2,No,No,No,No,Yes,No,CA,94541
+Hayward,63,House ,950000.0,1386.0,3,2,4487,D-,C-,C-,D-,C+,168 Laurel Ave,Simon Chan,Grobecker Holland Int'l,2,2,2,0,1,3,1,Yes,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,999000.0,1025.0,3,1,4718,D-,C-,C-,D-,C+,23022 Lilla Road,Kanwarbir Chima,Mountain Valley Properties,2,2,2,1,0,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,1299000.0,2743.0,7,4,6135,D-,C-,C-,D-,C+,1730 W Winton Ave,Tim Fiebig,"eXp Realty of California, Inc",2,2,1,2,1,3,6,No,Yes,Yes,Yes,Yes,No,CA,94545
+Hayward,63,House ,1199000.0,2500.0,5,3,5663,D-,C-,C-,D-,C+,1424 C Street,Warren Newsome,CENTURY 21 Real Estate Alliance,2,2,1,0,2,2,0,No,Yes,Yes,No,No,No,CA,94541
+Hayward,63,House ,725000.0,1514.0,2,1,3424,D-,C-,C-,D-,C+,23965 2nd St,Chris Hotaki,Compass,2,2,1,1,2,2,1,Yes,Yes,Yes,Yes,Yes,No,CA,94541
+Hayward,63,House ,499000.0,1014.0,2,2,2357,D-,C-,C-,D-,C+,25231 Whitman St 102,Laura Flores,Compass,2,2,2,2,1,2,4,No,No,No,No,Yes,No,CA,94544
+Hayward,63,Condo ,579000.0,1100.0,2,2,2735,D-,C-,C-,D-,C+,21103 Gary Dr 210A,Erik Johnson,Corcoran Global Living,2,3,1,2,3,2,0,No,Yes,Yes,No,No,No,CA,94546
+Castro Valley,74,Townhouse ,848000.0,1551.0,3,4,4005,B-,B-,D+,B+,A,3937 Forest Cir,Josephine Chu,JC Financial,1,2,1,0,3,3,7,Yes,Yes,Yes,Yes,Yes,Yes,CA,94546
+Castro Valley,74,House ,875000.0,1405.0,3,2,4132,B-,B-,D+,B+,A,19164 Garrison Ave,Gary Bernie,Compass,1,2,1,1,3,3,4,No,Yes,Yes,Yes,Yes,No,CA,94546
+Castro Valley,74,House ,1900000.0,1834.0,4,2,8973,B-,B-,D+,B+,A,5376 Greenridge Rd,Thomas Westfall,Compass,1,2,1,2,2,2,11,No,Yes,Yes,Yes,Yes,No,CA,94552
+Castro Valley,74,House ,749950.0,860.0,2,1,3542,B-,B-,D+,B+,A,18921 Patton Dr,Dave Farnsworth,Tri Valley Brokers,1,2,1,1,3,2,1,No,Yes,Yes,Yes,Yes,No,CA,94546
+Castro Valley,74,Townhouse ,729000.0,1168.0,2,2,3443,B-,B-,D+,B+,A,4165 Ravenwood Pl,Sergio Santillan,Flat Rate Realty,1,2,1,0,3,3,5,Yes,Yes,Yes,Yes,Yes,No,CA,94546
+Castro Valley,74,House ,949900.0,1708.0,3,2,4486,B-,B-,D+,B+,A,19123 Vaughn Ave,Raquel Zambrana-Ramirez,CENTURY 21 Real Estate Alliance,1,2,1,1,3,2,0,Yes,Yes,Yes,No,No,No,CA,94546
+Castro Valley,74,House ,1999000.0,2865.0,5,4,9441,B-,B-,D+,B+,A,4859 Roberts Ct,Sanjiv Nayyar,Redfin,1,2,1,1,2,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94552
+Castro Valley,74,House ,1399000.0,1940.0,4,2,6607,B-,B-,D+,B+,A,22818 Princeton Pl,Aimee Ran Song,Real Estate Agent,1,2,1,0,0,4,0,No,Yes,Yes,No,No,No,CA,94552
+Castro Valley,74,House ,1780000.0,2992.0,5,3,8407,B-,B-,D+,B+,A,25515 Crestfield Cir,Judy Grubb,Keller Williams Realty,1,2,1,1,1,3,12,Yes,Yes,Yes,Yes,Yes,No,CA,94552
+Castro Valley,74,House ,1349000.0,1886.0,3,3,6371,B-,B-,D+,B+,A,18856 Cameo Ct,Leslie Peterson,Evolve Real Estate,1,2,1,1,3,3,5,No,Yes,Yes,Yes,Yes,No,CA,94546
+Castro Valley,74,House ,1188888.0,2293.0,4,2,5615,B-,B-,D+,B+,A,17012 Robey Dr,Elle Xu,Alliance Bay Realty,1,3,1,1,2,3,10,No,Yes,Yes,Yes,Yes,No,CA,94546
+Castro Valley,74,House ,1289500.0,2018.0,4,2,6090,B-,B-,D+,B+,A,18342 Redwood Rd,Steve Mok,CORNERSTONE REALTY & MORTGAGE,1,2,1,2,3,3,9,No,Yes,Yes,Yes,Yes,No,CA,94546
+Berkeley,67,House ,1295000.0,2031.0,5,2,6116,F,B-,D,A,C+,2435 Martin Luther King Jr Way,Heidi Choi,Keller Williams Realty,2,3,2,0,5,3,7,No,Yes,Yes,Yes,Yes,No,CA,94704
+Berkeley,67,House ,1095000.0,1250.0,3,2,5172,F,B-,D,A,C+,1629 Tacoma Ave,Jackie Care,COMPASS,1,3,3,1,5,2,3,No,Yes,Yes,Yes,Yes,No,CA,94707
+Berkeley,67,House ,1695000.0,3022.0,6,4,8005,F,B-,D,A,C+,60 Panoramic Way,David Gunderman,Keller Williams Realty,1,3,2,0,5,3,9,No,Yes,Yes,Yes,Yes,No,CA,94704
+Berkeley,67,House ,1118000.0,1118.0,2,1,5280,F,B-,D,A,C+,1374 Delaware St,Pei Chun Chang,Redfin,2,3,2,0,5,3,7,No,Yes,Yes,Yes,Yes,No,CA,94702
+Berkeley,67,Condo ,549000.0,946.0,1,1,2593,F,B-,D,A,C+,933 Addison H,Katy Anderson,Real Estate Agent,2,3,2,0,5,3,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94710
+Berkeley,67,House ,965000.0,1145.0,2,1,4558,F,B-,D,A,C+,1401 Alcatraz Ave,Lee Goodwin,RED OAK REALTY,2,3,2,1,5,2,5,No,Yes,Yes,Yes,Yes,No,CA,94702
+Berkeley,67,House ,1295000.0,1526.0,3,2,6116,F,B-,D,A,C+,740 Keeler Ave,Carolyn Jones,THE GRUBB CO. INC.,1,3,3,0,5,3,8,No,Yes,Yes,Yes,Yes,No,CA,94708
+Berkeley,67,House ,2695000.0,3228.0,5,3,12728,F,B-,D,A,C+,33 Eucalyptus Rd,Anja Plowright,THE GRUBB CO. INC.,2,3,2,1,5,2,8,No,Yes,Yes,Yes,Yes,No,CA,94705
+Berkeley,67,House ,895000.0,1004.0,2,1,4227,F,B-,D,A,C+,940 Euclid Ave,David Ratoosh,RED OAK REALTY,1,3,3,0,5,2,4,No,Yes,Yes,Yes,Yes,No,CA,94708
+Berkeley,67,House ,1495000.0,1651.0,4,3,7061,F,B-,D,A,C+,1635 California St,Sheila Gallagher,COMPASS,2,3,2,0,5,2,6,No,Yes,Yes,Yes,Yes,No,CA,94703
+Berkeley,67,House ,1195000.0,1652.0,4,2,5644,F,B-,D,A,C+,1407 Hearst Ave,Howard Geller,Geller Realty & Property Manag,2,3,2,0,5,3,6,No,Yes,Yes,Yes,Yes,Yes,CA,94702
+Berkeley,67,House ,1095000.0,1088.0,2,1,5172,F,B-,D,A,C+,821 San Luis Rd,Kim Marienthal,Coldwell Banker Realty,1,3,3,0,5,3,0,No,Yes,Yes,No,No,No,CA,94707
+Berkeley,67,Condo ,878000.0,878.0,2,1,4147,F,B-,D,A,C+,2634 Virginia Street #23,Carol Angulo,Real Estate Agent,1,3,2,1,5,2,0,Yes,Yes,Yes,No,Yes,No,CA,94709
+Berkeley,67,House ,1250000.0,1607.0,3,3,5904,F,B-,D,A,C+,1510 Summit Rd,Leila Schlein,Compass,1,3,2,1,5,3,8,No,Yes,Yes,Yes,Yes,No,CA,94708
+Berkeley,67,House ,1465000.0,1355.0,4,2,6919,F,B-,D,A,C+,1515 Derby,Cheryl Patrick Williams,Patrick Williams & Associates,2,3,2,0,5,3,8,No,Yes,Yes,Yes,Yes,No,CA,94703
+Berkeley,67,House ,1195000.0,1141.0,3,2,5644,F,B-,D,A,C+,1462 Cornell Ave,Claudia Mills,Keller Williams Realty,2,3,2,1,5,2,9,No,Yes,Yes,Yes,Yes,No,CA,94702
+Berkeley,67,Condo ,798000.0,976.0,2,2,3769,F,B-,D,A,C+,3036 Fulton St Unit A A,Diana Yonkouski,BAY AREA PROPERTIES,2,3,2,0,5,2,5,Yes,Yes,Yes,Yes,Yes,Yes,CA,94705
+Berkeley,67,House ,899000.0,904.0,2,1,4246,F,B-,D,A,C+,832 Neilson St,Maria Cavallo-Merrion,Compass,1,3,3,1,5,2,9,No,Yes,Yes,Yes,Yes,No,CA,94707
+Berkeley,67,House ,1425000.0,1943.0,3,2,6730,F,B-,D,A,C+,157 Fairlawn Dr,Jose Fernandez,RED OAK REALTY,1,3,2,1,5,2,5,No,Yes,Yes,Yes,Yes,No,CA,94708
+Berkeley,67,House ,1450000.0,1960.0,3,3,6848,F,B-,D,A,C+,615 San Fernando Ave,Eugene Millstein,MILLSTEIN REAL ESTATE,1,3,3,0,5,2,6,No,Yes,Yes,Yes,Yes,No,CA,94707
+Berkeley,67,House ,1599999.0,1864.0,4,3,7557,F,B-,D,A,C+,1348 Francisco St,George Yin,Elite RE & Financial Group,2,3,2,0,5,3,2,No,Yes,Yes,Yes,Yes,No,CA,94702
+Berkeley,67,House ,1999000.0,1910.0,4,4,9441,F,B-,D,A,C+,1418 1418 #2 Northside Avenue,Ning Sha,Green Valley Realty,2,3,2,0,5,4,1,No,Yes,Yes,No,Yes,No,CA,94702
+Berkeley,67,Condo ,849000.0,944.0,2,1,4010,F,B-,D,A,C+,2028 Francisco St A,Emily Toti,Financial Strategies Group,1,3,2,1,5,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94709
+Berkeley,67,House ,2350000.0,2874.0,4,4,11099,F,B-,D,A,C+,1730 Martin Luther King Jr Way,Disen Cai Re Group,KW Peninsula Estates,2,3,2,0,5,2,6,No,No,No,No,No,No,CA,94709
+Berkeley,67,House ,2300000.0,2294.0,3,4,10863,F,B-,D,A,C+,632 Cragmont Avenue,Tiffany Kolahdooz,Golden Gate Sotheby's International Realty,1,3,3,0,5,3,2,Yes,Yes,Yes,No,No,No,CA,94708
+Berkeley,67,House ,1895000.0,3171.0,3,3,8950,F,B-,D,A,C+,2806 Ashby Avenue,Jenny Wang,Golden Gate Sotheby's International Realty,2,3,2,0,5,3,0,Yes,Yes,Yes,No,No,No,CA,94705
+Berkeley,67,House ,1650000.0,2924.0,5,4,7793,F,B-,D,A,C+,1105 High Court,Dubie Breen,Golden Gate Sotheby's International Realty,1,3,2,1,5,2,0,Yes,Yes,Yes,No,No,No,CA,94708
+Berkeley,67,House ,1625000.0,1856.0,3,3,7675,F,B-,D,A,C+,2726 Wallace Street,Brett Curtis,Worldwide Connect,2,3,2,0,5,3,3,No,Yes,Yes,No,Yes,No,CA,94702
+Berkeley,67,House ,995000.0,1137.0,3,2,4699,F,B-,D,A,C+,1529 Sacramento St,Sandra Patel-Hilferty,COMPASS,2,3,2,0,5,2,5,No,Yes,Yes,Yes,Yes,No,CA,94702
+Berkeley,67,House ,699000.0,1304.0,3,1,3301,F,B-,D,A,C+,1405 Harmon Street,William T. Booker,Golden Gate Sotheby's International Realty,2,3,2,1,5,3,0,Yes,Yes,Yes,No,No,No,CA,94702
+Berkeley,67,House ,1298000.0,1840.0,5,3,6130,F,B-,D,A,C+,1642 10th Street,Anthony Cassel,Golden Gate Sotheby's International Realty,2,3,2,1,5,3,2,Yes,Yes,Yes,No,No,No,CA,94710
+Berkeley,67,House ,1049000.0,1144.0,2,1,4954,F,B-,D,A,C+,1401 Cornell Avenue,Tracy Palma,Golden Gate Sotheby's International Realty,2,3,2,2,5,3,0,Yes,Yes,Yes,No,No,No,CA,94702
+Berkeley,67,House ,1595000.0,3086.0,4,2,7533,F,B-,D,A,C+,2945 Magnolia Street,Jenny Wang,Golden Gate Sotheby's International Realty,2,3,2,1,5,3,1,Yes,Yes,Yes,No,No,No,CA,94705
+Berkeley,67,House ,1899000.0,2888.0,6,3,8969,F,B-,D,A,C+,1260 Burnett St,Eileen Townsend,Compass,2,3,2,1,5,2,1,Yes,Yes,Yes,Yes,Yes,No,CA,94702
+Berkeley,67,Condo ,649000.0,773.0,1,2,3065,F,B-,D,A,C+,2747 San Pablo Ave 212,Laura Martell,WINKLER REAL ESTATE GROUP,2,3,2,0,5,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94702
+Berkeley,67,House ,890000.0,1015.0,1,1,4203,F,B-,D,A,C+,2310 Prince St 1,Vinh Dinh,"Novia Home, Inc",2,3,2,0,5,2,1,No,No,No,No,Yes,No,CA,94705
+Berkeley,67,House ,799500.0,665.0,1,1,3776,F,B-,D,A,C+,62 Arden Rd 2,Mike Masoumi,RE/MAX Santa Clara Valley,1,3,2,0,5,3,5,No,No,No,No,Yes,No,CA,94704
+Berkeley,67,House ,989999.0,1591.0,3,2,4676,F,B-,D,A,C+,978 Jones St,Viktor Manrique,Realty World Regency,2,3,2,1,5,2,2,No,Yes,Yes,Yes,Yes,No,CA,94710
+Berkeley,67,Condo ,1099000.0,1372.0,2,3,5190,F,B-,D,A,C+,2747 San Pablo Ave 208,Garrett Frakes,THE POLARIS PACIFIC,2,3,2,0,5,3,6,Yes,Yes,Yes,Yes,No,No,CA,94702
+Berkeley,67,Condo ,379000.0,350.0,1,1,1790,F,B-,D,A,C+,3050 College Avenue Unit #4,Tomaj Trenda,Golden Gate Sotheby's International Realty,2,3,2,1,5,3,1,Yes,Yes,Yes,No,No,No,CA,94705
+Berkeley,67,Condo ,1219000.0,1582.0,3,3,5757,F,B-,D,A,C+,2747 San Pablo Ave 201,Garrett Frakes,THE POLARIS PACIFIC,2,3,2,0,5,3,6,Yes,Yes,Yes,Yes,No,No,CA,94702
+Berkeley,67,Condo ,799000.0,1130.0,1,1,3773,F,B-,D,A,C+,2747 San Pablo Ave LW1,Garrett Frakes,THE POLARIS PACIFIC,2,3,2,0,5,2,6,Yes,Yes,Yes,Yes,No,No,CA,94702
+Berkeley,67,House ,1999990.0,2066.0,3,2,9446,F,B-,D,A,C+,1009 Keith Avenue,Allen Gu,"California Sunshine Inv, Inc",1,3,2,0,5,1,0,No,Yes,Yes,No,Yes,No,CA,94708
+Oakland,53,House ,769000.0,1430.0,4,2,3632,F,D+,C-,D-,D-,1751 Auseon Ave,Maria Barrera,Community Realty & Investment,1,3,1,1,3,3,3,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,939000.0,1324.0,2,2,4435,F,D+,C-,D-,D-,1555 Lakeside Dr 61,Janette Licata,Corcoran Global Living,2,3,2,0,5,2,10,Yes,Yes,Yes,Yes,Yes,Yes,CA,94612
+Oakland,53,House ,845000.0,2190.0,4,4,3990,F,D+,C-,D-,D-,1015 107th Ave,Ben Dianda,Equidy,1,3,1,1,3,2,6,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,799000.0,1065.0,2,2,3774,F,D+,C-,D-,D-,1359 Excelsior Ave,Regina Jacobs,The GRUBB Company,2,3,2,1,5,2,5,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,Condo ,618000.0,1120.0,2,2,2919,F,D+,C-,D-,D-,801 Franklin Streeet 1201,Crystal Huang,Keller Williams Realty,2,3,2,2,5,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,539000.0,933.0,2,2,2546,F,D+,C-,D-,D-,1324 104th Ave,Hannah Kim,Compass,1,3,1,1,3,2,8,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,499000.0,773.0,1,1,2357,F,D+,C-,D-,D-,280 Caldecott Lane # 120,Ina Daniliuk,Compass,1,3,2,0,3,4,1,Yes,Yes,No,Yes,Yes,Yes,CA,94618
+Oakland,53,House ,550000.0,925.0,2,1,2598,F,D+,C-,D-,D-,2452 64th Ave,Nicole Norris,VENTURE ONE PROPERTY MANAGEMENT,1,3,2,1,1,2,2,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,699999.0,1381.0,2,2,3306,F,D+,C-,D-,D-,724 E 21st St,Stephanie Christmas,Keller Williams Realty,1,3,2,1,5,2,2,No,Yes,Yes,Yes,No,No,CA,94606
+Oakland,53,House ,649000.0,848.0,2,1,3065,F,D+,C-,D-,D-,4269 Knoll Avenue,William T. Booker,Golden Gate Sotheby's International Realty,1,3,2,1,0,3,0,Yes,Yes,Yes,No,No,No,CA,94619
+Oakland,53,House ,499000.0,1032.0,3,1,2357,F,D+,C-,D-,D-,2821 Bartlett St,Alexander Lam,Compass,1,3,2,0,0,3,0,No,No,No,No,No,No,CA,94602
+Oakland,53,House ,749000.0,1384.0,3,2,3537,F,D+,C-,D-,D-,1942 17th Ave,Tanja Odzak-Goppold Von Lobsdorf,eXp Realty of California,1,3,2,0,4,2,2,No,Yes,Yes,Yes,Yes,No,CA,94606
+Oakland,53,House ,1095000.0,2654.0,4,3,5172,F,D+,C-,D-,D-,3641 Dimond Avenue,David Gunderman,Keller Williams Realty,1,3,2,1,2,3,8,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,House ,1225000.0,2792.0,4,2,5785,F,D+,C-,D-,D-,3630 Victor Ave,Ruth Goldstone,RED OAK REALTY,1,3,2,1,0,3,7,No,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,House ,1295000.0,2111.0,4,3,6116,F,D+,C-,D-,D-,317 Capricorn Ave,Steven Michaelides,The GRUBB Company,1,3,2,3,4,2,5,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,1689000.0,3012.0,4,4,7977,F,D+,C-,D-,D-,1820 Melvin Rd,Regina Jacobs,The GRUBB Company,1,3,2,3,0,2,4,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,House ,849000.0,1613.0,3,3,4010,F,D+,C-,D-,D-,2808 Morcom Ave,Lisa Carnazzo,The GRUBB Company,1,3,2,1,0,3,8,No,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,Condo ,679000.0,1123.0,1,2,3207,F,D+,C-,D-,D-,201 4th St 301,Sheri Tejada,Compass,2,3,2,2,5,3,12,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,828000.0,2113.0,3,3,3911,F,D+,C-,D-,D-,2921 76th Ave,Gillian Leslie,RED OAK REALTY,1,2,1,1,3,2,5,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,2998000.0,3157.0,4,3,14159,F,D+,C-,D-,D-,6307 Wood Dr,David Eckert,Coldwell Banker Realty,1,3,2,3,2,3,0,Yes,Yes,Yes,No,No,No,CA,94611
+Oakland,53,House ,529000.0,1212.0,2,1,2498,F,D+,C-,D-,D-,7620 Holly St,So Hyun Park,WINKLER REAL ESTATE GROUP,1,3,1,1,1,2,1,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,899000.0,2037.0,3,4,4246,F,D+,C-,D-,D-,4671 Stauffer Place,Deidre Joyner,RED OAK REALTY,1,3,2,1,1,2,5,No,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,House ,679000.0,1403.0,2,2,3207,F,D+,C-,D-,D-,9526 Burr,Jeremy Davidson,Compass,1,2,1,2,3,3,3,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,Condo ,399000.0,509.0,1,1,1884,F,D+,C-,D-,D-,466 37th #6,Valerie Ruma,Compass,2,3,2,2,5,2,3,Yes,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,Townhouse ,569000.0,965.0,1,1,2687,F,D+,C-,D-,D-,5 Ambler Ln,Denis Neema,Compass,2,3,2,3,5,2,7,Yes,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,1195000.0,2006.0,3,2,5644,F,D+,C-,D-,D-,8 El Carmello Cir,Madeline Lilley,RED OAK REALTY,1,3,2,1,0,3,10,No,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,House ,1125000.0,1940.0,3,2,5313,F,D+,C-,D-,D-,1935 Oakview Dr,Tracy Lee Butler,Abio Properties,1,3,2,3,0,3,4,Yes,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,Condo ,999000.0,2074.0,3,3,4718,F,D+,C-,D-,D-,438 W Grand Ave 405,Jason Mitchell,Compass,2,3,2,0,5,3,7,Yes,Yes,Yes,Yes,Yes,No,CA,94612
+Oakland,53,Townhouse ,899000.0,1993.0,3,3,4246,F,D+,C-,D-,D-,2811 Regatta Dr,Connie Chung,COMPASS,1,3,2,2,1,2,7,Yes,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,House ,1095000.0,1694.0,3,2,5172,F,D+,C-,D-,D-,5837 Scarborough Drive,Joanna Hirsch,Compass,1,3,2,3,3,2,6,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,409000.0,541.0,1,1,1932,F,D+,C-,D-,D-,425 Orange 113,Bethe Vanier,Kim Cole Real Estate,2,3,2,1,5,2,9,Yes,Yes,Yes,Yes,Yes,Yes,CA,94610
+Oakland,53,Condo ,769000.0,1387.0,2,2,3632,F,D+,C-,D-,D-,1555 Lakeside Dr 184,Lucy Armentrout,Compass,2,3,2,0,5,2,8,Yes,Yes,Yes,Yes,No,No,CA,94612
+Oakland,53,House ,725000.0,798.0,2,2,3424,F,D+,C-,D-,D-,5612 Adeline St,Elic Suazo,RED OAK REALTY,2,3,2,2,5,3,6,No,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,649000.0,1580.0,3,2,3065,F,D+,C-,D-,D-,5615 Hilton St,Jun Li,Alliance Bay Realty,1,3,2,1,0,2,5,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,650000.0,1131.0,2,1,3070,F,D+,C-,D-,D-,4245 Masterson St,Amy Ruffin,BanCal Management Corp,1,3,2,0,0,2,7,No,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,House ,449000.0,817.0,2,1,2121,F,D+,C-,D-,D-,5750 Kingsley Cir,Lauren Quach,COMPASS,1,3,2,1,0,2,2,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,Condo ,349000.0,673.0,2,1,1648,F,D+,C-,D-,D-,1515 14th Ave 305,Justin Ma,Wah Hing Corp.,1,3,2,0,5,2,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94606
+Oakland,53,House ,399000.0,714.0,2,1,1884,F,D+,C-,D-,D-,5823 Kingsley Cir,Alonya Buford,Keller Williams Realty,1,3,2,1,0,2,1,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,788000.0,1217.0,3,2,3722,F,D+,C-,D-,D-,2119 19th Avenue,Bailey Cheung,Century 21 Realty Alliance Fine Homes and Estates,1,3,2,0,2,2,0,Yes,Yes,No,Yes,Yes,No,CA,94606
+Oakland,53,Condo ,278500.0,535.0,1,1,1315,F,D+,C-,D-,D-,989 Webster St 545,Catherine Lim,BayOne Realty,2,3,2,1,5,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,397500.0,835.0,3,1,1877,F,D+,C-,D-,D-,1292 79th Ave,Nelly Rickert,Exp Realty of California Inc.,1,3,1,0,1,2,3,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,849000.0,1638.0,4,2,4010,F,D+,C-,D-,D-,4876 Reinhardt Dr,Terry Anthony,Coldwell Banker Realty,1,3,2,0,0,4,0,No,Yes,Yes,No,No,No,CA,94619
+Oakland,53,House ,899000.0,1130.0,2,1,4246,F,D+,C-,D-,D-,4315 Whittle Ave,Angelito Raymundo,Compass,1,3,2,2,0,3,9,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,Townhouse ,875000.0,1636.0,3,3,4132,F,D+,C-,D-,D-,30 Chimney Rock,Linda Elkin,RED OAK REALTY,1,2,1,1,1,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,360000.0,654.0,2,1,1700,F,D+,C-,D-,D-,1292 62nd,Lisa Jones,SUBURBAN HOMES REALTY,1,3,2,0,0,3,1,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,998000.0,1748.0,3,2,4713,F,D+,C-,D-,D-,3068 Roxbury Ave,Michael Rickey,RICKEY REALTY PROPERTY MANAG.,1,3,1,1,3,2,4,Yes,Yes,Yes,Yes,Yes,Yes,CA,94605
+Oakland,53,House ,979000.0,1762.0,3,2,4624,F,D+,C-,D-,D-,1931 Magellan Dr,Sheril Madden,RED OAK REALTY,1,3,2,3,3,2,10,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,725000.0,1097.0,2,2,3424,F,D+,C-,D-,D-,4101 Howe St 102,Erin Chan-Adams,RED OAK REALTY,2,3,2,1,5,2,3,Yes,Yes,Yes,Yes,Yes,Yes,CA,94611
+Oakland,53,House ,1195000.0,1470.0,3,2,5644,F,D+,C-,D-,D-,6450 Raymond St,Carrie McAlister,Real Estate Agent,2,3,2,1,5,2,9,No,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,House ,895000.0,1260.0,2,2,4227,F,D+,C-,D-,D-,47 Evirel Pl,Patricia Ann Hylton,Perspective Real Estate,1,3,2,3,4,3,8,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,899000.0,1861.0,4,3,4246,F,D+,C-,D-,D-,6690 Outlook Ave,Ya Hsuan Yuan,eXp Realty of California,1,3,2,1,2,2,1,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,769000.0,1326.0,3,2,3632,F,D+,C-,D-,D-,2036 25th Ave,Thomas Wolf,Range Homes,1,3,2,0,3,3,9,No,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,Townhouse ,749000.0,1350.0,2,2,3537,F,D+,C-,D-,D-,30 Covent Ln,Karen Manuel,Compass,2,3,2,3,5,2,8,Yes,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,499000.0,1124.0,2,1,2357,F,D+,C-,D-,D-,7415 Holly St,Alma Wallace,Compass,1,3,1,1,2,2,4,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,749000.0,1167.0,2,2,3537,F,D+,C-,D-,D-,585 9th St 309,Forrest Gee,"FORREST GEE, BROKER",2,3,2,2,5,2,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94607
+Oakland,53,House ,600000.0,824.0,2,1,2834,F,D+,C-,D-,D-,7514 Halliday Avenue,Jordan Prewitt,Galster Real Estate Group,1,3,1,1,3,2,2,Yes,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,Townhouse ,998000.0,1955.0,4,4,4713,F,D+,C-,D-,D-,975 41st St 132,Jason Moon,Keller Williams Realty,2,3,2,2,5,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,1175000.0,2040.0,5,3,5549,F,D+,C-,D-,D-,70 Elysian Fields Dr,Steve Sorensen,Keller Williams Realty,1,2,1,2,4,3,2,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,1049000.0,1905.0,4,3,4954,F,D+,C-,D-,D-,3940 Malcolm Ave,Gaylen Roberts,Keller Williams Realty,1,2,1,2,3,2,12,No,Yes,Yes,Yes,Yes,Yes,CA,94605
+Oakland,53,House ,2195000.0,2741.0,4,3,10367,F,D+,C-,D-,D-,601 Walavista Ave,David Valdez,COMPASS,2,3,2,0,5,2,9,No,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,Condo ,518000.0,850.0,2,1,2446,F,D+,C-,D-,D-,9645 Thermal St,Helen J Da Silva,Corcoran Global Living,1,2,1,1,3,2,7,Yes,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,Condo ,530000.0,810.0,2,1,2503,F,D+,C-,D-,D-,9643 Thermal St,Helen J Da Silva,Corcoran Global Living,1,2,1,1,3,2,9,Yes,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,789000.0,1170.0,2,1,3726,F,D+,C-,D-,D-,5421 Fleming Avenue,Eric Ragunton Antolin,Keller Williams Realty,1,3,2,1,0,3,1,Yes,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,Condo ,475000.0,773.0,1,1,2243,F,D+,C-,D-,D-,260 Caldecott Ln 220,Anja Plowright,THE GRUBB CO. INC.,1,3,2,0,3,3,7,Yes,Yes,Yes,Yes,Yes,Yes,CA,94618
+Oakland,53,Condo ,499000.0,772.0,1,1,2357,F,D+,C-,D-,D-,94 Bayo Vista Ave 204,Nicole Platt,Abio Properties,2,3,2,0,5,2,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94611
+Oakland,53,House ,619000.0,1002.0,2,1,2923,F,D+,C-,D-,D-,2771 79th Ave,Solomon Bekkele,Coldwell Banker Bartels-Realtors,1,2,1,2,3,4,0,Yes,Yes,Yes,No,No,No,CA,94605
+Oakland,53,Condo ,618000.0,833.0,1,1,2919,F,D+,C-,D-,D-,1 Lakeside Dr 415,Rachel Sheftel,MARCUS REALTY,2,3,2,0,5,2,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94612
+Oakland,53,House ,759000.0,1624.0,3,3,3585,F,D+,C-,D-,D-,6226 Crown Ave,Leslie Bandy,RED OAK REALTY,1,3,2,3,4,2,0,No,Yes,Yes,Yes,No,No,CA,94611
+Oakland,53,House ,649000.0,1026.0,2,1,3065,F,D+,C-,D-,D-,2608 64th Ave,Sarah Marcus,Redfin,1,3,2,2,2,2,4,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,998000.0,1384.0,3,2,4713,F,D+,C-,D-,D-,3532 Kempton Way,Melody Hultgren,Nova Real Estate,2,3,2,1,5,3,2,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,1495000.0,1449.0,2,2,7061,F,D+,C-,D-,D-,5940 Miles Ave,Heidi Marchesotti,Corcoran Global Living,2,3,2,1,5,2,4,No,Yes,Yes,Yes,Yes,No,CA,94618
+Oakland,53,House ,2499000.0,3226.0,4,4,11802,F,D+,C-,D-,D-,4523 Howe St,Andrew Pitarre,Compass,2,3,2,2,4,3,11,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Townhouse ,1049000.0,1895.0,3,3,4954,F,D+,C-,D-,D-,63 Starview Dr,T. Jeffrey Robarts,The GRUBB Company,1,3,2,1,4,3,5,Yes,Yes,Yes,Yes,Yes,No,CA,94618
+Oakland,53,Condo ,596000.0,1283.0,3,2,2815,F,D+,C-,D-,D-,4426 Penniman Ave A,Mayling Trinh,Better Homes and Gardens Real Estate Reliance Partners,1,3,2,0,0,3,2,Yes,Yes,Yes,No,No,No,CA,94619
+Oakland,53,House ,995000.0,1283.0,2,2,4699,F,D+,C-,D-,D-,230 Duncan Way,David Higgins,Cush Real Estate,1,3,2,3,4,2,7,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,995000.0,1318.0,3,2,4699,F,D+,C-,D-,D-,3311 Florida St,Emanuel Sakkis,Dudum Real Estate Group,1,3,2,0,0,2,8,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,Condo ,549000.0,771.0,1,1,2593,F,D+,C-,D-,D-,585 9th St 505,Forrest Gee,"FORREST GEE, BROKER",2,3,2,2,5,2,9,Yes,Yes,Yes,Yes,Yes,Yes,CA,94607
+Oakland,53,House ,1199000.0,2410.0,2,2,5663,F,D+,C-,D-,D-,1436 Hampel St,Tanja Odzak-Goppold Von Lobsdorf,eXp Realty of California,2,3,2,1,3,2,6,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,House ,949000.0,1879.0,3,2,4482,F,D+,C-,D-,D-,6573 Chelton Dr,Sheila Johnson,COMPASS,1,3,2,3,5,3,11,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,476000.0,831.0,2,1,2248,F,D+,C-,D-,D-,4426 Penniman Ave B,Mayling Trinh,Better Homes and Gardens Real Estate Reliance Partners,1,3,2,0,0,3,2,Yes,Yes,Yes,No,No,No,CA,94619
+Oakland,53,Condo ,456000.0,755.0,2,1,2154,F,D+,C-,D-,D-,4426 Penniman Ave D,Mayling Trinh,Better Homes and Gardens Real Estate Reliance Partners,1,3,2,0,0,3,2,Yes,Yes,Yes,No,No,No,CA,94619
+Oakland,53,Condo ,356000.0,520.0,1,1,1681,F,D+,C-,D-,D-,4426 Penniman Ave C,Mayling Trinh,Better Homes and Gardens Real Estate Reliance Partners,1,3,2,0,0,3,2,Yes,Yes,Yes,No,No,No,CA,94619
+Oakland,53,House ,765000.0,768.0,2,1,3613,F,D+,C-,D-,D-,3715 Kansas St,Brittany Ng,Homestead Real Estate,1,3,2,0,0,3,1,No,No,No,No,Yes,No,CA,94619
+Oakland,53,House ,1095000.0,1419.0,3,2,5172,F,D+,C-,D-,D-,4157 Manila Ave,Maria Cavallo-Merrion,Compass,2,3,2,1,5,2,11,No,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,Condo ,575000.0,742.0,1,1,2716,F,D+,C-,D-,D-,500 Vernon St Unit 112,Nora Moakher,Coldwell Banker Realty,2,3,2,0,5,2,0,No,Yes,Yes,No,No,No,CA,94610
+Oakland,53,House ,1695000.0,2204.0,3,2,8005,F,D+,C-,D-,D-,377 63rd Street,Jenny Wang,Golden Gate Sotheby's International Realty,2,3,2,1,5,2,1,Yes,Yes,Yes,No,No,No,CA,94618
+Oakland,53,Condo ,728889.0,1136.0,2,2,3442,F,D+,C-,D-,D-,695 Mariposa Ave 303,Matthew Castillo,Keller Williams Realty,2,3,2,1,5,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94610
+Oakland,53,House ,995000.0,2518.0,4,3,4699,F,D+,C-,D-,D-,6470 Buena Ventura Ave,Brian Santilena,COMPASS,1,3,2,1,0,2,12,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,1795000.0,3425.0,4,4,8477,F,D+,C-,D-,D-,6194 Mazuela Dr,Christopher Clark,Real Estate Agent,1,3,2,3,3,2,12,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,649000.0,1608.0,3,2,3065,F,D+,C-,D-,D-,2138 Havenscourt Blvd,Chris A. Sabido,Coldwell Banker Realty,1,3,2,0,0,4,0,No,Yes,Yes,No,No,No,CA,94621
+Oakland,53,House ,899000.0,2643.0,3,3,4246,F,D+,C-,D-,D-,8435 Ney Ave,Michael Stephens,Corcoran Global Living,1,2,1,2,3,2,0,No,Yes,Yes,No,No,No,CA,94605
+Oakland,53,House ,749000.0,1393.0,3,2,3537,F,D+,C-,D-,D-,3221 Adeline Street,Jonas Osmond,Coldwell Banker Realty,2,3,2,2,5,3,0,No,Yes,Yes,No,No,No,CA,94608
+Oakland,53,House ,699000.0,1507.0,3,2,3301,F,D+,C-,D-,D-,1516 102nd Ave,Carlos Garcia,Coldwell Banker Realty,1,2,1,1,3,3,0,No,Yes,Yes,No,No,No,CA,94603
+Oakland,53,House ,599000.0,1104.0,3,2,2829,F,D+,C-,D-,D-,1918 88 Th Avenue,Stephen Webb,Keller Williams Realty,1,3,1,1,3,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,690000.0,732.0,1,1,3259,F,D+,C-,D-,D-,5737 Claremont Avenue,Monika Thomas,Engel & Voelkers San Francisco,2,3,2,1,5,4,2,Yes,No,No,Yes,No,No,CA,94618
+Oakland,53,Condo ,1088800.0,2052.0,1,2,5142,F,D+,C-,D-,D-,311 Oak 115,Kyung Sook Son,Unison Financial,2,3,2,1,5,3,7,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,1225000.0,2018.0,4,3,5785,F,D+,C-,D-,D-,6765 Banning Drive,Betty Rajabi,Golden Gate Sotheby's International Realty,1,3,2,3,4,4,1,Yes,Yes,Yes,No,No,No,CA,94611
+Oakland,53,House ,1195000.0,2365.0,4,2,5644,F,D+,C-,D-,D-,6706 Heartwood Dr,Nicole Wilhelm,Compass,1,3,2,3,5,2,6,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,799000.0,1562.0,3,2,3774,F,D+,C-,D-,D-,5627 Fleming,Ganice Morgan Austin,Compass,1,3,2,1,0,2,3,No,Yes,Yes,Yes,Yes,Yes,CA,94605
+Oakland,53,House ,998000.0,2154.0,3,2,4713,F,D+,C-,D-,D-,6970 Exeter Dr,Justine Francis,Keller Williams Realty,1,3,2,3,5,2,4,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,599000.0,823.0,1,1,2829,F,D+,C-,D-,D-,1755 Broadway 44,Mark Fleckles,Bay Area Modern Real Estate,2,3,2,0,5,2,5,Yes,Yes,Yes,Yes,Yes,Yes,CA,94612
+Oakland,53,House ,1295000.0,2835.0,3,3,6116,F,D+,C-,D-,D-,6239 Elderberry,Joanna Hirsch,Compass,1,3,2,3,5,2,13,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,580000.0,764.0,1,2,2739,F,D+,C-,D-,D-,3116 Adeline St 110,Nobu Ito,Keller Williams San Francisco,2,3,2,2,5,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,849000.0,1760.0,6,2,4010,F,D+,C-,D-,D-,669 33rd St,Claudia Scott,The GRUBB Company,2,3,2,3,5,2,4,No,Yes,Yes,Yes,No,No,CA,94609
+Oakland,53,House ,1045000.0,1661.0,3,2,4935,F,D+,C-,D-,D-,15 Buckley,Ed Kuo,The GRUBB Company,1,3,2,1,3,2,7,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,House ,1249000.0,2523.0,3,2,5899,F,D+,C-,D-,D-,21 Elston Court,Christian Downer,COMPASS,1,3,2,1,3,2,4,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,House ,999000.0,1531.0,3,2,4718,F,D+,C-,D-,D-,600 E 20th,Teri Lester,WINKLER REAL ESTATE GROUP,1,3,2,1,5,2,8,No,Yes,Yes,Yes,Yes,No,CA,94606
+Oakland,53,Condo ,1175000.0,1410.0,2,1,5549,F,D+,C-,D-,D-,200 Lakeside Drive 405,Sheila Sabine,The GRUBB Company,2,3,2,0,5,2,10,Yes,Yes,Yes,Yes,Yes,Yes,CA,94612
+Oakland,53,Condo ,768000.0,1802.0,3,3,3627,F,D+,C-,D-,D-,6228 Boulder Lane,Courtney Cohan,COMPASS,1,2,2,1,3,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,1095000.0,1739.0,4,2,5172,F,D+,C-,D-,D-,6463 Melville Dr,Rick Richetta,Compass,1,3,2,3,3,2,5,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,899000.0,1448.0,2,2,4246,F,D+,C-,D-,D-,1615 Broadway # 11,Stephanie Pascal,Nova Real Estate,2,3,2,0,5,1,4,Yes,No,No,Yes,Yes,Yes,CA,94612
+Oakland,53,Condo ,815000.0,1556.0,3,4,3849,F,D+,C-,D-,D-,1790 12th Street,Ric Rocchiccioli,Compass,2,3,2,3,5,1,1,Yes,Yes,No,Yes,Yes,No,CA,94607
+Oakland,53,House ,1675000.0,2725.0,4,4,7911,F,D+,C-,D-,D-,3850 Whittle Ave,Reva Tolbert,Coldwell Banker Realty,1,3,2,1,0,3,0,No,Yes,Yes,No,No,No,CA,94602
+Oakland,53,House ,1195000.0,1800.0,3,2,5644,F,D+,C-,D-,D-,5945 Sherwood Dr,Eileen Townsend,Compass,1,3,2,3,4,2,7,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,599000.0,1092.0,3,2,2829,F,D+,C-,D-,D-,2451 65th Ave,So Hyun Park,WINKLER REAL ESTATE GROUP,1,3,2,1,1,2,2,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,1699000.0,2317.0,4,2,8024,F,D+,C-,D-,D-,509 Aileen St,Desiree Bilich,Keller Williams Realty,2,3,2,1,5,2,6,No,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,House ,825000.0,953.0,2,1,3896,F,D+,C-,D-,D-,3622 Laurel Ave,Camellia Baray,Compass,1,3,2,0,0,2,5,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,House ,925000.0,1738.0,4,3,4369,F,D+,C-,D-,D-,253 Athol Ave,Julia Temple,Compass,2,3,2,1,5,2,6,No,Yes,Yes,Yes,Yes,No,CA,94606
+Oakland,53,House ,1098000.0,2822.0,5,3,5186,F,D+,C-,D-,D-,4722 Fair Ave,Aaron Baluyot,Redfin,1,3,2,0,0,2,3,No,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,House ,649000.0,1214.0,2,1,3065,F,D+,C-,D-,D-,1034 28th St,Kenneth Er,Compass,2,3,2,3,5,3,4,No,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,649000.0,1180.0,2,2,3065,F,D+,C-,D-,D-,9201 Castlewood St,Leslie Bandy,RED OAK REALTY,1,2,1,2,3,2,7,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,1295000.0,2742.0,6,3,6116,F,D+,C-,D-,D-,7100 Sunkist Dr,Devang Parikh,SOTHEBY'S INTERNATIONAL REALTY INC,1,2,1,1,3,3,8,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,Condo ,549000.0,1031.0,2,2,2593,F,D+,C-,D-,D-,3800 Maybelle Ave 16,Michele Senitzer,Compass,1,3,2,0,0,2,7,Yes,Yes,Yes,Yes,Yes,Yes,CA,94619
+Oakland,53,House ,1595000.0,3168.0,4,3,7533,F,D+,C-,D-,D-,16 Rydal Ct,Debbi Di Maggio,Corcoran Global Living,1,3,2,3,3,2,0,No,Yes,Yes,No,No,No,CA,94611
+Oakland,53,Townhouse ,898000.0,1636.0,3,3,4241,F,D+,C-,D-,D-,61 Thousand Oaks Street,Richard Sarro,Corcoran Global Living,1,2,1,1,3,2,0,Yes,Yes,Yes,No,No,No,CA,94605
+Oakland,53,Condo ,649000.0,1326.0,2,3,3065,F,D+,C-,D-,D-,3760 39th Ave D,Jennifer Hansen-Romero,WINKLER REAL ESTATE GROUP,1,3,2,0,0,3,7,Yes,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,Condo ,595000.0,797.0,1,1,2810,F,D+,C-,D-,D-,288 3rd St 307,Mike Yohay,Compass,2,3,2,2,5,3,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94607
+Oakland,53,Condo ,675000.0,739.0,1,1,3188,F,D+,C-,D-,D-,200 2nd Street # 511,Alden Wong,Compass,2,3,2,2,5,2,0,Yes,Yes,No,Yes,Yes,No,CA,94607
+Oakland,53,Condo ,800000.0,1652.0,3,4,3778,F,D+,C-,D-,D-,1754 12th Street,Katy Anderson,Real Estate Agent,2,3,2,3,5,3,9,Yes,Yes,Yes,Yes,Yes,Yes,CA,94607
+Oakland,53,House ,1190000.0,2344.0,4,2,5620,F,D+,C-,D-,D-,5728 Merriewood Drive,Mauricio Torres,"eXp Realty of California, Inc",1,3,2,3,4,2,9,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,650000.0,1486.0,3,2,3070,F,D+,C-,D-,D-,1251 62nd Avenue,Pmz Real Estate ,PMZ Real Estate,1,3,2,0,0,3,2,Yes,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,799000.0,1284.0,2,2,3774,F,D+,C-,D-,D-,3774 Ruby St,Kenneth Er,Compass,2,3,2,2,5,3,4,Yes,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,House ,499000.0,808.0,2,1,2357,F,D+,C-,D-,D-,7416 Spencer St,Jason Pugao,Keller Williams Tri-Valley,1,3,1,0,0,2,5,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,829000.0,1365.0,3,2,3915,F,D+,C-,D-,D-,3110 Magnolia St,Aaron Brown,Perspective Real Estate,2,3,2,2,5,3,3,No,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,1450000.0,1169.0,3,1,6848,F,D+,C-,D-,D-,6414 Mystic St,Anja Plowright,THE GRUBB CO. INC.,2,3,2,1,5,2,8,No,Yes,Yes,Yes,Yes,No,CA,94618
+Oakland,53,House ,825000.0,1592.0,4,2,3896,F,D+,C-,D-,D-,2020 45th Ave,Armando Ochoa,Exp Realty of California Inc.,1,3,2,2,0,3,1,No,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,Condo ,399000.0,637.0,1,1,1884,F,D+,C-,D-,D-,466 Crescent Street 210,Emma Morris,RED OAK REALTY,2,3,2,0,5,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,House ,1348000.0,1929.0,3,3,6366,F,D+,C-,D-,D-,6801 Armour Dr,Liat Bostick,The GRUBB Company,1,3,2,3,3,3,9,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,1185000.0,3252.0,4,3,5597,F,D+,C-,D-,D-,6449 Westover Dr,Jason Mitchell,Compass,1,3,2,3,4,3,3,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,1699000.0,2483.0,6,3,8024,F,D+,C-,D-,D-,408 48th St,Daniel Winkler,WINKLER REAL ESTATE GROUP,2,3,2,2,5,2,3,No,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,House ,699000.0,1579.0,3,1,3301,F,D+,C-,D-,D-,1906 105th Ave,Andrew Pitarre,Compass,1,2,1,1,3,2,8,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,399000.0,533.0,1,1,1884,F,D+,C-,D-,D-,989 Franklin Street 501,Francis M. Ho,F A S REALTY INC.,2,3,2,2,5,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,699888.0,1293.0,4,2,3305,F,D+,C-,D-,D-,3549 Custer St,Kelly Le,Jade Stone Assets Inc,1,3,2,1,0,2,4,No,Yes,Yes,No,Yes,No,CA,94601
+Oakland,53,House ,500000.0,1075.0,2,1,2361,F,D+,C-,D-,D-,1 Malta Ct,Raeesa Rasheed,Legacy Real Estate & Assoc.,1,3,1,1,1,2,2,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,749000.0,1373.0,3,2,3537,F,D+,C-,D-,D-,4200 Porter St,Charles Huang,Bay Home Investments&Loans,1,3,2,0,0,2,3,No,Yes,Yes,Yes,Yes,No,CA,94619
+Oakland,53,Condo ,525000.0,657.0,1,1,2479,F,D+,C-,D-,D-,311 Oak St 828,Gillian Perkins,Better Homes and Gardens Real Estate Reliance Partners,2,3,2,1,5,3,0,No,Yes,Yes,No,No,No,CA,94607
+Oakland,53,Condo ,670000.0,1597.0,3,3,3164,F,D+,C-,D-,D-,252 International Blvd 302,Davide Pio,BCRE,2,3,2,1,5,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94606
+Oakland,53,Condo ,650000.0,1594.0,3,3,3070,F,D+,C-,D-,D-,252 International Blvd 102,Davide Pio,BCRE,2,3,2,1,5,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94606
+Oakland,53,Condo ,619000.0,1133.0,2,2,2923,F,D+,C-,D-,D-,3090 Glascock St 101,Derek Wagley,Keller Williams Realty,1,3,2,2,0,2,9,Yes,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,House ,774000.0,1476.0,3,1,3655,F,D+,C-,D-,D-,3045 Seminary Ave,Ron Melvin,Keller Williams Realty,1,3,2,1,0,3,4,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,Condo ,649000.0,759.0,1,1,3065,F,D+,C-,D-,D-,4101 Howe St 208,"Platinum Group: Linda Williams, Elin Matter And Mona Berestka",Compass,2,3,2,1,5,2,8,Yes,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,1499000.0,2044.0,4,3,7080,F,D+,C-,D-,D-,692 57th St,Stanley Cornelius,SESSION REAL ESTATE,2,3,2,1,5,2,9,No,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,House ,849000.0,1839.0,3,2,4010,F,D+,C-,D-,D-,2968 Parker Ave,Chrissy Kim,Dolan Realty Company,1,2,1,2,3,2,3,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,650000.0,1014.0,3,2,3070,F,D+,C-,D-,D-,2356 106th Ave,Hector And  Ana Vasquez,Compass,1,2,1,2,3,3,3,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,998000.0,1383.0,4,2,4713,F,D+,C-,D-,D-,897 45th Street,Lejon Sewell,Platinum Group Advisers,2,3,2,2,5,3,6,No,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,Condo ,379000.0,554.0,1,1,1790,F,D+,C-,D-,D-,1428 Madison St 109,Julia Temple,Compass,2,3,2,0,5,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94612
+Oakland,53,House ,600000.0,1012.0,3,1,2834,F,D+,C-,D-,D-,2637 77th Ave,Perry Gastis,Bridges 8 Real Estate,1,3,1,1,3,3,1,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,Condo ,659000.0,1030.0,2,2,3112,F,D+,C-,D-,D-,1228 32nd Street,Debra Donovan,Park North Real Estate,2,3,2,2,5,2,1,Yes,Yes,No,Yes,Yes,Yes,CA,94608
+Oakland,53,House ,990000.0,996.0,3,1,4676,F,D+,C-,D-,D-,4057 Maple Ave,Simon Chan,Grobecker Holland Int'l,1,3,2,1,0,3,2,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,House ,795000.0,906.0,2,2,3755,F,D+,C-,D-,D-,6600 Sobrante Road,David Gunderman,Keller Williams Realty,1,3,2,3,3,2,9,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,895000.0,1223.0,2,2,4227,F,D+,C-,D-,D-,1555 Lakeside Drive Unit 110,Elana Bennett,Coldwell Banker Realty,2,3,2,0,5,3,0,No,Yes,Yes,No,No,No,CA,94612
+Oakland,53,House ,529000.0,965.0,2,2,2498,F,D+,C-,D-,D-,42 Hunter Ct,Anthony Carrasco,Century 21 R.E. Alliance,1,3,1,1,2,3,0,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,520000.0,830.0,1,1,2456,F,D+,C-,D-,D-,574 48th St 403,Laura Arechiga,THE GRUBB CO. INC.,2,3,2,2,5,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,House ,1899000.0,1744.0,3,3,8969,F,D+,C-,D-,D-,7287 Claremont Ave #2634,Veronica McInerney,Corcoran Global Living,2,3,2,0,5,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94705
+Oakland,53,House ,609000.0,993.0,2,1,2876,F,D+,C-,D-,D-,2306 109th Ave,Brandon Payton,Sereno,1,3,1,1,3,3,7,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,568000.0,1017.0,3,1,2683,F,D+,C-,D-,D-,9908 Saint Elmo Dr,Olania Sandez,Intero Real Estate Services,1,3,1,1,2,2,4,No,Yes,Yes,No,Yes,No,CA,94603
+Oakland,53,Condo ,699000.0,1038.0,2,2,3301,F,D+,C-,D-,D-,424 Staten Ave 201,Andrea Chopp,Redfin,2,3,2,0,5,3,5,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,House ,689000.0,1146.0,2,2,3254,F,D+,C-,D-,D-,2277 E 19th St,Ramsin Jacob,eXp Realty of California Inc.,1,3,2,0,3,2,0,No,No,No,No,No,No,CA,94606
+Oakland,53,Condo ,599000.0,930.0,1,1,2829,F,D+,C-,D-,D-,1018 4th Avenue # 101,Winnie Lai,Compass,2,3,2,0,5,1,0,Yes,Yes,No,Yes,Yes,Yes,CA,94606
+Oakland,53,House ,898000.0,2415.0,4,3,4241,F,D+,C-,D-,D-,6279 Rocky Point Ct,Royce Cablayan,Sereno,1,2,2,1,3,3,8,No,No,No,No,Yes,No,CA,94605
+Oakland,53,House ,599000.0,1013.0,3,1,2829,F,D+,C-,D-,D-,9771 Empire Rd,Daryll Canlas,"The Canlas Brothers, Inc",1,3,1,2,1,3,4,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,599000.0,1418.0,3,1,2829,F,D+,C-,D-,D-,8300 Iris St,Jon Foster,"eXp Realty of California, Inc",1,2,1,2,3,3,8,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,920000.0,1672.0,3,2,4345,F,D+,C-,D-,D-,6400 Mokelumne Ave,John O'Donnell,Lighthouse Realty,1,3,2,1,0,3,0,No,No,No,No,Yes,No,CA,94605
+Oakland,53,Condo ,719000.0,907.0,1,1,3396,F,D+,C-,D-,D-,228 2nd Street,Alden Wong,Compass,2,3,2,2,5,2,2,Yes,Yes,No,Yes,Yes,Yes,CA,94607
+Oakland,53,House ,749000.0,1457.0,3,2,3537,F,D+,C-,D-,D-,3119 35th Ave,Ton Dang,TD Real Estate,1,3,2,0,0,2,0,No,No,No,Yes,Yes,No,CA,94619
+Oakland,53,House ,1195000.0,2765.0,4,2,5644,F,D+,C-,D-,D-,4609 Park Boulevard,David Gunderman,Keller Williams Realty,1,3,2,2,2,2,9,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,Condo ,499000.0,854.0,2,1,2357,F,D+,C-,D-,D-,8009 Greednridge Dr 3,Gary Robinson,Coldwell Banker Realty,1,2,1,2,4,3,0,No,Yes,Yes,No,No,No,CA,94605
+Oakland,53,House ,1099000.0,2091.0,4,2,5190,F,D+,C-,D-,D-,2842 Magnolia St,Erica Marr,COMMUNITY REALTY & INVESTMENTS,2,3,2,3,5,3,4,No,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,599999.0,1506.0,3,2,2834,F,D+,C-,D-,D-,1505 Mitchell St,Behnaz Tehrani,Redfin,1,3,2,1,2,2,2,No,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,Condo ,785000.0,1311.0,2,2,3707,F,D+,C-,D-,D-,1555 Lakeside Dr 24,Tabia Berry,Corcoran Global Living,2,3,2,0,5,2,0,Yes,Yes,Yes,No,No,No,CA,94612
+Oakland,53,Condo ,789999.0,1104.0,1,1,3731,F,D+,C-,D-,D-,309 4th Street # 109,Fatemah Nikchehi,Own Real Estate,2,3,2,2,5,2,2,Yes,Yes,No,Yes,Yes,No,CA,94607
+Oakland,53,Condo ,615000.0,1481.0,3,3,2905,F,D+,C-,D-,D-,252 International Blvd 101,Davide Pio,BCRE,2,3,2,1,5,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94606
+Oakland,53,House ,1028888.0,2538.0,4,3,4859,F,D+,C-,D-,D-,2607 Oliver Ave,Joseph Yu,CalNest Financial & Realty,1,2,1,2,3,3,9,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,719000.0,1080.0,2,1,3396,F,D+,C-,D-,D-,3001 Millsbrae Avenue,Jenny Wang,Golden Gate Sotheby's International Realty,1,3,2,1,0,3,0,Yes,Yes,Yes,No,No,No,CA,94605
+Oakland,53,House ,844900.0,1153.0,3,2,3990,F,D+,C-,D-,D-,864 McElroy St,Aaron Baluyot,Redfin,2,3,2,3,5,3,4,No,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,738000.0,1111.0,3,1,3485,F,D+,C-,D-,D-,340 Foothill Blvd,Laura Wong,Formality Real Estate,2,3,2,1,5,2,8,No,Yes,Yes,Yes,Yes,No,CA,94606
+Oakland,53,House ,578888.0,1080.0,3,2,2734,F,D+,C-,D-,D-,7221 Ney Ave,Darryl Glass,Real Estate Agent,1,3,1,1,3,2,3,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,939000.0,1361.0,2,1,4435,F,D+,C-,D-,D-,535 Zorah Street,Tina Chen,Golden Gate Sotheby's International Realty,2,3,2,1,5,2,1,Yes,Yes,Yes,No,No,No,CA,94606
+Oakland,53,House ,789000.0,1199.0,3,2,3726,F,D+,C-,D-,D-,2439 68th Avenue,Sean Fruth,Golden Gate Sotheby's International Realty,1,3,2,1,1,4,2,Yes,Yes,Yes,No,No,No,CA,94605
+Oakland,53,Condo ,725000.0,898.0,1,1,3424,F,D+,C-,D-,D-,200 2nd St 304,Toni Hanna,Compass,2,3,2,2,5,3,5,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,Condo ,425000.0,792.0,2,2,2007,F,D+,C-,D-,D-,455 Crescent St 318,Ashley Sollars,Exp Realty of California Inc.,2,3,2,0,5,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,House ,749000.0,1002.0,2,1,3537,F,D+,C-,D-,D-,2950 Morcom Avenue,Anne McKereghan,Golden Gate Sotheby's International Realty,1,3,2,1,0,3,0,Yes,Yes,Yes,No,No,No,CA,94619
+Oakland,53,House ,725000.0,1060.0,2,2,3424,F,D+,C-,D-,D-,389 Belmont St 105,Cha Mi Kang,Compass,2,3,2,0,5,2,0,No,No,No,No,Yes,No,CA,94610
+Oakland,53,Condo ,499000.0,1378.0,1,1,2357,F,D+,C-,D-,D-,255 3rd St 210,Sarah Arnold,Keller Williams Realty,2,3,2,2,5,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,Condo ,849000.0,1062.0,2,2,4010,F,D+,C-,D-,D-,311 2nd Street 703,Liana Dickson,ZIP CODE EAST BAY,2,3,2,2,5,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,585000.0,1114.0,1,2,2763,F,D+,C-,D-,D-,1201 Pine St 140,Joe Knipp,GI Joe Homes Inc,2,3,2,3,4,2,6,No,No,No,No,Yes,No,CA,94607
+Oakland,53,Condo ,899000.0,1186.0,2,2,4246,F,D+,C-,D-,D-,311 Oak St PH7,Bach Nguyen,JACK LONDON SQUARE REALTY,2,3,2,1,5,3,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94607
+Oakland,53,Condo ,399000.0,618.0,1,1,1884,F,D+,C-,D-,D-,988 Franklin Street Unit 307,Janice Lee,Coldwell Banker Realty,2,3,2,1,5,3,0,No,Yes,Yes,No,No,No,CA,94607
+Oakland,53,Condo ,659000.0,860.0,1,1,3112,F,D+,C-,D-,D-,565 Bellevue Ave 704,Steve Kelley,WINKLER REAL ESTATE GROUP,2,3,2,0,5,2,11,Yes,Yes,Yes,Yes,Yes,Yes,CA,94610
+Oakland,53,Condo ,649000.0,1382.0,2,2,3065,F,D+,C-,D-,D-,1555 Lakeside 181,Azadeh Yazdi,The GRUBB Company,2,3,2,0,5,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94612
+Oakland,53,Condo ,499000.0,901.0,1,1,2357,F,D+,C-,D-,D-,4134 Manila,Kim Cole,Kim Cole Real Estate,2,3,2,1,5,2,3,Yes,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,House ,879950.0,1344.0,3,2,4156,F,D+,C-,D-,D-,3293 Blandon Rd,Steve Kendall,Security Pacific Real Estate,1,2,1,3,3,2,3,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,724888.0,1072.0,2,2,3424,F,D+,C-,D-,D-,10809 McIntyre St,Patty Cerrillo,Capital Estates Realty,1,2,1,1,3,2,0,No,No,No,No,No,No,CA,94605
+Oakland,53,Condo ,449000.0,659.0,1,1,2121,F,D+,C-,D-,D-,325 Lenox Ave 106,Stacey Isaacs,Compass,2,3,2,0,5,2,7,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,House ,499000.0,897.0,3,1,2357,F,D+,C-,D-,D-,9824 Lawlor St,Tina Harris,Better Homes Realty,1,2,1,1,3,2,1,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,599000.0,1093.0,3,2,2829,F,D+,C-,D-,D-,2116 Seminary,Eli Beyder,Compass,1,3,2,1,0,2,8,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,479000.0,665.0,1,1,2262,F,D+,C-,D-,D-,2005 Pleasant Valley Ave 117,John Woodley,"John Woodley, Broker",2,3,2,2,4,2,8,Yes,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,499000.0,900.0,2,1,2357,F,D+,C-,D-,D-,633 Valle Vista Ave 1,Logan Rose,Compass,2,3,2,0,5,3,1,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,Condo ,575000.0,720.0,1,1,2716,F,D+,C-,D-,D-,1 Kelton Ct 4J,Ellis Clark,Compass,2,3,2,1,5,2,3,Yes,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,549000.0,970.0,2,1,2593,F,D+,C-,D-,D-,288 Whitmore St 214,Anders Lee,United Brokers Real Estate,2,3,2,2,5,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,799000.0,849.0,2,1,3774,F,D+,C-,D-,D-,3411 Kansas Street,David Gunderman,Keller Williams Realty,1,3,2,0,0,3,8,No,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,Condo ,650000.0,861.0,2,2,3070,F,D+,C-,D-,D-,655 12th St 319,Helen Kwong,RED OAK REALTY,2,3,2,3,5,2,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94607
+Oakland,53,Condo ,588000.0,1138.0,2,1,2777,F,D+,C-,D-,D-,193 Montecito Ave 104,Kevin Cunningham,RED OAK REALTY,2,3,2,1,5,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,House ,489000.0,817.0,2,2,2309,F,D+,C-,D-,D-,539 Douglas Ave,Howard Kees,"KEES REALTY, INC.",1,3,1,1,3,2,7,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,549000.0,880.0,2,1,2593,F,D+,C-,D-,D-,1308 62nd Ave,Erica Marr,COMMUNITY REALTY & INVESTMENTS,1,3,2,0,0,3,1,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,588000.0,1189.0,2,1,2777,F,D+,C-,D-,D-,1321 Seminary Ave,Jonathan Warlich,Keller Williams Tri-Valley,1,3,2,0,0,2,5,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,598000.0,1034.0,2,2,2824,F,D+,C-,D-,D-,385 Jayne Ave 112,Lee Goodwin,RED OAK REALTY,2,3,2,0,5,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,House ,648900.0,1527.0,1,2,3065,F,D+,C-,D-,D-,850 W Grand Ave 2,Brittany Ng,Homestead Real Estate,2,3,2,1,5,3,4,No,No,No,No,Yes,No,CA,94607
+Oakland,53,House ,459000.0,646.0,1,1,2168,F,D+,C-,D-,D-,2407 Telegraph Ave 312,Vince Ergas,Compass,2,3,2,1,5,2,0,No,No,No,No,No,No,CA,94612
+Oakland,53,House ,799900.0,1802.0,4,2,3778,F,D+,C-,D-,D-,8032 Hillside St,Brian Zhu,Cozy Home Real Estate,1,3,1,2,3,3,2,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,597000.0,1495.0,5,2,2820,F,D+,C-,D-,D-,314 Burlwood Ave,Ricky Chan,Keller Williams Tri-Valley,1,3,1,1,2,2,5,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,998000.0,1040.0,2,1,4713,F,D+,C-,D-,D-,868 40th,Maya Hiersoux,BHG RE Reliance Partners,2,3,2,2,5,2,7,Yes,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,1199900.0,2178.0,4,2,5667,F,D+,C-,D-,D-,2926 56th Ave,David Azimi,Intero Real Estate Services,1,3,2,1,0,3,4,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,1465000.0,1710.0,3,2,6919,F,D+,C-,D-,D-,690 58th St,Darryl Glass,Real Estate Agent,2,3,2,1,5,3,7,No,Yes,Yes,Yes,Yes,No,CA,94609
+Oakland,53,Condo ,599000.0,1019.0,2,2,2829,F,D+,C-,D-,D-,22 Moss Ave 204,Amanda Brunato,Compass,2,3,2,1,5,3,4,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,Condo ,685000.0,766.0,1,1,3235,F,D+,C-,D-,D-,222 Broadway 1009,Kim Cole,Kim Cole Real Estate,2,3,2,1,5,3,11,Yes,Yes,Yes,Yes,Yes,Yes,CA,94607
+Oakland,53,House ,935000.0,1487.0,3,3,4416,F,D+,C-,D-,D-,4227 Masterson St,Yi Mei Chen Liu,Real Estate Agent,1,3,2,0,0,2,10,No,Yes,Yes,No,Yes,No,CA,94619
+Oakland,53,Condo ,949000.0,1608.0,2,2,4482,F,D+,C-,D-,D-,177 19th Street 1D,Ann Lovi,COMPASS,2,3,2,0,5,2,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94612
+Oakland,53,Condo ,419000.0,668.0,1,1,1979,F,D+,C-,D-,D-,5 Embarcadero 137,Marlene Daniels,CALDECOTT PROPERTIES,2,3,2,1,5,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,698000.0,1333.0,5,3,3297,F,D+,C-,D-,D-,1993 38th Ave,Hector And  Ana Vasquez,Compass,1,3,2,1,0,2,2,No,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,House ,485000.0,667.0,1,1,2291,F,D+,C-,D-,D-,365 Perkins Street 305,Mansfield Kimbro,Better Homes and Gardens Real Estate Thrive,2,3,2,0,5,2,0,No,Yes,Yes,No,No,No,CA,94610
+Oakland,53,House ,649000.0,1343.0,2,1,3065,F,D+,C-,D-,D-,1632 68th Ave,David Newton,Coldwell Banker Realty,1,3,2,0,0,3,0,No,Yes,Yes,No,No,No,CA,94621
+Oakland,53,Condo ,639000.0,1031.0,2,2,3018,F,D+,C-,D-,D-,551 Jean St 314,Simone Koga,Compass,2,3,2,0,5,2,7,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,Condo ,798000.0,1027.0,2,2,3769,F,D+,C-,D-,D-,555 10th Street # 415,Wai Chen Cheung,"eXp Realty of California, Inc",2,3,2,2,5,3,0,Yes,Yes,No,Yes,Yes,No,CA,94607
+Oakland,53,Condo ,620000.0,835.0,1,1,2928,F,D+,C-,D-,D-,1 Lakeside Dr 506,Barry Pilger,STAFFORD REAL ESTATE,2,3,2,0,5,2,7,Yes,Yes,Yes,Yes,Yes,No,CA,94612
+Oakland,53,House ,625000.0,1502.0,4,2,2952,F,D+,C-,D-,D-,2419 Linden Street,Nicole Solari,Level Up Realty,2,3,2,2,5,3,0,No,Yes,Yes,No,Yes,No,CA,94607
+Oakland,53,Condo ,688888.0,1116.0,2,2,3254,F,D+,C-,D-,D-,303 Adams Street # 208,Malin Kansal,Vanguard Properties,2,3,2,1,5,2,5,Yes,Yes,No,Yes,Yes,No,CA,94610
+Oakland,53,House ,599000.0,1195.0,2,2,2829,F,D+,C-,D-,D-,22 Moss Ave 111,Mariaelena Diaz,eXp Realty of California Inc.,2,3,2,1,5,2,0,No,Yes,Yes,No,No,No,CA,94610
+Oakland,53,House ,550000.0,1574.0,3,2,2598,F,D+,C-,D-,D-,1157 71st Ave,Nicole Harden,Realm Real Estate,1,3,2,0,0,2,2,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,699950.0,1812.0,4,3,3306,F,D+,C-,D-,D-,1136 92nd Ave,Ron Davis,San Ramon Valley Inv.,1,3,1,0,3,2,2,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,475000.0,1192.0,2,1,2243,F,D+,C-,D-,D-,1121 104th Ave,Mason M Yanowitz,Real Estate Source Inc.,1,3,1,1,3,2,1,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,499000.0,780.0,2,1,2357,F,D+,C-,D-,D-,823 105th Ave,Thomas G. Nixon,eXp Realty of California Inc.,1,3,1,1,4,2,0,No,No,No,No,No,No,CA,94603
+Oakland,53,House ,550000.0,1000.0,3,1,2598,F,D+,C-,D-,D-,2416 94th Ave,Yongying Lin,BQ Group,1,2,1,1,3,3,4,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,1250000.0,2346.0,3,2,5904,F,D+,C-,D-,D-,164 Duncan Way,Steven Wiley,Bay Area Real Estate Group,1,3,2,3,4,2,2,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,695000.0,970.0,3,2,3282,F,D+,C-,D-,D-,1495 74th Ave,Howard Kees,"KEES REALTY, INC.",1,3,1,1,1,2,4,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,550000.0,900.0,3,2,2598,F,D+,C-,D-,D-,686 10th St 5,Heng Chieng,Intero Real Estate Services,2,3,2,2,5,3,4,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,898000.0,1050.0,3,1,4241,F,D+,C-,D-,D-,871 43rd Street,Anthony Cassel,Golden Gate Sotheby's International Realty,2,3,2,2,5,3,1,Yes,Yes,Yes,No,No,No,CA,94608
+Oakland,53,House ,479000.0,798.0,3,1,2262,F,D+,C-,D-,D-,1627 83rd Ave,Tina Harris,Better Homes Realty,1,3,1,1,3,3,1,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,759000.0,1148.0,2,2,3585,F,D+,C-,D-,D-,507 Wickson Avenue 102,Veronica Allen,Bay Cities Rlty & Home Loan,2,3,2,0,5,2,7,Yes,Yes,Yes,Yes,Yes,No,CA,94610
+Oakland,53,House ,750000.0,1735.0,4,2,3542,F,D+,C-,D-,D-,1721 73rd Ave,Phong Tran,VALVA REALTY COMPANY,1,3,1,1,1,3,4,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,499000.0,1066.0,2,1,2357,F,D+,C-,D-,D-,1637 100th Avenue,Yolanda Shuaibe,GLOBAL VILLAGE PROPERTIES & MANAGEMENT CO.,1,2,1,1,3,3,1,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,480000.0,945.0,3,2,2267,F,D+,C-,D-,D-,989 Webster St 541,Hui Kai Pi,Realty ONE Group Future,2,3,2,1,5,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,575000.0,1181.0,2,1,2716,F,D+,C-,D-,D-,6938 Lockwood Street,Sunny Lau,Century 21 Realty Alliance Fine Homes and Estates,1,3,2,2,1,2,1,Yes,No,No,Yes,No,No,CA,94621
+Oakland,53,House ,650000.0,1250.0,2,1,3070,F,D+,C-,D-,D-,1515 15th Avenue,Diana Delosrios,"Alta Realty Group Ca, Inc.",1,3,2,0,5,3,0,No,Yes,Yes,No,Yes,No,CA,94606
+Oakland,53,House ,1199000.0,1968.0,4,3,5663,F,D+,C-,D-,D-,4525 Sequoyah Road,Pamela K. Sweeney,Golden Gate Sotheby's International Realty,1,2,1,2,4,2,1,Yes,Yes,Yes,No,No,No,CA,94605
+Oakland,53,House ,1295000.0,1504.0,3,3,6116,F,D+,C-,D-,D-,6768 Manor Crest,Michael Thompson,Golden Gate Sotheby's International Realty,2,3,2,1,5,4,1,Yes,Yes,Yes,No,No,No,CA,94618
+Oakland,53,Condo ,448000.0,767.0,1,1,2116,F,D+,C-,D-,D-,1425 Lakeside Dr 306,Buffie Choi,Calnet Real Estate Solutions Inc,2,3,2,0,5,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94612
+Oakland,53,Townhouse ,1275000.0,1657.0,3,2,6022,F,D+,C-,D-,D-,1867 Grand View Drive,Fred Perkins,Golden Gate Sotheby's International Realty,1,3,2,1,3,3,0,Yes,Yes,Yes,No,No,No,CA,94618
+Oakland,53,House ,749000.0,1835.0,4,2,3537,F,D+,C-,D-,D-,2488 Mavis St,Conrad Bassett,Outsource Relocation Partners,1,3,2,1,0,2,3,No,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,House ,980000.0,1865.0,4,2,4628,F,D+,C-,D-,D-,3129 Madera Avenue,Elisa Uribe,Golden Gate Sotheby's International Realty,1,3,2,1,0,4,1,Yes,Yes,Yes,No,No,No,CA,94619
+Oakland,53,Condo ,558888.0,798.0,1,1,2640,F,D+,C-,D-,D-,585 9th St #631,Benjamin Pittenger,Real Estate Agent,2,3,2,2,5,1,1,Yes,Yes,Yes,No,Yes,No,CA,94607
+Oakland,53,Condo ,499950.0,773.0,1,1,2361,F,D+,C-,D-,D-,300 Caldecott Ln 107,Kristina Lum,SKYE Real Estate,1,3,2,1,3,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94618
+Oakland,53,Condo ,875000.0,1768.0,3,2,4132,F,D+,C-,D-,D-,2880 Helen Street,Christine Gallina,All East Bay Properties,2,3,2,2,5,2,2,Yes,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,559950.0,1013.0,2,1,2645,F,D+,C-,D-,D-,1725 102nd Ave,Lucy Corzantes,Sunshine Realty,1,2,1,1,3,3,1,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,979000.0,1460.0,1,1,4624,F,D+,C-,D-,D-,1095 59th Street 4,Patricia Rogers,COMPASS,2,3,2,3,5,2,8,Yes,Yes,Yes,Yes,Yes,No,CA,94608
+Oakland,53,House ,399000.0,622.0,1,1,1884,F,D+,C-,D-,D-,555 Jean St 523,Intero Real Estate Services ,Intero Real Estate Services,2,3,2,0,5,2,0,No,No,No,Yes,No,No,CA,94610
+Oakland,53,House ,879000.0,1987.0,4,3,4151,F,D+,C-,D-,D-,1 Twitter Court,Anne McKereghan,Golden Gate Sotheby's International Realty,1,3,2,1,0,3,0,Yes,Yes,Yes,No,No,No,CA,94619
+Oakland,53,Condo ,559000.0,1085.0,1,2,2640,F,D+,C-,D-,D-,386 Santa Clara Avenue # 201,Francine Bailey-Byrd,eXp Realty of California Inc.,2,3,2,0,5,4,1,Yes,Yes,Yes,Yes,Yes,Yes,CA,94610
+Oakland,53,Condo ,439000.0,843.0,2,1,2073,F,D+,C-,D-,D-,3489 Midvale Ave 5,Delores Dee Johnson,"Owens Real Estate, Inc.",1,3,2,0,0,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,Condo ,580000.0,1251.0,2,3,2739,F,D+,C-,D-,D-,815 Tubman Drive,Helen Zhou,Diamond Hills Realty,1,3,1,0,4,1,0,Yes,Yes,Yes,No,Yes,No,CA,94603
+Oakland,53,Condo ,615000.0,905.0,1,1,2905,F,D+,C-,D-,D-,1755 Broadway Street # 51,Anthony Lopez,CalPremiere Inc.,2,3,2,0,5,3,2,Yes,Yes,No,Yes,Yes,No,CA,94612
+Oakland,53,House ,949000.0,899.0,2,1,4482,F,D+,C-,D-,D-,409 Martin Luther King Jr Way,Adel Nahshal,Better Homes and Gardens Real Estate Reliance Partners,2,3,2,2,5,4,0,Yes,Yes,Yes,No,No,No,CA,94607
+Oakland,53,Townhouse ,479900.0,1255.0,2,2,2266,F,D+,C-,D-,D-,3610 Green Acre Road # 6,Anh Pham,SkyGroup Realty Inc.,1,3,2,0,0,3,2,Yes,No,No,Yes,Yes,No,CA,94619
+Oakland,53,Townhouse ,479900.0,1272.0,2,2,2266,F,D+,C-,D-,D-,3604 Green Acre Road # 3,Anh Pham,SkyGroup Realty Inc.,1,3,2,0,0,3,0,Yes,No,No,Yes,Yes,No,CA,94619
+Oakland,53,Condo ,595000.0,1082.0,2,2,2810,F,D+,C-,D-,D-,336 E 15th St 104,Vinny Manguyen,eXp Realty of California,2,3,2,1,5,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94606
+Oakland,53,House ,1399000.0,2493.0,4,2,6607,F,D+,C-,D-,D-,3785 Harrison St,David R. Valva,VALVA REALTY COMPANY,2,3,2,1,5,2,4,No,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,Condo ,635500.0,1246.0,2,2,3001,F,D+,C-,D-,D-,423 7th St 615,Ann Fok,PACIFIC SALES & MANAGEMENT,2,3,2,2,5,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,520000.0,922.0,2,1,2456,F,D+,C-,D-,D-,7826 Lockwood,Leah Fowler,Sterling Royal Real Estate,1,3,1,1,3,3,1,Yes,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,549900.0,900.0,2,1,2597,F,D+,C-,D-,D-,6243 Hilton St,Dan Thomas,DAY AND NIGHT REALTY,1,3,2,1,0,2,3,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,399999.0,1061.0,2,1,1889,F,D+,C-,D-,D-,1555 Mitchell St,Maureen Connor,Equity Capital Real Estate,1,3,2,0,2,2,1,No,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,House ,510000.0,1007.0,2,1,2409,F,D+,C-,D-,D-,3401 66th Avenue,Denise Parker,Berkshire Hathaway Drysdale Properties,1,3,2,1,2,3,2,Yes,No,No,Yes,Yes,No,CA,94605
+Oakland,53,House ,515000.0,727.0,2,1,2432,F,D+,C-,D-,D-,2679 75th Ave,Howard Kees,"KEES REALTY, INC.",1,3,1,1,3,2,5,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,599000.0,1134.0,3,2,2829,F,D+,C-,D-,D-,5955 Hayes Street,Craig Ackerman,Proof Real Estate,1,3,2,1,0,2,1,Yes,Yes,No,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,380000.0,476.0,1,1,1795,F,D+,C-,D-,D-,7 Embarcadero W #200,Aaron Pardo,eXp Realty of California Inc.,2,3,2,2,5,1,3,Yes,Yes,Yes,No,Yes,No,CA,94607
+Oakland,53,Condo ,409000.0,616.0,1,1,1932,F,D+,C-,D-,D-,155 Pearl Street #107,Anne McKereghan,Golden Gate Sotheby's International Realty,2,3,2,1,5,3,0,Yes,Yes,Yes,No,No,No,CA,94611
+Oakland,53,Condo ,699998.0,1200.0,2,2,3306,F,D+,C-,D-,D-,801 Franklin Street # 1231,Megginn Yuen,HPM Group,2,3,2,2,5,3,1,Yes,Yes,No,Yes,Yes,No,CA,94607
+Oakland,53,House ,569000.0,926.0,2,1,2687,F,D+,C-,D-,D-,1231 95th Ave,Eric Ma,Bay One Realty,1,3,1,0,3,3,0,No,No,No,No,No,No,CA,94603
+Oakland,53,House ,425000.0,620.0,1,1,2007,F,D+,C-,D-,D-,2501 76th Ave,Lin Mayr,PACIFIC STAR REALTY & MGMT,1,3,1,1,3,2,5,Yes,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,575000.0,1287.0,3,2,2716,F,D+,C-,D-,D-,6704 Eastlawn St,James Earl Garrett,BETTER HOMES REALTY/MCARTHR,1,3,2,0,0,3,1,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,825000.0,1608.0,2,2,3896,F,D+,C-,D-,D-,177 19th St 11C,Stephanie Christmas,Keller Williams Realty,2,3,2,0,5,2,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94612
+Oakland,53,Condo ,495000.0,641.0,1,1,2338,F,D+,C-,D-,D-,1 Lakeside Dr 618,Mason Ma,"MASON MA, BROKER",2,3,2,0,5,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94612
+Oakland,53,House ,618000.0,1165.0,4,2,2919,F,D+,C-,D-,D-,1257 95th Ave,Claudia Wales,Bay Area Realty Investments,1,3,1,0,3,3,0,No,No,No,No,No,No,CA,94603
+Oakland,53,Condo ,450000.0,767.0,1,1,2125,F,D+,C-,D-,D-,1425 Lakeside Dr 206,Lisa Mary Hedrick,Real Estate Agent,2,3,2,0,5,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94612
+Oakland,53,Condo ,575000.0,742.0,1,1,2716,F,D+,C-,D-,D-,630 Thomas L Berkley Way 516,Alice Chan,New Horizon Real Estate,2,3,2,0,5,2,13,Yes,Yes,Yes,Yes,Yes,No,CA,94612
+Oakland,53,House ,970000.0,1097.0,2,1,4581,F,D+,C-,D-,D-,125 Marlow,Robert Jones And Associates ,Robert Jones and Associates,1,3,1,1,3,2,1,Yes,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,560000.0,726.0,2,1,2645,F,D+,C-,D-,D-,1276 64th Ave,Margarita Williams,"Aldina Real Estate,Inc.",1,3,2,0,0,2,0,No,No,No,No,Yes,No,CA,94621
+Oakland,53,House ,605000.0,905.0,2,1,2857,F,D+,C-,D-,D-,2148 105th Ave,David Schubb,Compass,1,2,1,2,3,3,4,No,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,585000.0,879.0,2,2,2763,F,D+,C-,D-,D-,3460 Richmond Blvd,Michelle Mino,Margarita Mino Realty & Loans,2,3,2,1,5,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94611
+Oakland,53,House ,849000.0,1110.0,2,1,4010,F,D+,C-,D-,D-,3038 58th Ave,Deanna Orkin,Realty World Trademark Prop.,1,3,2,1,0,2,1,No,No,No,No,No,No,CA,94605
+Oakland,53,Condo ,570000.0,803.0,1,1,2692,F,D+,C-,D-,D-,590 El Dorado Ave 108,Zaida Patel,REALTY EXPERTS,2,3,2,1,5,2,3,Yes,Yes,Yes,Yes,Yes,Yes,CA,94611
+Oakland,53,Condo ,549000.0,849.0,1,1,2593,F,D+,C-,D-,D-,340 29th Avenue Unit 212,Anne McKereghan,Golden Gate Sotheby's International Realty,1,3,2,2,1,2,1,Yes,Yes,Yes,No,No,No,CA,94601
+Oakland,53,House ,740000.0,1934.0,5,3,3495,F,D+,C-,D-,D-,5415 5417 Ygnacio Avenue,Mimi Le,ML Realty & Mortgage,1,3,2,1,0,2,1,Yes,Yes,Yes,No,Yes,No,CA,94601
+Oakland,53,Condo ,365000.0,791.0,2,1,1724,F,D+,C-,D-,D-,1515 14th Ave 203,Erica Marr,COMMUNITY REALTY & INVESTMENTS,1,3,2,0,5,2,8,Yes,Yes,Yes,Yes,No,No,CA,94606
+Oakland,53,Condo ,449999.0,1116.0,2,1,2125,F,D+,C-,D-,D-,2868 38th Ave Unit 10,Jonathan Ahern,Coldwell Banker Realty,1,3,2,0,0,3,0,No,Yes,Yes,No,No,No,CA,94619
+Oakland,53,House ,425000.0,687.0,1,1,2007,F,D+,C-,D-,D-,385 Jayne Ave 111,Alexandra Degai,Garant Real Estate,2,3,2,0,5,2,2,No,No,No,Yes,Yes,No,CA,94610
+Oakland,53,House ,899000.0,1200.0,2,1,4246,F,D+,C-,D-,D-,2701 Maxwell,Charles Le,eXp Realty of California Inc.,1,3,2,1,0,2,1,Yes,Yes,Yes,Yes,Yes,Yes,CA,94619
+Oakland,53,House ,399000.0,850.0,2,1,1884,F,D+,C-,D-,D-,1532 5th St A,Christina Woo,Canopy Realty,2,3,2,2,5,3,2,No,No,No,No,Yes,No,CA,94607
+Oakland,53,House ,350000.0,860.0,2,1,1653,F,D+,C-,D-,D-,1174 77th Ave,Pamela Spivey,"eXp Realty of California, Inc",1,3,1,1,0,2,1,No,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,769000.0,1975.0,2,1,3632,F,D+,C-,D-,D-,530 East 8th Street # 203,Courtney Davis,Park North Real Estate,2,3,2,0,5,3,3,Yes,Yes,No,Yes,Yes,No,CA,94606
+Oakland,53,House ,949000.0,936.0,3,2,4482,F,D+,C-,D-,D-,3234 Delaware St,Felix Wong,Wisco Investments LLC,1,3,2,0,0,3,2,Yes,Yes,Yes,Yes,Yes,No,CA,94602
+Oakland,53,House ,995000.0,1539.0,3,3,4699,F,D+,C-,D-,D-,1218 105th Avenue,Salvador Martinez,360 Central Valley Realty,1,3,1,1,3,4,2,Yes,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,619000.0,1033.0,2,2,2923,F,D+,C-,D-,D-,77 Fairmount Ave 319,Daniel Winkler,WINKLER REAL ESTATE GROUP,2,3,2,1,5,2,5,Yes,Yes,Yes,Yes,Yes,Yes,CA,94611
+Oakland,53,House ,649000.0,1203.0,2,1,3065,F,D+,C-,D-,D-,6000 Morse Dr,Janet Halliburton,Century 21 Realty Alliance,1,3,2,1,1,2,4,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,750000.0,1654.0,4,2,3542,F,D+,C-,D-,D-,1839 9th Avenue,Michael Page,Group Capital Realty,1,3,2,0,5,1,0,Yes,Yes,Yes,No,No,No,CA,94606
+Oakland,53,House ,435000.0,776.0,2,1,2054,F,D+,C-,D-,D-,2610 67th Ave,James Earl Garrett,BETTER HOMES REALTY/MCARTHR,1,3,2,2,2,2,0,Yes,Yes,Yes,Yes,Yes,Yes,CA,94605
+Oakland,53,House ,560000.0,1177.0,3,2,2645,F,D+,C-,D-,D-,9322 Vista Court,Sharon Gill,Compass,1,2,1,1,3,2,6,Yes,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,449000.0,1006.0,1,1,2121,F,D+,C-,D-,D-,1920 Union St 9,Liz Rush,Keller Williams Realty,2,3,2,3,5,3,2,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,House ,1199999.0,1878.0,3,3,5667,F,D+,C-,D-,D-,938 Apgar St,Gemma Francisco,Real Estate Agent,2,3,2,2,5,2,0,No,No,No,No,Yes,No,CA,94608
+Oakland,53,Townhouse ,1095001.0,1484.0,3,4,5171,F,D+,C-,D-,D-,1048 62nd Street A,Daniel Winkler,WINKLER REAL ESTATE GROUP,2,3,2,2,5,2,5,Yes,Yes,Yes,No,Yes,No,CA,94608
+Oakland,53,House ,698999.0,1101.0,3,2,3301,F,D+,C-,D-,D-,1631 51st Ave,Sareth Sok,"Sareth Sok, Broker",1,3,2,1,0,2,2,Yes,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,Condo ,349000.0,618.0,1,1,1648,F,D+,C-,D-,D-,4142 Manila,Bethe Vanier,Kim Cole Real Estate,2,3,2,1,5,3,7,Yes,Yes,Yes,Yes,No,Yes,CA,94609
+Oakland,53,Condo ,537880.0,820.0,1,1,2540,F,D+,C-,D-,D-,340 29th Avenue Unit #209,Anne McKereghan,Golden Gate Sotheby's International Realty,1,3,2,2,1,3,1,Yes,Yes,Yes,No,No,No,CA,94601
+Oakland,53,Condo ,537880.0,820.0,1,1,2540,F,D+,C-,D-,D-,340 29th Ave 209,Anne McKereghan,Golden Gate Sotheby's Int'l,1,3,2,2,1,3,8,Yes,Yes,Yes,Yes,Yes,Yes,CA,94601
+Oakland,53,Condo ,675000.0,948.0,2,1,3188,F,D+,C-,D-,D-,244 Lakeside Drive Unit 1202,Elana Bennett,Coldwell Banker Realty,2,3,2,0,5,3,0,No,Yes,Yes,No,No,No,CA,94612
+Oakland,53,House ,799000.0,1063.0,2,1,3774,F,D+,C-,D-,D-,711 Brockhurst St,Willie Garner,Corcoran Global Living,2,3,2,3,5,2,0,No,Yes,Yes,No,No,No,CA,94609
+Oakland,53,Condo ,489900.0,885.0,2,2,2314,F,D+,C-,D-,D-,1584 Chandler Street,Christian Santos,Cornerstone Real Estate Invest,1,2,1,1,3,3,1,Yes,Yes,Yes,No,Yes,No,CA,94603
+Oakland,53,House ,1199900.0,1163.0,2,2,5667,F,D+,C-,D-,D-,2625 High St,Shunnae Johnson,Realty One Group Elite,1,3,2,0,0,3,3,No,Yes,Yes,No,Yes,No,CA,94619
+Oakland,53,House ,435000.0,862.0,3,1,2054,F,D+,C-,D-,D-,1277 76 Th Ave,Maria Kenyon,1st Capital,1,3,1,0,1,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,House ,355000.0,1013.0,3,1,1677,F,D+,C-,D-,D-,271 Fitzpatrick Road,Donna Vu,VU REALTY & FINANCIAL,1,3,1,2,1,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,Condo ,550000.0,860.0,2,2,2598,F,D+,C-,D-,D-,988 Franklin St 606,Eunice Edwards,United Brokers Real Estate,2,3,2,1,5,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94607
+Oakland,53,Condo ,482000.0,1445.0,3,2,2276,F,D+,C-,D-,D-,2470 26th Ave G,Andrew Lo,Excel Realty,1,3,2,0,0,2,4,Yes,Yes,Yes,Yes,Yes,No,CA,94601
+Oakland,53,House ,479990.0,1420.0,3,2,2267,F,D+,C-,D-,D-,951 88th Avenue,Ricardo Gil,Gil's Real Estate,1,3,1,1,3,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94621
+Oakland,53,Condo ,1425000.0,2903.0,4,3,6730,F,D+,C-,D-,D-,6787 Skyview Drive,Daisy Finazzo,Discovery Realty Inc.,1,2,1,1,3,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,600000.0,1746.0,3,2,2834,F,D+,C-,D-,D-,7039 Lacey Ave,Jesus Zazueta Peregrina,Alliance Bay Realty,1,3,1,1,3,2,0,No,No,No,No,No,No,CA,94605
+Oakland,53,House ,460000.0,1015.0,3,1,2173,F,D+,C-,D-,D-,721 Tyler St,Maria Valencia,All Homes Sold Realty Pros,1,3,1,1,4,3,2,Yes,Yes,Yes,Yes,Yes,No,CA,94603
+Oakland,53,House ,450000.0,861.0,2,1,2125,F,D+,C-,D-,D-,2525 Church St,Aziza McGlothen,LA BAY PROPERTIES,1,3,2,1,2,2,1,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,430000.0,910.0,2,1,2031,F,D+,C-,D-,D-,10751 Pearmain St,Leah Stapleton,CENTURY 21 Epic,1,3,1,1,3,2,0,No,Yes,Yes,No,No,No,CA,94603
+Oakland,53,House ,649000.0,1314.0,3,2,3065,F,D+,C-,D-,D-,7415 Fresno Street,Denise E. Smith,ROYAL REALTORS & LOAN SERVICES,1,3,1,1,3,2,1,No,Yes,Yes,Yes,Yes,No,CA,94605
+Oakland,53,House ,699000.0,1022.0,3,2,3301,F,D+,C-,D-,D-,4032 Quigley St,Phil Fair,Corcoran Global Living,1,3,2,0,0,2,0,No,Yes,Yes,No,No,No,CA,94619
+Oakland,53,House ,600000.0,1900.0,3,2,2834,F,D+,C-,D-,D-,927 Pine St,Leah Stapleton,CENTURY 21 Epic,2,3,2,3,5,2,0,No,Yes,Yes,No,No,No,CA,94607
+Pleasanton,83,Townhouse ,700000.0,1198.0,2,2,3306,A,A,C-,A,A,601 Palomino A,Sylvia Tian,Excel Realty,1,2,1,2,1,3,5,Yes,Yes,Yes,Yes,Yes,No,CA,94566
+Pleasanton,83,House ,1695000.0,1973.0,4,2,8005,A,A,C-,A,A,1138 Bordeaux St,Manoj Thomas,Cascade California Realty,0,2,1,3,1,3,8,No,Yes,Yes,Yes,Yes,No,CA,94566
+Pleasanton,83,Townhouse ,879000.0,1302.0,2,2,4151,A,A,C-,A,A,3097 Bolero Ct,Sunny Khatav,ValleyVentures Realty Inc,1,2,1,3,0,3,7,Yes,Yes,Yes,Yes,Yes,No,CA,94588
+Pleasanton,83,Townhouse ,999800.0,1224.0,3,2,4722,A,A,C-,A,A,1559 Calle Santiago,Min Xu,Valley Realty,1,2,1,3,1,3,3,Yes,Yes,Yes,Yes,Yes,No,CA,94566
+Pleasanton,83,House ,1998000.0,2240.0,3,2,9436,A,A,C-,A,A,860 Genevieve Pl,Jackie Byerly,Byerly Properties Inc.,1,2,1,2,1,3,4,No,Yes,Yes,Yes,Yes,No,CA,94566
+Pleasanton,83,Townhouse ,739900.0,1291.0,3,2,3494,A,A,C-,A,A,3618 Woodbine Way,Antonio Abad,"Realty Source, Incorporated",1,2,0,3,0,3,3,Yes,Yes,Yes,Yes,Yes,No,CA,94588
+Pleasanton,83,House ,998950.0,1003.0,2,1,4718,A,A,C-,A,A,2444 Heatherlark Cir,Lisa Sterling,Venture Sotheby's Intl Rlty,1,2,1,3,0,3,7,No,Yes,Yes,Yes,Yes,No,CA,94566
+Pleasanton,83,House ,1449000.0,1816.0,4,2,6843,A,A,C-,A,A,4097 Brooks Ct,Carl Medford Team,Keller Williams Benchmark,1,2,1,3,0,3,8,No,Yes,Yes,Yes,Yes,No,CA,94588
+Pleasanton,83,House ,899999.0,1502.0,2,3,4251,A,A,C-,A,A,7421 Stonedale Dr,Yvette Petersen,KW Santa Clara Valley Inc,1,2,1,3,0,3,8,No,No,No,Yes,Yes,No,CA,94588
+Pleasanton,83,House ,1169000.0,1368.0,4,2,5521,A,A,C-,A,A,4137 Cristobal Way,Timothy McGuire,Compass,1,2,1,3,1,3,3,No,Yes,Yes,Yes,Yes,No,CA,94566
+Pleasanton,83,House ,1399000.0,1265.0,3,2,6607,A,A,C-,A,A,560 E Angela St,Deanna Armario,Keller Williams Tri-Valley,1,2,1,1,1,3,6,No,Yes,Yes,Yes,Yes,No,CA,94566
+Pleasanton,83,House ,1150000.0,1345.0,2,2,5431,A,A,C-,A,A,1568 Oxsen St,Otto Catrina,Catrina R.E. & Investments,1,2,1,2,1,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94566
+Pleasanton,83,House ,1499000.0,1549.0,4,2,7080,A,A,C-,A,A,3411 Isle Royal Ct,Connie Marie Cox,Legacy Real Estate & Assoc.,1,2,1,3,0,3,4,No,Yes,Yes,Yes,Yes,No,CA,94588
+Pleasanton,83,Townhouse ,899000.0,1064.0,2,2,4246,A,A,C-,A,A,4091 Nice Ct,Varsha Upadhye,Coldwell Banker Realty,1,2,1,3,0,4,0,No,Yes,Yes,No,No,No,CA,94588
+Pleasanton,83,House ,1595000.0,2003.0,4,3,7533,A,A,C-,A,A,7677 Knollbrook Drive,Melissa Pederson,Venture Sotheby's International Realty,1,2,1,3,0,4,2,Yes,Yes,Yes,No,No,No,CA,94588
+Pleasanton,83,House ,1398000.0,1614.0,3,3,6603,A,A,C-,A,A,2706 Labecca Court,Norm Stanley,Golden Gate Sotheby's International Realty,1,2,1,3,0,3,2,Yes,Yes,Yes,No,No,No,CA,94588
+Pleasanton,83,House ,1199000.0,1421.0,2,2,5663,A,A,C-,A,A,5769 Northway Rd,The Jamison Team,Tuscana Properties,1,2,1,3,0,3,0,No,No,No,No,Yes,No,CA,94566
+Dublin,82,Townhouse ,824000.0,1346.0,2,3,3892,A-,A,C,B+,A+,6489 Sherwood Pl,Suzanne Rocha,Cal Home,1,2,0,3,0,3,5,Yes,Yes,Yes,Yes,Yes,No,CA,94568
+Dublin,82,House ,749000.0,963.0,2,2,3537,A-,A,C,B+,A+,11880 Pollardstown Ct,Josephine Uy Magat,Real Estate Agent,1,2,0,2,1,3,11,No,No,No,Yes,No,No,CA,94568
+Dublin,82,House ,999000.0,1270.0,3,2,4718,A-,A,C,B+,A+,6760 Poplar Way,Megan Zang,Compass,1,2,0,1,0,3,2,No,Yes,Yes,Yes,Yes,No,CA,94568
+Dublin,82,House ,2100000.0,2584.0,4,3,9918,A-,A,C,B+,A+,8091 Iglesia Dr,Michael Duggan,The Duggan Group,1,2,0,2,1,3,14,No,Yes,Yes,Yes,Yes,No,CA,94568
+Dublin,82,Condo ,1498000.0,2758.0,5,4,7075,A-,A,C,B+,A+,5457 Gracen Way,Carol Sawdey,BHHS Drysdale Properties,1,2,0,3,0,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94568
+Dublin,82,Townhouse ,949000.0,1817.0,3,3,4482,A-,A,C,B+,A+,6584 S Mariposa Ct,Joe Liao,J & A Realty,1,2,0,3,0,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94568
+Dublin,82,House ,1200000.0,1424.0,3,2,5667,A-,A,C,B+,A+,8730 Longford Way,Jane Cresswell,Realty World Pinnacle,1,2,0,3,1,3,5,No,Yes,Yes,Yes,Yes,No,CA,94568
+Dublin,82,House ,1499000.0,2424.0,4,4,7080,A-,A,C,B+,A+,5768 Huntley Ave,Aj Rana,Lemara Commercial,1,2,0,2,0,3,10,Yes,Yes,Yes,Yes,Yes,No,CA,94568
+Dublin,82,Condo ,998888.0,1521.0,2,3,4718,A-,A,C,B+,A+,7946 Regional Common,Dominic Ng,Legacy Real Estate & Assoc.,1,2,0,2,1,3,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94568
+Dublin,82,Condo ,1098888.0,1584.0,3,3,5190,A-,A,C,B+,A+,7951 Regional Common,Rachael Hand,Golden Gate Sotheby's International Realty,1,2,0,2,1,3,1,Yes,Yes,Yes,No,No,No,CA,94568
+San Ramon,85,House ,1499000.0,1715.0,3,3,7080,A+,A,C-,A+,A+,1034 Lakeridge Pl,Kristine Reyes,Bridges Real Estate,1,1,0,3,0,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,House ,1688000.0,2455.0,4,3,7972,A+,A,C-,A+,A+,2586 Shadow Mountain Dr,Tanya Jones,Compass,1,1,0,3,1,3,7,No,Yes,Yes,Yes,Yes,No,CA,94583
+San Ramon,85,Condo ,625000.0,914.0,2,2,2952,A+,A,C-,A+,A+,735 Watson Canyon Ct 120,Alan Chan,"Synergi Properties, LLC",0,1,0,3,1,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,House ,2248800.0,2967.0,4,4,10621,A+,A,C-,A+,A+,6116 Alpine Blue Dr,Jaya Joshi,Town Real Estate,0,1,0,2,0,3,10,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,House ,1750000.0,2486.0,5,3,8265,A+,A,C-,A+,A+,139 Metairie Pl,Khrista Jarvis,Coldwell Banker Realty,1,1,0,3,1,3,12,No,Yes,Yes,Yes,Yes,No,CA,94583
+San Ramon,85,House ,1899988.0,2785.0,5,3,8973,A+,A,C-,A+,A+,584 Santander Dr,Luana Pereira,Keller Williams Realty,1,1,0,3,1,3,11,Yes,Yes,Yes,Yes,Yes,Yes,CA,94583
+San Ramon,85,House ,2415000.0,2970.0,4,3,11406,A+,A,C-,A+,A+,115 Alisma Ct,Felicie Tsuruda,Compass,0,1,0,3,0,3,14,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,House ,2400000.0,2971.0,4,3,11335,A+,A,C-,A+,A+,4596 Sweetgale Dr,Kenny Kim,Compass,0,1,0,3,0,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,House ,1950000.0,3094.0,5,3,9210,A+,A,C-,A+,A+,12223 Santa Teresa Dr,Mark Lafferty,Keller Williams Tri-Valley,1,1,0,3,1,3,7,No,Yes,Yes,Yes,Yes,No,CA,94583
+San Ramon,85,Condo ,678000.0,914.0,2,2,3202,A+,A,C-,A+,A+,785 Watson Canyon Court # 146,Danielle Shen,Grand Realty Group,0,1,0,3,1,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,Condo ,618000.0,949.0,2,2,2919,A+,A,C-,A+,A+,285 Reflections Drive # 23,Danielle Shen,Grand Realty Group,1,1,0,3,1,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94583
+San Ramon,85,House ,1998000.0,2444.0,4,2,9436,A+,A,C-,A+,A+,440 Marble Canyon Ct,Paul Zuvella,Compass,1,1,0,3,0,3,9,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,House ,1499000.0,1520.0,4,2,7080,A+,A,C-,A+,A+,511 Marlboro Ct,Akiko Lewis,Compass,1,1,0,3,1,3,5,No,Yes,Yes,Yes,Yes,No,CA,94583
+San Ramon,85,House ,1649888.0,2183.0,3,3,7792,A+,A,C-,A+,A+,5035 Rowan Dr,Rob H. Bedi,Keller Williams Tri-Valley,0,1,0,2,0,3,14,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,House ,2250000.0,2776.0,4,3,10626,A+,A,C-,A+,A+,216 Lasso Circle,Melissa Geary,Geary Real Estate,1,1,0,3,1,3,13,Yes,Yes,Yes,Yes,Yes,Yes,CA,94583
+San Ramon,85,House ,1688000.0,2144.0,3,3,7972,A+,A,C-,A+,A+,2235 Magnolia Bridge Dr,Roger Prasad,RP Estates,0,1,0,3,0,3,10,Yes,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,House ,1898888.0,2363.0,4,3,8968,A+,A,C-,A+,A+,1745 Blakesley Dr,Rohit K. Pathak,Compass,1,1,0,2,0,3,9,No,Yes,Yes,Yes,Yes,No,CA,94582
+San Ramon,85,Townhouse ,680000.0,1064.0,2,2,3212,A+,A,C-,A+,A+,540 La Copita Ct,Jill Cherne,Keller Williams Realty,1,1,0,3,1,3,10,Yes,Yes,Yes,Yes,Yes,No,CA,94583
+San Ramon,85,Townhouse ,1149900.0,1587.0,3,3,5431,A+,A,C-,A+,A+,758 Galemeadow Circle,Lisa Doyle,Sereno,0,1,0,3,0,3,6,Yes,Yes,Yes,Yes,Yes,Yes,CA,94582
+San Ramon,85,Townhouse ,1399000.0,1900.0,3,3,6607,A+,A,C-,A+,A+,4057 W Lakeshore Dr,Tom Hart,BHHS Drysdale Properties,1,1,0,3,0,3,16,Yes,Yes,Yes,Yes,Yes,Yes,CA,94582
+San Ramon,85,House ,899000.0,1165.0,2,2,4246,A+,A,C-,A+,A+,6919 Wisteria Street,Iris Tran,Lyon RE Elk Grove,1,1,0,3,1,4,1,Yes,Yes,Yes,Yes,Yes,No,CA,94583
+San Ramon,85,Condo ,449000.0,474.0,1,1,2121,A+,A,C-,A+,A+,120 Reflections Dr Unit 22,Michael Kehrig,Coldwell Banker Realty,1,1,0,3,1,4,0,No,Yes,Yes,No,No,No,CA,94583
+San Ramon,85,House ,1325000.0,3367.0,5,3,6258,A+,A,C-,A+,A+,2978 Ascot Dr,Paul Zuvella,Better Homes and Gardens Real Estate Reliance Partners,1,1,0,3,1,2,0,No,Yes,Yes,No,No,No,CA,94583
+San Ramon,85,House ,1200000.0,2804.0,4,3,5667,A+,A,C-,A+,A+,5445 Canyon Crest Dr,Paul Zuvella,Better Homes and Gardens Real Estate Reliance Partners,1,1,0,3,0,2,0,No,Yes,Yes,No,No,No,CA,94582
+Danville,85,Townhouse ,820000.0,1358.0,3,2,3873,A+,A+,D,A+,A+,440 Sycamore Cir,Shawn Li,LCL Grand Corp.,0,1,0,3,0,3,8,Yes,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,House ,2650000.0,3141.0,4,3,12516,A+,A+,D,A+,A+,100 Julie Ct,Khrista Jarvis,Coldwell Banker Realty,0,1,0,3,0,3,12,Yes,Yes,Yes,Yes,Yes,No,CA,94506
+Danville,85,Townhouse ,1199000.0,1991.0,3,2,5663,A+,A+,D,A+,A+,3702 Silver Oak Pl,Michael Kehrig,Coldwell Banker Realty,1,1,0,3,0,4,0,No,Yes,Yes,No,No,No,CA,94506
+Danville,85,House ,1798000.0,2016.0,4,2,8492,A+,A+,D,A+,A+,225 Franciscan Dr,Mark Kennedy,The Agency,1,1,0,3,0,3,8,No,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,House ,1788000.0,2402.0,5,3,8444,A+,A+,D,A+,A+,54 Antelope Ct,Tom Kortizija,Compass,0,1,0,3,0,3,10,Yes,Yes,Yes,Yes,Yes,No,CA,94506
+Danville,85,House ,1499000.0,1894.0,4,2,7080,A+,A+,D,A+,A+,67 Calistoga Ct,Brady Hobby,"Hobby Associates, Inc",1,1,0,3,0,3,7,No,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,House ,1798000.0,3281.0,4,3,8492,A+,A+,D,A+,A+,604 Clear Lake St,Paul Zuvella,Compass,0,1,0,3,0,3,13,Yes,Yes,Yes,Yes,Yes,No,CA,94506
+Danville,85,House ,1679000.0,2131.0,3,2,7930,A+,A+,D,A+,A+,494 Freitas Rd,Oby Ali,Compass,0,1,0,3,0,3,15,Yes,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,House ,2298800.0,2963.0,4,3,10857,A+,A+,D,A+,A+,501 Garrigan Ct,Joujou Chawla,Compass,0,1,0,3,0,3,15,No,Yes,Yes,Yes,Yes,No,CA,94506
+Danville,85,House ,1798000.0,2456.0,4,3,8492,A+,A+,D,A+,A+,267 Jasmine Way,Debra Rebhahn,Compass,0,1,0,3,0,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94506
+Danville,85,Townhouse ,948950.0,1598.0,3,3,4482,A+,A+,D,A+,A+,503 Conejo Court,Rick Rodriguez,Core One Real Estate & Mgmt.,1,1,0,3,0,3,7,Yes,Yes,Yes,Yes,Yes,No,CA,94506
+Danville,85,Townhouse ,945000.0,1542.0,3,3,4463,A+,A+,D,A+,A+,126 Lawnview Cir,Jeff Bruno,Compass,1,1,0,3,0,3,6,Yes,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,House ,975000.0,1170.0,3,2,4605,A+,A+,D,A+,A+,27 Marques Court,Karyn Henson,ROCK & ASSOCIATES INC,1,1,0,3,0,3,1,Yes,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,House ,1599000.0,1626.0,3,2,7552,A+,A+,D,A+,A+,70 Saint Charles Court,Lesley Ramos,Compass,1,1,0,3,0,3,3,Yes,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,Townhouse ,1399950.0,1971.0,3,3,6612,A+,A+,D,A+,A+,215 Powhattan Ct,Jo Ann Luisi,Compass,1,1,0,3,0,3,10,Yes,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,House ,1624999.0,2137.0,4,3,7675,A+,A+,D,A+,A+,685 Saint George Road,Taylor Coyle,Golden Gate Sotheby's International Realty,1,1,0,3,0,3,2,Yes,Yes,Yes,No,No,No,CA,94526
+Danville,85,House ,2590000.0,2393.0,4,3,12232,A+,A+,D,A+,A+,56 Alexander Ln,Glen Landrum,The Agency,0,1,0,3,0,3,5,No,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,Condo ,1398000.0,1225.0,1,2,6603,A+,A+,D,A+,A+,111 W Prospect Ave 205,Kelly Marcotte,Compass,0,1,0,2,1,3,10,Yes,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,Condo ,790000.0,850.0,2,2,3731,A+,A+,D,A+,A+,3408 Fostoria Way 423,Jordan Mossa,Sereno,1,1,0,3,0,3,13,Yes,Yes,Yes,Yes,Yes,No,CA,94526
+Danville,85,Condo ,1500000.0,1306.0,2,2,7084,A+,A+,D,A+,A+,200 Railroad Ave 201,Lauren Holloway,Compass,0,1,0,2,1,3,5,Yes,Yes,Yes,Yes,Yes,Yes,CA,94526
